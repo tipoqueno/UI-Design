@@ -8,7 +8,7 @@
 - [Patterns](#patterns)
 
 
-# Theory
-# Research
-# Principles
-# Patterns
+## Theory
+## Research
+## Principles
+## Patterns
