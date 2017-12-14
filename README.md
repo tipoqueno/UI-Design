@@ -9,6 +9,10 @@
 
 
 ## Theory
+
+- [User Centered Design (UCD)](https://en.wikipedia.org/wiki/User-centered_design) - (User) Human-centred design is an approach to interactive system development that focuses specifically on making systems usable.
+
+
 ## Research
 ## Principles
 ## Patterns
