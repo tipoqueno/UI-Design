@@ -6,13 +6,20 @@
 - [Principles](#principles)
 - [Research](#research)
 - [Patterns](#patterns)
+- [Resources](#resources)
+    - [Libraries]
 
 
 ## Theory
 
 - [User Centered Design (UCD)](https://en.wikipedia.org/wiki/User-centered_design) - (User) Human-centred design is an approach to interactive system development that focuses specifically on making systems usable.
+- [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html)- User Interface (UI) Design focuses on anticipating what users might need...
 
+
+## Principles
+[Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter (Bokardo)
+[Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - Six principles (by Constantine/Lockwood)
 
 ## Research
-## Principles
 ## Patterns
+## Resources
