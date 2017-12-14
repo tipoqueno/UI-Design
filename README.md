@@ -17,8 +17,8 @@
 
 
 ## Principles
-[Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter (Bokardo)
-[Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - Six principles (by Constantine/Lockwood)
+- [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter (Bokardo)
+- [Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - Six principles (by Constantine/Lockwood)
 
 ## Research
 ## Patterns
