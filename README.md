@@ -2,7 +2,7 @@
 
 > A curated list of awesome things related to User Interface Design
 
-- [:scroll: Theory](#theory)
+- [:thinking_face: Learn](#learn)
     - [:blue_book: Books](#books)
     - [:memo: Articles](#articles)
 - [:point_right: Principles](#principles)
@@ -11,7 +11,7 @@
 - [:metal: Resources](#resources)
 
 
-## Theory
+## Learn
 
 ### Books
 
