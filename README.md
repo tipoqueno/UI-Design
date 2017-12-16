@@ -2,14 +2,14 @@
 
 > A curated list of awesome things related to User Interface Design
 
-- [:smiley: Learn](#learn)
-    - [:blue_book: Books](#books)
-    - [:memo: Articles](#articles)
-    - [:nerd_face: Courses](#courses)
-- [:point_right: Principles](#principles)
-- [:mag: Research](#research)
-- [:sparkles: Patterns](#patterns)
-- [:metal: Resources](#resources)
+- :smiley: [Learn](#learn)
+    - :blue_book: [Books](#books)
+    - :memo: [Articles](#articles)
+    - :nerd_face: [Courses](#courses)
+- :point_right: [Principles](#principles)
+- :mag: [Research](#research)
+- :sparkles: [Patterns](#patterns)
+- :metal: [Resources](#resources)
 
 
 ## Learn
