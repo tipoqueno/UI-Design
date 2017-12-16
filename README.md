@@ -15,7 +15,7 @@
 
 ### Books
 
-- :star: [Don't Make Me Think](https://www.goodreads.com/book/show/3368.Don_t_Make_Me_Think) - Steve Krug
+- :star: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/3368.Don_t_Make_Me_Think) - Steve Krug
 
 - [The Universal Principles of Design](http://universalprinciplesofdesign.com/) - William Lidwell, Kritina Holden, Jill Butler
 
