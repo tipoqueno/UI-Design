@@ -5,6 +5,7 @@
 - [:thinking_face: Learn](#learn)
     - [:blue_book: Books](#books)
     - [:memo: Articles](#articles)
+    - [:nerd_face: Courses](#courses)
 - [:point_right: Principles](#principles)
 - [:mag: Research](#research)
 - [:sparkles: Patterns](#patterns)
@@ -37,6 +38,10 @@
 - [User Centered Design (UCD)](https://en.wikipedia.org/wiki/User-centered_design) - (User) Human-centred design is an approach to interactive system development that focuses specifically on making systems usable.
 
 - [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html) - User Interface (UI) Design focuses on anticipating what users might need...
+
+### Courses
+
+- [User Interface Design Specialization / COURSERA](https://coursera.org/specializations/user-interface-design) - *FREE* Design Better User Interfaces. Learn to create effective and usable interfaces for a range of products and devices.
 
 
 ## Principles
