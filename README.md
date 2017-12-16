@@ -2,7 +2,7 @@
 
 > A curated list of awesome things related to User Interface Design
 
-- [:thinking_face: Learn](#learn)
+- [:smiley: Learn](#learn)
     - [:blue_book: Books](#books)
     - [:memo: Articles](#articles)
     - [:nerd_face: Courses](#courses)
@@ -41,7 +41,7 @@
 
 ### Courses
 
-- [User Interface Design Specialization / COURSERA](https://coursera.org/specializations/user-interface-design) - *FREE* Design Better User Interfaces. Learn to create effective and usable interfaces for a range of products and devices.
+- [User Interface Design Specialization / COURSERA](https://coursera.org/specializations/user-interface-design) - Design Better User Interfaces. Learn to create effective and usable interfaces for a range of products and devices. **FREE**
 
 
 ## Principles
