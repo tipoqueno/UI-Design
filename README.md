@@ -54,6 +54,8 @@
 
 - [Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - 6 principles (by Constantine/Lockwood)
 
+- [Classroom: Five Essential Principles of Interaction Design](http://tv.adobe.com/show/classroom-five-essential-principles-of-interaction-design/) - Interactive Experience Design Expert David Hogue focuses on five key principles of interaction designDavid Hogue
+
 
 ## Research
 
