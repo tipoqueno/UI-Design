@@ -74,6 +74,8 @@
 
 - [Freeui.design](https://freeui.design/) - Free UI Design for Designers
 
+- [UIGradients](https://uigradients.com/) - Beautiful colour gradients for design and code
+
 
 ## Inspiration
 
