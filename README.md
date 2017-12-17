@@ -48,15 +48,16 @@
 ### Courses
 
 - [User Interface Design Specialization / COURSERA](https://coursera.org/specializations/user-interface-design) - Design Better User Interfaces. Learn to create effective and usable interfaces for a range of products and devices. **FREE**
+- [Intro to the Design of Everyday Things / UDACITY](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) - This course provides a summary of key concepts from the first two chapters of The Design of Everyday Things by Don Norman. **FREE**
 
 
 ## Principles
 
 - :star: [Principles of User Interface Design](https://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter (Bokardo)
 
-- [Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - 6 principles (by Constantine/Lockwood)
+- [Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - 6 principles by Constantine/Lockwood
 
-- [Classroom: Five Essential Principles of Interaction Design](https://tv.adobe.com/show/classroom-five-essential-principles-of-interaction-design/) - Interactive Experience Design Expert David Hogue focuses on five key principles of interaction designDavid Hogue
+- [Classroom: Five Essential Principles of Interaction Design](https://tv.adobe.com/show/classroom-five-essential-principles-of-interaction-design/) - Interactive Experience Design Expert David Hogue focuses on five key principles of interaction design
 
 
 ## Research
