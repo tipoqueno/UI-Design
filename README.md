@@ -10,6 +10,7 @@
 - :mag: [Research](#research)
 - :sparkles: [Patterns](#patterns)
 - :metal: [Resources](#resources)
+- :zap: [Inspiration](#inspiration)
 
 
 ## Learn
@@ -72,3 +73,8 @@
 ## Resources
 
 - [Freeui.design](https://freeui.design/) - Free UI Design for Designers
+
+
+## Inspiration
+
+- [Ui Parade](http://www.uiparade.com/) - User Interface Design Inspiration
