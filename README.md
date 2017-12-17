@@ -31,7 +31,7 @@
 
 - [Designing Interfaces: Patterns for Effective Interaction Design](https://designinginterfaces.com/) - Jenifer Tidwell
 
-- [Microinteractions: Designing with Details](https://microinteractions.com/about-the-book/) - Dan Saffer
+- [Microinteractions: Designing with Details](http://microinteractions.com/about-the-book/) - Dan Saffer
 
 
 ### Articles
@@ -62,11 +62,11 @@
 
 ## Patterns
 
-- [UI Patterns.io](https://uipatterns.io/) - Explore & play with interactive UI design patterns and learn how to solve common UI problems.
+- [UI Patterns.io](http://uipatterns.io/) - Explore & play with interactive UI design patterns and learn how to solve common UI problems.
 
-- [UI-Patterns.com](https://ui-patterns.com/) - User Interface Design patterns are recurring solutions that solve common design problems.
+- [UI-Patterns.com](http://ui-patterns.com/) - User Interface Design patterns are recurring solutions that solve common design problems.
 
-- [Mobile Patterns](https://mobile-patterns.com/) - A library of iOS and Android screenshots for designers and developers to reference.
+- [Mobile Patterns](http://www.mobile-patterns.com/) - A library of iOS and Android screenshots for designers and developers to reference.
 
 - [Pttrns](https://pttrns.com/) - The mother of all design resources.
 
