@@ -1,4 +1,4 @@
-# Awesome UI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# Awesome UI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 > A curated list of awesome things related to User Interface Design
 
@@ -19,7 +19,7 @@
 
 - :star: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/3368.Don_t_Make_Me_Think) - Steve Krug
 
-- [The Universal Principles of Design](http://universalprinciplesofdesign.com/) - William Lidwell, Kritina Holden, Jill Butler
+- [The Universal Principles of Design](https://universalprinciplesofdesign.com/) - William Lidwell, Kritina Holden, Jill Butler
 
 - [Tog on Interface](https://www.goodreads.com/book/show/528786.Tog_on_Interface) - Bruce Tognazzini
 
@@ -29,9 +29,9 @@
 
 - [Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules](https://www.goodreads.com/book/show/8564020-designing-with-the-mind-in-mind?from_search=true) - Jeff Johnson
 
-- [Designing Interfaces: Patterns for Effective Interaction Design](http://designinginterfaces.com/) - Jenifer Tidwell
+- [Designing Interfaces: Patterns for Effective Interaction Design](https://designinginterfaces.com/) - Jenifer Tidwell
 
-- [Microinteractions: Designing with Details](http://microinteractions.com/about-the-book/) - Dan Saffer
+- [Microinteractions: Designing with Details](https://microinteractions.com/about-the-book/) - Dan Saffer
 
 
 ### Articles
@@ -50,11 +50,11 @@
 
 ## Principles
 
-- :star: [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter (Bokardo)
+- :star: [Principles of User Interface Design](https://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter (Bokardo)
 
 - [Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - 6 principles (by Constantine/Lockwood)
 
-- [Classroom: Five Essential Principles of Interaction Design](http://tv.adobe.com/show/classroom-five-essential-principles-of-interaction-design/) - Interactive Experience Design Expert David Hogue focuses on five key principles of interaction designDavid Hogue
+- [Classroom: Five Essential Principles of Interaction Design](https://tv.adobe.com/show/classroom-five-essential-principles-of-interaction-design/) - Interactive Experience Design Expert David Hogue focuses on five key principles of interaction designDavid Hogue
 
 
 ## Research
@@ -62,17 +62,17 @@
 
 ## Patterns
 
-- [UI Patterns.io](http://uipatterns.io/) - Explore & play with interactive UI design patterns and learn how to solve common UI problems.
+- [UI Patterns.io](https://uipatterns.io/) - Explore & play with interactive UI design patterns and learn how to solve common UI problems.
 
-- [UI-Patterns.com](http://ui-patterns.com/) - User Interface Design patterns are recurring solutions that solve common design problems.
+- [UI-Patterns.com](https://ui-patterns.com/) - User Interface Design patterns are recurring solutions that solve common design problems.
 
-- [Mobile Patterns](http://mobile-patterns.com/) - A library of iOS and Android screenshots for designers and developers to reference.
+- [Mobile Patterns](https://mobile-patterns.com/) - A library of iOS and Android screenshots for designers and developers to reference.
 
 - [Pttrns](https://pttrns.com/) - The mother of all design resources.
 
-- [Patterntap](http://patterntap.com/patterntap) - Interface patterns to inspire your next design project.
+- [Patterntap](https://patterntap.com/patterntap) - Interface patterns to inspire your next design project.
 
-- [UI Garage](http://uigarage.net/) - All the latest UI Design Inspiration and UI Patterns collected in one place.
+- [UI Garage](https://uigarage.net/) - All the latest UI Design Inspiration and UI Patterns collected in one place.
 
 
 ## Resources
@@ -84,6 +84,6 @@
 
 ## Inspiration
 
-- [Ui Parade](http://www.uiparade.com/) - User Interface Design Inspiration
+- [Ui Parade](https://www.uiparade.com/) - User Interface Design Inspiration
 
-- [CollectUI](http://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily
+- [CollectUI](https://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily
