@@ -62,9 +62,9 @@
 
 ## Patterns
 
-- [UI Patterns](http://uipatterns.io/) - Explore & play with interactive UI design patterns and learn how to solve common UI problems.
+- [UI Patterns.io](http://uipatterns.io/) - Explore & play with interactive UI design patterns and learn how to solve common UI problems.
 
-- [UI-Patterns](http://uipatterns.io/) - User Interface Design patterns are recurring solutions that solve common design problems.
+- [UI-Patterns.com](http://ui-patterns.com/) - User Interface Design patterns are recurring solutions that solve common design problems.
 
 - [Mobile Patterns](www.mobile-patterns.com/) - A library of iOS and Android screenshots for designers and developers to reference.
 
