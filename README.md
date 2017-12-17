@@ -66,7 +66,7 @@
 
 - [UI-Patterns.com](http://ui-patterns.com/) - User Interface Design patterns are recurring solutions that solve common design problems.
 
-- [Mobile Patterns](www.mobile-patterns.com/) - A library of iOS and Android screenshots for designers and developers to reference.
+- [Mobile Patterns](http://mobile-patterns.com/) - A library of iOS and Android screenshots for designers and developers to reference.
 
 - [Pttrns](https://pttrns.com/) - The mother of all design resources.
 
