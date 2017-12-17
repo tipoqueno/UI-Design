@@ -80,3 +80,5 @@
 ## Inspiration
 
 - [Ui Parade](http://www.uiparade.com/) - User Interface Design Inspiration
+
+- [CollectUI](http://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily
