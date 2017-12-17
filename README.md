@@ -19,6 +19,8 @@
 
 - :star: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/3368.Don_t_Make_Me_Think) - Steve Krug
 
+- :star: [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) - Donald A. Norman
+
 - [The Universal Principles of Design](https://universalprinciplesofdesign.com/) - William Lidwell, Kritina Holden, Jill Butler
 
 - [Tog on Interface](https://www.goodreads.com/book/show/528786.Tog_on_Interface) - Bruce Tognazzini
