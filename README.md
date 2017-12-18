@@ -10,7 +10,7 @@
 - :mag: [Research](#research)
 - :sparkles: [Patterns](#patterns)
 - :metal: [Resources](#resources)
-- :zap: [Inspiration](#inspiration)
+    - :zap: [Inspiration](#inspiration)
 
 
 ## Learn
@@ -86,7 +86,7 @@
 - [UIGradients](https://uigradients.com/) - Beautiful colour gradients for design and code
 
 
-## Inspiration
+### Inspiration
 
 - [Ui Parade](https://www.uiparade.com/) - User Interface Design Inspiration
 
