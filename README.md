@@ -48,6 +48,7 @@
 ### Courses
 
 - [User Interface Design Specialization / COURSERA](https://coursera.org/specializations/user-interface-design) - Design Better User Interfaces. Learn to create effective and usable interfaces for a range of products and devices. **FREE**
+
 - [Intro to the Design of Everyday Things / UDACITY](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) - This course provides a summary of key concepts from the first two chapters of The Design of Everyday Things by Don Norman. **FREE**
 
 
@@ -90,3 +91,7 @@
 - [Ui Parade](https://www.uiparade.com/) - User Interface Design Inspiration
 
 - [CollectUI](https://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily
+
+- [UI Movement](https://uimovement.com/) - UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs
+
+- [Inspiration UI](http://inspirationui.com/) - Inspiration UI  is a community that aims to provide the best design resources for those who create for the web
