@@ -66,6 +66,8 @@
 
 - [Material Design](https://material.io/) - Material Design is a unified system that combines theory, resources, and tools for crafting digital experiences, by Google
 
+- [Fluent Design System](https://fluent.microsoft.com/) - An eloquent design system for a complex world, by Microsoft
+
 
 ## Resources
 
