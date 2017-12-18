@@ -3,11 +3,11 @@
 > A curated list of awesome things related to User Interface Design
 
 - :smiley: [Learn](#learn)
-    - :blue_book: [Books](#books)
+    - :books: [Books](#books)
     - :memo: [Articles](#articles)
     - :nerd_face: [Courses](#courses)
+    - :blue_book: [Languages](#languages)
 - :point_right: [Principles](#principles)
-- :mag: [Research](#research)
 - :sparkles: [Patterns](#patterns)
 - :metal: [Resources](#resources)
     - :zap: [Inspiration](#inspiration)
@@ -59,9 +59,6 @@
 - [Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - 6 principles by Constantine/Lockwood
 
 - [Classroom: Five Essential Principles of Interaction Design](https://tv.adobe.com/show/classroom-five-essential-principles-of-interaction-design/) - Interactive Experience Design Expert David Hogue focuses on five key principles of interaction design
-
-
-## Research
 
 
 ## Patterns
