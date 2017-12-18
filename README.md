@@ -3,17 +3,27 @@
 > A curated list of awesome things related to User Interface Design
 
 - :smiley: [Learn](#learn)
+    - :point_right: [Principles](#principles)
     - :books: [Books](#books)
     - :memo: [Articles](#articles)
     - :nerd_face: [Courses](#courses)
     - :blue_book: [Languages](#languages)
-- :point_right: [Principles](#principles)
-- :sparkles: [Patterns](#patterns)
 - :metal: [Resources](#resources)
+    - :sparkles: [Patterns](#patterns)
     - :zap: [Inspiration](#inspiration)
 
 
 ## Learn
+
+
+### Principles
+
+- :star: [Principles of User Interface Design](https://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter (Bokardo)
+
+- [Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - 6 principles by Constantine/Lockwood
+
+- [Classroom: Five Essential Principles of Interaction Design](https://tv.adobe.com/show/classroom-five-essential-principles-of-interaction-design/) - Interactive Experience Design Expert David Hogue focuses on five key principles of interaction design
+
 
 ### Books
 
@@ -52,16 +62,12 @@
 - [Intro to the Design of Everyday Things / UDACITY](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) - This course provides a summary of key concepts from the first two chapters of The Design of Everyday Things by Don Norman. **FREE**
 
 
-## Principles
-
-- :star: [Principles of User Interface Design](https://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter (Bokardo)
-
-- [Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - 6 principles by Constantine/Lockwood
-
-- [Classroom: Five Essential Principles of Interaction Design](https://tv.adobe.com/show/classroom-five-essential-principles-of-interaction-design/) - Interactive Experience Design Expert David Hogue focuses on five key principles of interaction design
+### Languages
 
 
-## Patterns
+## Resources
+
+### Patterns
 
 - [UI Patterns.io](http://uipatterns.io/) - Explore & play with interactive UI design patterns and learn how to solve common UI problems.
 
@@ -76,13 +82,6 @@
 - [UI Garage](https://uigarage.net/) - All the latest UI Design Inspiration and UI Patterns collected in one place.
 
 
-## Resources
-
-- [Freeui.design](https://freeui.design/) - Free UI Design for Designers
-
-- [UIGradients](https://uigradients.com/) - Beautiful colour gradients for design and code
-
-
 ### Inspiration
 
 - [Ui Parade](https://www.uiparade.com/) - User Interface Design Inspiration
@@ -92,3 +91,10 @@
 - [UI Movement](https://uimovement.com/) - UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs
 
 - [Inspiration UI](http://inspirationui.com/) - Inspiration UI  is a community that aims to provide the best design resources for those who create for the web
+
+
+### Freebies
+
+- [Freeui.design](https://freeui.design/) - Free UI Design for Designers
+
+- [UIGradients](https://uigradients.com/) - Beautiful colour gradients for design and code
