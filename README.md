@@ -11,6 +11,7 @@
 - :metal: [Resources](#resources)
     - :sparkles: [Patterns](#patterns)
     - :zap: [Inspiration](#inspiration)
+    - :gift: [Freebies](#freebies)
 
 
 ## Learn
