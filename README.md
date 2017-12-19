@@ -23,6 +23,8 @@
 
 - [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) - They are called "heuristics" because they are broad rules of thumb and not specific usability guidelines, by Jakob Nielsen
 
+- [First Principles of Interaction Design (Revised & Expanded)](http://asktog.com/atc/principles-of-interaction-design/) - The following principles are fundamental to the design and implementation of effective interfaces, whether for traditional GUI environments, the web, mobile devices, wearables, or Internet-connected smart devices, by Bruce Tognazzini
+
 - [Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - 6 principles by Constantine/Lockwood
 
 - [Classroom: Five Essential Principles of Interaction Design](https://tv.adobe.com/show/classroom-five-essential-principles-of-interaction-design/) - Interactive Experience Design Expert David Hogue focuses on five key principles of interaction design
