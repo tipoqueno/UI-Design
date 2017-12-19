@@ -21,7 +21,7 @@
 
 - :star: [Principles of User Interface Design](https://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter (Bokardo)
 
-- [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) - They are called "heuristics" because they are broad rules of thumb and not specific usability guidelines.
+- [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) - They are called "heuristics" because they are broad rules of thumb and not specific usability guidelines, by Jakob Nielsen
 
 - [Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - 6 principles by Constantine/Lockwood
 
