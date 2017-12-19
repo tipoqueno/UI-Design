@@ -12,6 +12,7 @@
     - :sparkles: [Patterns](#patterns)
     - :zap: [Inspiration](#inspiration)
     - :gift: [Freebies](#freebies)
+    - :computer: [Libraries](#libraries)
 
 
 ## Learn
@@ -109,3 +110,8 @@
 - [Freeui.design](https://freeui.design/) - Free UI Design for Designers
 
 - [UIGradients](https://uigradients.com/) - Beautiful colour gradients for design and code
+
+
+### Libraries
+
+- [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web
