@@ -20,15 +20,15 @@
 
 ### Principles
 
-- :star: [Principles of User Interface Design](https://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter (Bokardo)
+- :star: [Principles of User Interface Design](https://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter.
 
-- [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) - They are called "heuristics" because they are broad rules of thumb and not specific usability guidelines, by Jakob Nielsen
+- [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) - They are called "heuristics" because they are broad rules of thumb and not specific usability guidelines, by Jakob Nielsen.
 
-- [First Principles of Interaction Design (Revised & Expanded)](http://asktog.com/atc/principles-of-interaction-design/) - The following principles are fundamental to the design and implementation of effective interfaces, whether for traditional GUI environments, the web, mobile devices, wearables, or Internet-connected smart devices, by Bruce Tognazzini
+- [First Principles of Interaction Design (Revised & Expanded)](http://asktog.com/atc/principles-of-interaction-design/) - The following principles are fundamental to the design and implementation of effective interfaces, whether for traditional GUI environments, the web, mobile devices, wearables, or Internet-connected smart devices, by Bruce Tognazzini.
 
-- [Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - 6 principles by Constantine/Lockwood
+- [Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - 6 principles by Constantine/Lockwood.
 
-- [Classroom: Five Essential Principles of Interaction Design](https://tv.adobe.com/show/classroom-five-essential-principles-of-interaction-design/) - Interactive Experience Design Expert David Hogue focuses on five key principles of interaction design
+- [Classroom: Five Essential Principles of Interaction Design](https://tv.adobe.com/show/classroom-five-essential-principles-of-interaction-design/) - Interactive Experience Design Expert David Hogue focuses on five key principles of interaction design.
 
 
 ### Books
@@ -56,9 +56,9 @@
 
 - [User Centered Design (UCD)](https://en.wikipedia.org/wiki/User-centered_design) - (User) Human-centred design is an approach to interactive system development that focuses specifically on making systems usable.
 
-- [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html) - User Interface (UI) Design focuses on anticipating what users might need...
+- [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html) - User Interface (UI) Design focuses on anticipating what users might need.
 
-- [How to Design Voice User Interfaces](https://www.interaction-design.org/literature/article/how-to-design-voice-user-interfaces) - Here, you will learn what the users expect from voice communication and get practical guidelines for how to design great voice user interfaces
+- [How to Design Voice User Interfaces](https://www.interaction-design.org/literature/article/how-to-design-voice-user-interfaces) - Here, you will learn what the users expect from voice communication and get practical guidelines for how to design great voice user interfaces.
 
 
 ### Courses
@@ -70,11 +70,11 @@
 
 ### Languages
 
-- [Material Design](https://material.io/) - Material Design is a unified system that combines theory, resources, and tools for crafting digital experiences, by Google
+- [Material Design](https://material.io/) - Material Design is a unified system that combines theory, resources, and tools for crafting digital experiences, by Google.
 
-- [Fluent Design System](https://fluent.microsoft.com/) - An eloquent design system for a complex world, by Microsoft
+- [Fluent Design System](https://fluent.microsoft.com/) - An eloquent design system for a complex world, by Microsoft.
 
-- [Ant Design](https://ant.design/) - A UI Design Language, by Ant Financial
+- [Ant Design](https://ant.design/) - A UI Design Language, by Ant Financial.
 
 
 ## Resources
@@ -96,22 +96,24 @@
 
 ### Inspiration
 
-- [Ui Parade](https://www.uiparade.com/) - User Interface Design Inspiration
+- [Ui Parade](https://www.uiparade.com/) - User Interface Design Inspiration.
 
-- [CollectUI](https://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily
+- [CollectUI](https://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.
 
-- [UI Movement](https://uimovement.com/) - UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs
+- [UI Movement](https://uimovement.com/) - UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs.
 
-- [Inspiration UI](http://inspirationui.com/) - Inspiration UI  is a community that aims to provide the best design resources for those who create for the web
+- [Inspiration UI](http://inspirationui.com/) - Inspiration UI  is a community that aims to provide the best design resources for those who create for the web.
 
 
 ### Freebies
 
-- [Freeui.design](https://freeui.design/) - Free UI Design for Designers
+- [Freeui.design](https://freeui.design/) - Free UI Design for Designers.
 
-- [UIGradients](https://uigradients.com/) - Beautiful colour gradients for design and code
+- [UIGradients](https://uigradients.com/) - Beautiful colour gradients for design and code.
 
 
 ### Libraries
 
-- [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web
+- [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web.
+
+- [UIkit](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
