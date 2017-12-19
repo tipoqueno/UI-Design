@@ -53,7 +53,7 @@
 
 - [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html) - User Interface (UI) Design focuses on anticipating what users might need...
 
-- [User Interface Design Guidelines: 10 Rules of Thumb](https://www.interaction-design.org/literature/article/user-interface-design-guidelines-10-rules-of-thumb) - Learn to design with your user’s needs and expectations in mind by applying Jakob Nielsen and Rolf Molich’s Ten User Interface Guidelines
+- [How to Design Voice User Interfaces](https://www.interaction-design.org/literature/article/how-to-design-voice-user-interfaces) - Here, you will learn what the users expect from voice communication and get practical guidelines for how to design great voice user interfaces
 
 
 ### Courses
