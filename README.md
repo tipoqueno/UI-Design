@@ -2,6 +2,9 @@
 
 > A curated list of awesome things related to User Interface Design
 
+
+## Table of Contents
+
 - :smiley: [Learn](#learn)
     - :point_right: [Principles](#principles)
     - :books: [Books](#books)
@@ -53,6 +56,8 @@
 
 - [How to Make Sense of Any Mess](http://www.howtomakesenseofanymess.com/) - This book outlines a step-by-step process for making sense of messes made of information (and people). By Abby Covert.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
+
 
 ### Articles
 
@@ -62,12 +67,16 @@
 
 - [How to Design Voice User Interfaces](https://www.interaction-design.org/literature/article/how-to-design-voice-user-interfaces) - Here, you will learn what the users expect from voice communication and get practical guidelines for how to design great voice user interfaces.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
+
 
 ### Courses
 
 - [User Interface Design Specialization / COURSERA](https://coursera.org/specializations/user-interface-design) - Design Better User Interfaces. Learn to create effective and usable interfaces for a range of products and devices. **FREE**
 
 - [Intro to the Design of Everyday Things / UDACITY](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) - This course provides a summary of key concepts from the first two chapters of The Design of Everyday Things by Don Norman. **FREE**
+
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Languages
@@ -77,6 +86,8 @@
 - [Fluent Design System](https://fluent.microsoft.com/) - An eloquent design system for a complex world, by Microsoft.
 
 - [Ant Design](https://ant.design/) - A UI Design Language, by Ant Financial.
+
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ## Resources
@@ -95,6 +106,8 @@
 
 - [UI Garage](https://uigarage.net/) - All the latest UI Design Inspiration and UI Patterns collected in one place.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
+
 
 ### Inspiration
 
@@ -108,6 +121,8 @@
 
 - [UPlabs - Web](https://www.uplabs.com/posts/c/web/resources/interface) - Hand-picked Web UI Elements
 
+<sup>[back to table of contents](#table-of-contents)</sup>
+
 
 ### Freebies
 
@@ -117,6 +132,8 @@
 
 - [FreebiesUI](http://freebiesui.com/) - FreebiesUI is an ever-growing collection of quality UI resources designed by talented creatives who choose to share their work for free with the rest of the community.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
+
 
 ### Libraries
 
@@ -125,3 +142,5 @@
 - [UIkit](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 
 - [Bootstrap](http://getbootstrap.com/) - Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
+
+<sup>[back to table of contents](#table-of-contents)</sup>
