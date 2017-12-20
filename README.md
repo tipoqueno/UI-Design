@@ -104,6 +104,8 @@
 
 - [Inspiration UI](http://inspirationui.com/) - Inspiration UI  is a community that aims to provide the best design resources for those who create for the web.
 
+- [UPlabs - Web](https://www.uplabs.com/posts/c/web/resources/interface) - Hand-picked Web UI Elements
+
 
 ### Freebies
 
