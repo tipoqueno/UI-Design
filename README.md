@@ -40,7 +40,7 @@
 
 - :star: [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) - Donald A. Norman
 
-- [The Universal Principles of Design](https://universalprinciplesofdesign.com/) - William Lidwell, Kritina Holden, Jill Butler
+- [The Universal Principles of Design](http://universalprinciplesofdesign.com/) - William Lidwell, Kritina Holden, Jill Butler
 
 - [Tog on Interface](https://www.goodreads.com/book/show/528786.Tog_on_Interface) - Bruce Tognazzini
 
