@@ -23,7 +23,7 @@
 
 ### Principles
 
-- :star: [Principles of User Interface Design](https://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter.
+- :star: [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter.
 
 - [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) - They are called "heuristics" because they are broad rules of thumb and not specific usability guidelines, by Jakob Nielsen.
 
@@ -52,7 +52,7 @@
 
 - [Designing Interfaces: Patterns for Effective Interaction Design](https://designinginterfaces.com/) - Jenifer Tidwell
 
-- [Microinteractions: Designing with Details](http://microinteractions.com/about-the-book/) - Dan Saffer
+- [Microinteractions: Designing with Details](http://microinteractions.com/about-the-book/) - This book provides a new way of thinking about designing digital products: as a series of microinteractions that are essential to bringing personality and delight to applications and devices. By Dan Saffer.
 
 - [How to Make Sense of Any Mess](http://www.howtomakesenseofanymess.com/) - This book outlines a step-by-step process for making sense of messes made of information (and people). By Abby Covert.
 
