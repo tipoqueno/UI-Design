@@ -51,6 +51,8 @@
 
 - [Microinteractions: Designing with Details](http://microinteractions.com/about-the-book/) - Dan Saffer
 
+- [How to Make Sense of Any Mess](http://www.howtomakesenseofanymess.com/) - This book outlines a step-by-step process for making sense of messes made of information (and people). By Abby Covert.
+
 
 ### Articles
 
