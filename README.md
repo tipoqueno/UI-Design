@@ -115,6 +115,8 @@
 
 - [UIGradients](https://uigradients.com/) - Beautiful colour gradients for design and code.
 
+- [FreebiesUI](http://freebiesui.com/) - FreebiesUI is an ever-growing collection of quality UI resources designed by talented creatives who choose to share their work for free with the rest of the community.
+
 
 ### Libraries
 
