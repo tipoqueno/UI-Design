@@ -99,6 +99,11 @@
 
 ### Apps
 
+- [Sketch](https://www.sketchapp.com/) - Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork. **Mac only**
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
 ### Libraries
 
 - [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web.
