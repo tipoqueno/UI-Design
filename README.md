@@ -5,17 +5,17 @@
 
 ## Table of Contents
 
-- :smiley: [Learn](#learn)
-    - :point_right: [Principles](#principles)
-    - :books: [Books](#books)
-    - :memo: [Articles](#articles)
-    - :nerd_face: [Courses](#courses)
-    - :blue_book: [Languages](#languages)
-- :metal: [Resources](#resources)
-    - :sparkles: [Patterns](#patterns)
-    - :zap: [Inspiration](#inspiration)
-    - :gift: [Freebies](#freebies)
-    - :computer: [Libraries](#libraries)
+- [Learn](#learn)
+    - [Principles](#principles)
+    - [Books](#books)
+    - [Articles](#articles)
+    - [Courses](#courses)
+    - [Languages](#languages)
+- [Resources](#resources)
+    - [Patterns](#patterns)
+    - [Inspiration](#inspiration)
+    - [Freebies](#freebies)
+    - [Libraries](#libraries)
 
 
 ## Learn
