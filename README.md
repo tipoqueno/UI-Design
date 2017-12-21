@@ -12,7 +12,7 @@
     - [Courses](#courses)
     - [Languages](#languages)
 - [Tools](#tools)
-    - [Pen & Paper](#pen-&-paper) ;)
+    - Pen & Paper ;)
     - [Design Apps](#design-apps)
     - [Libraries](#libraries)
     - [Testing Apps](#testing-apps)
@@ -71,6 +71,8 @@
 
 - [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html) - User Interface (UI) Design focuses on anticipating what users might need.
 
+- [Interaction design starts on paper](https://onepotprojects.com/interaction-design-starts-on-paper-a2baa91acc45) - Create beautiful UI through better wireframes
+
 - [How to Design Voice User Interfaces](https://www.interaction-design.org/literature/article/how-to-design-voice-user-interfaces) - Here, you will learn what the users expect from voice communication and get practical guidelines for how to design great voice user interfaces.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -100,11 +102,6 @@
 
 
 ### Pen & Paper
-
-
-
-<sup>[back to table of contents](#table-of-contents)</sup>
-
 
 ### Design Apps
 
