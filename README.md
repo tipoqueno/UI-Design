@@ -9,13 +9,15 @@
     - [Principles](#principles)
     - [Books](#books)
     - [Articles](#articles)
+    - [Disciplines](#disciplines)
+        - [Information Architecture](#information-architecture)
     - [Courses](#courses)
     - [Languages](#languages)
 - [Tools](#tools)
     - Pen & Paper ;)
     - [Design Apps](#design-apps)
-    - [Libraries](#libraries)
     - [Testing Apps](#testing-apps)
+    - [Libraries](#libraries)
 - [Resources](#resources)
     - [Patterns](#patterns)
     - [Inspiration](#inspiration)
@@ -78,6 +80,13 @@
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
+### Disciplines
+
+#### Information Architecture
+
+- [What is Information Architecture?](https://www.iainstitute.org/what-is-ia) - Information architecture is the practice of deciding how to arrange the parts of something to be understandable. By the IAInstitute.
+
+
 ### Courses
 
 - [User Interface Design Specialization / COURSERA](https://coursera.org/specializations/user-interface-design) - Design Better User Interfaces. Learn to create effective and usable interfaces for a range of products and devices. **FREE**
@@ -101,11 +110,16 @@
 ## Tools
 
 
-### Pen & Paper
-
 ### Design Apps
 
 - [Sketch](https://www.sketchapp.com/) - Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork. **Mac only**
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
+### Testing Apps
+
+- [POP. Prototyping on paper](https://marvelapp.com/pop/) - POP helps you transform your pen and paper ideas into an interactive iPhone or Android prototype.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -119,13 +133,6 @@
 - [Bootstrap](http://getbootstrap.com/) - Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
 
 - [Foundation for Sites](https://foundation.zurb.com/sites) - It includes a wide range of modular and flexible components that are easily styled. These versatile and lightweight building blocks make it easy to bring your ideas to life.
-
-<sup>[back to table of contents](#table-of-contents)</sup>
-
-
-### Testing Apps
-
-- [POP. Prototyping on paper](https://marvelapp.com/pop/) - POP helps you transform your pen and paper ideas into an interactive iPhone or Android prototype.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
