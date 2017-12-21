@@ -64,6 +64,8 @@
 
 - [How to Make Sense of Any Mess](http://www.howtomakesenseofanymess.com/) - This book outlines a step-by-step process for making sense of messes made of information (and people). By Abby Covert.
 
+- [Information Architecture: For the Web and Beyond](https://www.goodreads.com/book/show/27468365-information-architecture) - Anyone involved in digital design will learn how to create semantic structures that will help people engage with your message. By Louis Rosenfeld, Peter Morville & Jorge Arango.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
