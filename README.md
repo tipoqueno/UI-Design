@@ -11,11 +11,14 @@
     - [Articles](#articles)
     - [Courses](#courses)
     - [Languages](#languages)
+- [Tools](#tools)
+    - [Pen & Paper](pen-&-paper) ;)
+    - [Apps](#apps)
+    - [Libraries](#libraries)
 - [Resources](#resources)
     - [Patterns](#patterns)
     - [Inspiration](#inspiration)
     - [Freebies](#freebies)
-    - [Libraries](#libraries)
 
 
 ## Learn
@@ -90,6 +93,25 @@
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
+## Tools
+
+### Pen & Paper ;)
+
+### Apps
+
+### Libraries
+
+- [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web.
+
+- [UIkit](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+
+- [Bootstrap](http://getbootstrap.com/) - Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
+
+- [Foundation for Sites](https://foundation.zurb.com/sites) - It includes a wide range of modular and flexible components that are easily styled. These versatile and lightweight building blocks make it easy to bring your ideas to life.
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
 ## Resources
 
 ### Patterns
@@ -133,18 +155,5 @@
 - [FreebiesUI](http://freebiesui.com/) - FreebiesUI is an ever-growing collection of quality UI resources designed by talented creatives who choose to share their work for free with the rest of the community.
 
 - [Freebie Supply](https://freebiesupply.com/) - Free, high quality design resources for Photoshop, Sketch, Illustrator, Adobe XD and Figma
-
-<sup>[back to table of contents](#table-of-contents)</sup>
-
-
-### Libraries
-
-- [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web.
-
-- [UIkit](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
-
-- [Bootstrap](http://getbootstrap.com/) - Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
-
-- [Foundation for Sites](https://foundation.zurb.com/sites) - It includes a wide range of modular and flexible components that are easily styled. These versatile and lightweight building blocks make it easy to bring your ideas to life.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
