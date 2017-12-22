@@ -151,6 +151,8 @@
 
 ### Patterns
 
+- [GoodUI](http://www.goodui.org/) - Here is a running idea list which we're actively testing and turning into highly effective conversion patterns (real evidence-based stuff).
+
 - [UI Patterns.io](http://uipatterns.io/) - Explore & play with interactive UI design patterns and learn how to solve common UI problems.
 
 - [UI-Patterns.com](http://ui-patterns.com/) - User Interface Design patterns are recurring solutions that solve common design problems.
@@ -177,6 +179,7 @@
 - [Inspiration UI](http://inspirationui.com/) - Inspiration UI  is a community that aims to provide the best design resources for those who create for the web.
 
 - [UPlabs - Web](https://www.uplabs.com/posts/c/web/resources/interface) - Hand-picked Web UI Elements
+
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
