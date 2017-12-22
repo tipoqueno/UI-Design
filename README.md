@@ -94,6 +94,8 @@
 
 ### Communities
 
+- [Information Architecture Institute](https://www.iainstitute.org/)- A nonprofit organization of volunteers with a singular focus: to make the world's information clearer and easier to use by improving how people learn, practice and teach information architecture (IA).
+
 - [Interaction Design Association](https://ixda.org/) - A global community of people who share an interest in interaction design.
 
 
