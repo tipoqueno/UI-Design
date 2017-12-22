@@ -98,6 +98,8 @@
 
 - [Interaction Design Association](https://ixda.org/) - A global community of people who share an interest in interaction design.
 
+- [Hacking UI](http://hackingui.com/) - A community for designers, developers and creative entrepreneurs with a passion.
+
 
 ### Courses
 
