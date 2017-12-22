@@ -140,6 +140,8 @@
 
 - [Foundation for Sites](https://foundation.zurb.com/sites) - It includes a wide range of modular and flexible components that are easily styled. These versatile and lightweight building blocks make it easy to bring your ideas to life.
 
+- [Bulma](https://bulma.io/) - A modern CSS framework based on Flexbox
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
