@@ -66,6 +66,8 @@
 
 - [Information Architecture: For the Web and Beyond](https://www.goodreads.com/book/show/27468365-information-architecture) - Anyone involved in digital design will learn how to create semantic structures that will help people engage with your message. By Louis Rosenfeld, Peter Morville & Jorge Arango.
 
+- [The Elements of User Experience: User-Centered Design for the Web](https://www.goodreads.com/book/show/1867.The_Elements_of_User_Experience) - Jesse James Garrett gives readers the big picture of Web user experience development, from strategy and requirements to information architecture and visual design.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
