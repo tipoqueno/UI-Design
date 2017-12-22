@@ -11,6 +11,7 @@
     - [Articles](#articles)
     - [Disciplines](#disciplines)
         - [Information Architecture](#information-architecture)
+    - [Communities](#communities)
     - [Courses](#courses)
     - [Languages](#languages)
 - [Tools](#tools)
@@ -89,6 +90,11 @@
 #### Information Architecture
 
 - [What is Information Architecture?](https://www.iainstitute.org/what-is-ia) - Information architecture is the practice of deciding how to arrange the parts of something to be understandable. By the IAInstitute.
+
+
+### Communities
+
+- [Interaction Design Association](https://ixda.org/) - A global community of people who share an interest in interaction design.
 
 
 ### Courses
