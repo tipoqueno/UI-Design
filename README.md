@@ -118,6 +118,8 @@
 
 - [Alva](https://meetalva.io/) - Alva lets you design interactive products based on the same components your engineers are using for production websites.
 
+- [Figma](https://www.figma.com/) - Figma is the first interface design tool based in the browser, making it easier for teams to create software.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
