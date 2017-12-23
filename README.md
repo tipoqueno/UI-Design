@@ -71,6 +71,8 @@
 
 - [The Best Interface Is No Interface: The Simple Path to Brilliant Technology](https://www.goodreads.com/book/show/22758923-the-best-interface-is-no-interface) - This book challenges our world of nagging, screen-based bondage, and shows how we can build a technologically advanced world without digital interfaces. By Golden Krishna.
 
+- [Designing Interactions](http://www.designinginteractions.com/) - In the Book, Bill Moggridge introduces us to 40 influential designers who have shaped our interaction with technology.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
