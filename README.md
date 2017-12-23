@@ -123,6 +123,25 @@
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
+### Patterns
+
+- [GoodUI](http://www.goodui.org/) - Here is a running idea list which we're actively testing and turning into highly effective conversion patterns (real evidence-based stuff).
+
+- [UI Patterns.io](http://uipatterns.io/) - Explore & play with interactive UI design patterns and learn how to solve common UI problems.
+
+- [UI-Patterns.com](http://ui-patterns.com/) - User Interface Design patterns are recurring solutions that solve common design problems.
+
+- [Mobile Patterns](http://www.mobile-patterns.com/) - A library of iOS and Android screenshots for designers and developers to reference.
+
+- [Pttrns](https://pttrns.com/) - The mother of all design resources.
+
+- [Patterntap](https://patterntap.com/patterntap) - Interface patterns to inspire your next design project.
+
+- [UI Garage](https://uigarage.net/) - All the latest UI Design Inspiration and UI Patterns collected in one place.
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
 ## Tools
 
 
@@ -164,24 +183,6 @@
 
 
 ## Resources
-
-### Patterns
-
-- [GoodUI](http://www.goodui.org/) - Here is a running idea list which we're actively testing and turning into highly effective conversion patterns (real evidence-based stuff).
-
-- [UI Patterns.io](http://uipatterns.io/) - Explore & play with interactive UI design patterns and learn how to solve common UI problems.
-
-- [UI-Patterns.com](http://ui-patterns.com/) - User Interface Design patterns are recurring solutions that solve common design problems.
-
-- [Mobile Patterns](http://www.mobile-patterns.com/) - A library of iOS and Android screenshots for designers and developers to reference.
-
-- [Pttrns](https://pttrns.com/) - The mother of all design resources.
-
-- [Patterntap](https://patterntap.com/patterntap) - Interface patterns to inspire your next design project.
-
-- [UI Garage](https://uigarage.net/) - All the latest UI Design Inspiration and UI Patterns collected in one place.
-
-<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Inspiration
