@@ -69,6 +69,8 @@
 
 - [The Elements of User Experience: User-Centered Design for the Web](https://www.goodreads.com/book/show/1867.The_Elements_of_User_Experience) - Jesse James Garrett gives readers the big picture of Web user experience development, from strategy and requirements to information architecture and visual design.
 
+- [The Best Interface Is No Interface: The Simple Path to Brilliant Technology](https://www.goodreads.com/book/show/22758923-the-best-interface-is-no-interface) - This book challenges our world of nagging, screen-based bondage, and shows how we can build a technologically advanced world without digital interfaces. By Golden Krishna.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
