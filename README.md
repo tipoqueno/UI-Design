@@ -102,6 +102,8 @@
 
 - [Hacking UI](http://hackingui.com/) - A community for designers, developers and creative entrepreneurs with a passion.
 
+- [Interaction Design Foundation](https://www.interaction-design.org/community) -  Community-based career development: 449 groups in 88 countries
+
 
 ### Courses
 
