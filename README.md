@@ -14,13 +14,13 @@
     - [Communities](#communities)
     - [Courses](#courses)
     - [Languages](#languages)
+    - [Patterns](#patterns)
 - [Tools](#tools)
     - Pen & Paper ;)
     - [Design Apps](#design-apps)
     - [Testing Apps](#testing-apps)
     - [Libraries](#libraries)
 - [Resources](#resources)
-    - [Patterns](#patterns)
     - [Inspiration](#inspiration)
     - [Freebies](#freebies)
 
@@ -72,6 +72,8 @@
 - [The Best Interface Is No Interface: The Simple Path to Brilliant Technology](https://www.goodreads.com/book/show/22758923-the-best-interface-is-no-interface) - This book challenges our world of nagging, screen-based bondage, and shows how we can build a technologically advanced world without digital interfaces. By Golden Krishna.
 
 - [Designing Interactions](http://www.designinginteractions.com/) - In the Book, Bill Moggridge introduces us to 40 influential designers who have shaped our interaction with technology.
+
+- [Sketching User Experiences: Getting the Design Right and the Right Design](https://www.goodreads.com/book/show/980280.Sketching_User_Experiences) - The book approaches design and design thinking as something distinct that needs to be better understood-by both designers and the people with whom they need to work- in order to achieve success with new products and systems. By Bill Buxton.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
