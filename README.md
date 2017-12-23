@@ -158,6 +158,8 @@
 
 - [Bulma](https://bulma.io/) - A modern CSS framework based on Flexbox
 
+- [Pure.css](https://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
