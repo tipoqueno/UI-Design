@@ -45,44 +45,24 @@
 
 ### Books
 
-- :star: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/3368.Don_t_Make_Me_Think) - Steve Krug
-
-- :star: [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) - Donald A. Norman
-
-- [The Universal Principles of Design](http://universalprinciplesofdesign.com/) - William Lidwell, Kritina Holden, Jill Butler
-
-- [Tog on Interface](https://www.goodreads.com/book/show/528786.Tog_on_Interface) - Bruce Tognazzini
-
-- [Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions](https://www.goodreads.com/book/show/11698359-universal-methods-of-design) - Bruce M. Hanington
-
-- [About Face: The Essentials of Interaction Design](https://www.goodreads.com/book/show/289062.About_Face_3) - Alan Cooper, Robert Reimann, David Cronin
-
-- [Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules](https://www.goodreads.com/book/show/8564020-designing-with-the-mind-in-mind?from_search=true) - Jeff Johnson
-
-- [Designing Interfaces: Patterns for Effective Interaction Design](https://designinginterfaces.com/) - Jenifer Tidwell
-
-- [Microinteractions: Designing with Details](http://microinteractions.com/about-the-book/) - This book provides a new way of thinking about designing digital products: as a series of microinteractions that are essential to bringing personality and delight to applications and devices. By Dan Saffer.
-
-- [How to Make Sense of Any Mess](http://www.howtomakesenseofanymess.com/) - This book outlines a step-by-step process for making sense of messes made of information (and people). By Abby Covert.
-
-- [Information Architecture: For the Web and Beyond](https://www.goodreads.com/book/show/27468365-information-architecture) - Anyone involved in digital design will learn how to create semantic structures that will help people engage with your message. By Louis Rosenfeld, Peter Morville & Jorge Arango.
-
-- [The Elements of User Experience: User-Centered Design for the Web](https://www.goodreads.com/book/show/1867.The_Elements_of_User_Experience) - Jesse James Garrett gives readers the big picture of Web user experience development, from strategy and requirements to information architecture and visual design.
-
-- [The Best Interface Is No Interface: The Simple Path to Brilliant Technology](https://www.goodreads.com/book/show/22758923-the-best-interface-is-no-interface) - This book challenges our world of nagging, screen-based bondage, and shows how we can build a technologically advanced world without digital interfaces. By Golden Krishna.
-
-- [Designing Interactions](http://www.designinginteractions.com/) - In the Book, Bill Moggridge introduces us to 40 influential designers who have shaped our interaction with technology.
-
-- [Sketching User Experiences: Getting the Design Right and the Right Design](https://www.goodreads.com/book/show/980280.Sketching_User_Experiences) - The book approaches design and design thinking as something distinct that needs to be better understood-by both designers and the people with whom they need to work- in order to achieve success with new products and systems. By Bill Buxton.
-
-- [Designing for the Digital Age: How to Create Human-Centered Products and Services](https://www.goodreads.com/book/show/3880458-designing-for-the-digital-age) - This comprehensive, full-color volume addresses project management, user research, and consensus-building problems with detailed how-to information, real-life examples, and exercises. By Kim Goodwin.
-
-
 | Cover | Title | Author |
 | ----- | ----- | ------ |
-| <img src="https://images.gr-assets.com/books/1390867006l/3368.jpg" alt="Don't Make Me Think: A Common Sense Approach to Web Usability" height="150"> | **[Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/3368.Don_t_Make_Me_Think)** | Steve Krug   |
-| <img src="https://images.gr-assets.com/books/1387770614l/17290807.jpg" alt="The Design of Everyday Things" height="150"> | **[The Design of Everyday Things](https://www.goodreads.com/book/show/17290807-the-design-of-everyday-things)** | Donald A. Norman |
-| <img src="https://images.gr-assets.com/books/1348970149l/3880458.jpg" alt="Designing for the Digital Age: How to Create Human-Centered Products and Services" height="150"> | **[Designing for the Digital Age: How to Create Human-Centered Products and Services](https://www.goodreads.com/book/show/3880458-designing-for-the-digital-age)** | Kim Goodwin |
+| <img src="https://images.gr-assets.com/books/1390867006l/3368.jpg" alt="Don't Make Me Think: A Common Sense Approach to Web Usability" width="100%"> | :star: **[Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/3368.Don_t_Make_Me_Think)** | Steve Krug   |
+| <img src="https://images.gr-assets.com/books/1387770614l/17290807.jpg" alt="The Design of Everyday Things" width="100%"> | :star: **[The Design of Everyday Things](https://www.goodreads.com/book/show/17290807-the-design-of-everyday-things)** | Donald A. Norman |
+| <img src="https://images.gr-assets.com/books/1328754391l/130730.jpg" alt="The Universal Principles of Design" width="100%"> | **[The Universal Principles of Design](http://universalprinciplesofdesign.com/)** | Lidwell, Holden, & Butler |
+| <img src="https://images.gr-assets.com/books/1348840355l/528786.jpg" alt="Tog on Interface" width="100%"> | **[Tog on Interface](https://www.goodreads.com/book/show/528786.Tog_on_Interface)** | Bruce Tognazzini |
+| <img src="https://images.gr-assets.com/books/1344683703l/11698359.jpg" alt="Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions" width="100%"> | **[Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions](https://www.goodreads.com/book/show/11698359-universal-methods-of-design)** | Hanington & Martin |
+| <img src="https://images.gr-assets.com/books/1348112867l/289062.jpg" alt="About Face: The Essentials of Interaction Design" width="100%"> | **[About Face: The Essentials of Interaction Design](https://www.goodreads.com/book/show/289062.About_Face_3)** | Cooper, Reimann & Cronin |
+| <img src="https://images.gr-assets.com/books/1355822484l/8564020.jpg" alt="Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules" width="100%"> | **[Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules](https://www.goodreads.com/book/show/8564020-designing-with-the-mind-in-mind)** | Jeff Johnson |
+| <img src="https://images.gr-assets.com/books/1384259305l/344724.jpg" alt="Designing Interfaces: Patterns for Effective Interaction Design" width="100%"> | **[Designing Interfaces: Patterns for Effective Interaction Design](https://designinginterfaces.com/)** | Jenifer Tidwell |
+| <img src="https://images.gr-assets.com/books/1365526301l/17239285.jpg" alt="Microinteractions: Designing with Details" width="100%"> | **[Microinteractions: Designing with Details](http://microinteractions.com/about-the-book/)** - This book provides a new way of thinking about designing digital products: as a series of microinteractions that are essential to bringing personality and delight to applications and devices. | Dan Saffer |
+| <img src="https://images.gr-assets.com/books/1433930545l/23557020.jpg" alt="How to Make Sense of Any Mess" width="100%"> | **[How to Make Sense of Any Mess](http://www.howtomakesenseofanymess.com/)** - This book outlines a step-by-step process for making sense of messes made of information (and people). | Abby Covert |
+| <img src="https://images.gr-assets.com/books/1496277202l/27468365.jpg" alt="Information Architecture: For the Web and Beyond" width="100%"> | **[Information Architecture: For the Web and Beyond](https://www.goodreads.com/book/show/27468365-information-architecture)** - Anyone involved in digital design will learn how to create semantic structures that will help people engage with your message. | Rosenfeld, Morville & Arango |
+| <img src="https://images.gr-assets.com/books/1386924817l/1867.jpg" alt="Sketching User Experiences: Getting the Design Right and the Right Design" width="100%"> | **[The Elements of User Experience: User-Centered Design for the Web](https://www.goodreads.com/book/show/1867.The_Elements_of_User_Experience)** - The author gives readers the big picture of Web user experience development, from strategy and requirements to information architecture and visual design. | Jesse James Garrett |
+| <img src="https://images.gr-assets.com/books/1410759357l/22758923.jpg" alt="The Best Interface Is No Interface: The Simple Path to Brilliant Technology" width="100%"> | **[The Best Interface Is No Interface: The Simple Path to Brilliant Technology](https://www.goodreads.com/book/show/22758923-the-best-interface-is-no-interface)** This book challenges our world of nagging, screen-based bondage, and shows how we can build a technologically advanced world without digital interfaces. | Golden Krishna |
+| <img src="https://images.gr-assets.com/books/1348241331l/258476.jpg" alt="Designing Interactions" width="100%"> | **[Designing Interactions](http://www.designinginteractions.com/)** - In the book, Bill Moggridge introduces us to 40 influential designers who have shaped our interaction with technology. | Bill Moggridge |
+| <img src="https://images.gr-assets.com/books/1347329018l/980280.jpg" alt="Sketching User Experiences: Getting the Design Right and the Right Design" width="100%"> | **[Sketching User Experiences: Getting the Design Right and the Right Design](https://www.goodreads.com/book/show/980280.Sketching_User_Experiences)** - The book approaches design and design thinking as something distinct that needs to be better understood-by both designers and the people with whom they need to work- in order to achieve success with new products and systems. | Bill Buxton  |
+| <img src="https://images.gr-assets.com/books/1348970149l/3880458.jpg" alt="Designing for the Digital Age: How to Create Human-Centered Products and Services" width="100%"> | **[Designing for the Digital Age: How to Create Human-Centered Products and Services](https://www.goodreads.com/book/show/3880458-designing-for-the-digital-age)** - This comprehensive, full-color volume addresses project management, user research, and consensus-building problems with detailed how-to information, real-life examples, and exercises. | Kim Goodwin |
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
