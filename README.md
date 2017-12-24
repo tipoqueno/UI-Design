@@ -97,6 +97,8 @@
 
 - [What is Information Architecture?](https://www.iainstitute.org/what-is-ia) - Information architecture is the practice of deciding how to arrange the parts of something to be understandable. By the IAInstitute.
 
+- [Visual vocabulary for Information Architecture](http://www.jjg.net/ia/visvocab/) - A visual vocabulary for describing information architecture and interaction design
+
 
 ### Communities
 
