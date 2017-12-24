@@ -223,6 +223,8 @@
 
 - [FreebiesUI](http://freebiesui.com/) - FreebiesUI is an ever-growing collection of quality UI resources designed by talented creatives who choose to share their work for free with the rest of the community.
 
-- [Freebie Supply](https://freebiesupply.com/) - Free, high quality design resources for Photoshop, Sketch, Illustrator, Adobe XD and Figma
+- [Freebie Supply](https://freebiesupply.com/) - Free, high quality design resources for Photoshop, Sketch, Illustrator, Adobe XD and Figma.
+
+- [XD Guru](https://www.xdguru.com/) - The biggest collection of free & premium resources for Adobe XD.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
