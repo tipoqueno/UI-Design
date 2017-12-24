@@ -227,4 +227,6 @@
 
 - [XD Guru](https://www.xdguru.com/) - The biggest collection of free & premium resources for Adobe XD.
 
+- [Sketch App Sources](https://www.sketchappsources.com/) - We curate hundreds of icons and UI kits for web and mobile to help you design, prototype, learn, and ideate faster.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
