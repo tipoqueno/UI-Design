@@ -99,6 +99,8 @@
 
 - [Visual vocabulary for Information Architecture](http://www.jjg.net/ia/visvocab/) - A visual vocabulary for describing information architecture and interaction design
 
+<sup>[back to table of contents](#table-of-contents)</sup>
+
 
 ### Communities
 
@@ -108,7 +110,9 @@
 
 - [Hacking UI](http://hackingui.com/) - A community for designers, developers and creative entrepreneurs with a passion.
 
-- [Interaction Design Foundation](https://www.interaction-design.org/community) -  Community-based career development: 449 groups in 88 countries
+- [Interaction Design Foundation](https://www.interaction-design.org/community) -  Community-based career development: 449 groups in 88 countries.
+
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Courses
@@ -150,6 +154,11 @@
 - [UI Garage](https://uigarage.net/) - All the latest UI Design Inspiration and UI Patterns collected in one place.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
+
+
+### Newsletters
+
+- [Sidebar.io](https://sidebar.io/) - The five best design links, every day. By Sacha Greif.
 
 
 ## Tools
@@ -210,7 +219,6 @@
 - [Inspiration UI](http://inspirationui.com/) - Inspiration UI  is a community that aims to provide the best design resources for those who create for the web.
 
 - [UPlabs - Web](https://www.uplabs.com/posts/c/web/resources/interface) - Hand-picked Web UI Elements
-
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
