@@ -128,6 +128,8 @@
 
 - [Ant Design](https://ant.design/) - A UI Design Language, by Ant Financial.
 
+- [Apple Human Interface Guidelines](https://developer.apple.com/design/) - Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
