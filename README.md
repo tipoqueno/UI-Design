@@ -77,6 +77,13 @@
 
 - [Designing for the Digital Age: How to Create Human-Centered Products and Services](https://www.goodreads.com/book/show/3880458-designing-for-the-digital-age) - This comprehensive, full-color volume addresses project management, user research, and consensus-building problems with detailed how-to information, real-life examples, and exercises. By Kim Goodwin.
 
+
+| Cover | Title | Author |
+| ----- | ----- | ------ |
+| <img src="https://images.gr-assets.com/books/1390867006l/3368.jpg" alt="Don't Make Me Think: A Common Sense Approach to Web Usability" height="150"> | **[Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/3368.Don_t_Make_Me_Think)** | Steve Krug   |
+| <img src="https://images.gr-assets.com/books/1387770614l/17290807.jpg" alt="The Design of Everyday Things" height="150"> | **[The Design of Everyday Things](https://www.goodreads.com/book/show/17290807-the-design-of-everyday-things)** | Donald A. Norman |
+| <img src="https://images.gr-assets.com/books/1348970149l/3880458.jpg" alt="Designing for the Digital Age: How to Create Human-Centered Products and Services" height="150"> | **[Designing for the Digital Age: How to Create Human-Centered Products and Services](https://www.goodreads.com/book/show/3880458-designing-for-the-digital-age)** | Kim Goodwin |
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
