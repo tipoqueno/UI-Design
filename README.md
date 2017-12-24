@@ -75,6 +75,8 @@
 
 - [Sketching User Experiences: Getting the Design Right and the Right Design](https://www.goodreads.com/book/show/980280.Sketching_User_Experiences) - The book approaches design and design thinking as something distinct that needs to be better understood-by both designers and the people with whom they need to work- in order to achieve success with new products and systems. By Bill Buxton.
 
+- [Designing for the Digital Age: How to Create Human-Centered Products and Services](https://www.goodreads.com/book/show/3880458-designing-for-the-digital-age) - This comprehensive, full-color volume addresses project management, user research, and consensus-building problems with detailed how-to information, real-life examples, and exercises. By Kim Goodwin.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
