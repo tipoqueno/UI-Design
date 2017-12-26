@@ -97,6 +97,8 @@
 
 - [Complete Beginner’s Guide to Interaction Design](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/) - Far from merely working with text and pictures, interaction designers are now responsible for creating every element on the screen that a user might swipe, click, tap, or type: in short, the interactions of an experience.
 
+- [What is Interaction Design: The Practical Framework](https://www.uxpin.com/studio/blog/what-is-interaction-design-the-practical-framework/) - This article will introduce you to the core concepts of interaction design, explaining how to use them to breathe life into your product.
+
 
 ### Communities
 
