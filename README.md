@@ -174,6 +174,8 @@
 
 - [Adobe XD](http://www.adobe.com/products/xd.html) - The all-in-one UX/UI solution for designing websites, mobile apps, and more.
 
+- [UXPin](https://www.uxpin.com/) - The Full-Stack UX Design Platform
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
