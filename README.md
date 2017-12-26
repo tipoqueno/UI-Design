@@ -11,6 +11,7 @@
     - [Articles](#articles)
     - [Disciplines](#disciplines)
         - [Information Architecture](#information-architecture)
+        - [Interaction Design](#interaction-design)
     - [Communities](#communities)
     - [Courses](#courses)
     - [Languages](#languages)
