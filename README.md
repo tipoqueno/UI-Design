@@ -119,6 +119,8 @@
 
 - [Intro to the Design of Everyday Things / UDACITY](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) - This course provides a summary of key concepts from the first two chapters of The Design of Everyday Things by Don Norman. **FREE**
 
+- [Hack Design](https://hackdesign.org/) - An easy to follow design course for people who do amazing things. **FREE** / Email course
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
