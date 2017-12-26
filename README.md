@@ -149,6 +149,8 @@
 
 - [Sidebar.io](https://sidebar.io/) - The five best design links, every day. By Sacha Greif.
 
+- [Web Tools Weekly](https://webtoolsweekly.com/) - A front-end development and web design newsletter with a focus on tools.
+
 
 ## Tools
 
