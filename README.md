@@ -191,6 +191,8 @@
 
 - [Pure.css](https://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 
+- [Milligram](https://milligram.io/) - A minimalist CSS framework
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
