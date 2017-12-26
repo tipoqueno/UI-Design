@@ -151,6 +151,8 @@
 
 - [UI Garage](https://uigarage.net/) - All the latest UI Design Inspiration and UI Patterns collected in one place.
 
+- [Welie](http://www.welie.com/index.php) - A Pattern Library for Interaction Design
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
