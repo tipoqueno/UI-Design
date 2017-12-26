@@ -123,6 +123,8 @@
 
 - [Learn UI Design](https://learnui.design/) - Confidently design beautiful user interfaces for any app or site. **PAID** / Video course
 
+- [Evaluating User Interfaces / COURSERA](https://www.coursera.org/learn/ui-testing) - In this course you will learn and practice several techniques for user interface evaluation. **FREEMIUM** / Video course
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
