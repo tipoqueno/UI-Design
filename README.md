@@ -245,7 +245,9 @@
 
 - [Inspiration UI](http://inspirationui.com/) - Inspiration UI  is a community that aims to provide the best design resources for those who create for the web.
 
-- [UPlabs - Web](https://www.uplabs.com/posts/c/web/resources/interface) - Hand-picked Web UI Elements
+- [UPlabs - Web](https://www.uplabs.com/posts/c/web/resources/interface) - Hand-picked Web UI Elements.
+
+- [UI Temple](http://www.uitemple.com/) - Curated Collection of the Best Web Page Designs & Inspirations.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
