@@ -127,6 +127,8 @@
 
 - [Evaluating User Interfaces / COURSERA](https://www.coursera.org/learn/ui-testing) - In this course you will learn and practice several techniques for user interface evaluation. **FREEMIUM** / Video course
 
+- [User Interface (UI) Personalization / edX](https://www.edx.org/es/course/user-interface-ui-personalization-mitx-hdm1-2ax) - In this course, you will learn the fundamentals of user interface personalization in the context of web sites and web applications. **FREEMIUM** / Video course
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
