@@ -215,17 +215,19 @@
 
 - [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web.
 
-- [UIkit](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+- [UIkit](https://getuikit.com/) - Lightweight and modular front-end framework for developing fast and powerful web interfaces.
 
 - [Bootstrap](http://getbootstrap.com/) - Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
 
 - [Foundation for Sites](https://foundation.zurb.com/sites) - It includes a wide range of modular and flexible components that are easily styled. These versatile and lightweight building blocks make it easy to bring your ideas to life.
 
-- [Bulma](https://bulma.io/) - A modern CSS framework based on Flexbox
+- [Bulma](https://bulma.io/) - Modern CSS framework based on Flexbox
 
-- [Pure.css](https://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
+- [Pure.css](https://purecss.io/) - Set of small, responsive CSS modules that you can use in every web project.
 
-- [Milligram](https://milligram.io/) - A minimalist CSS framework
+- [Milligram](https://milligram.io/) - Minimalist CSS framework
+
+- [](http://materializecss.com/) - Modern responsive CSS framework based on Material Design by Google.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
