@@ -232,7 +232,7 @@
 
 - [Milligram](https://milligram.io/) - Minimalist CSS framework
 
-- [](http://materializecss.com/) - Modern responsive CSS framework based on Material Design by Google.
+- [Materialize](http://materializecss.com/) - Modern responsive CSS framework based on Material Design by Google.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
