@@ -236,6 +236,8 @@
 
 - [Metro UI CSS](https://metroui.org.ua/) - The front-end framework for developing projects on the web in Windows Metro Style
 
+- [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework 
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
