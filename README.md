@@ -84,6 +84,8 @@
 
 - [How to Design Voice User Interfaces](https://www.interaction-design.org/literature/article/how-to-design-voice-user-interfaces) - Here, you will learn what the users expect from voice communication and get practical guidelines for how to design great voice user interfaces.
 
+- [Designing Great UIs for Progressive Web Apps](https://medium.com/@owencm/designing-great-uis-for-progressive-web-apps-dd38c1d20f7) - Progressive Web Apps give us an opportunity to reset our expectations and to loudly declare that We Can Do Better when designing user experiences on the web.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
