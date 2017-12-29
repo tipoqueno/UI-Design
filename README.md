@@ -211,6 +211,8 @@
 
 - [POP. Prototyping on paper](https://marvelapp.com/pop/) - POP helps you transform your pen and paper ideas into an interactive iPhone or Android prototype.
 
+- [UserTesting](https://www.usertesting.com/) - User Experience Research Platform
+
 #### Technical testing
 
 - [Testing with Xcode](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/09-ui_testing.html) - UI testing gives you the ability to find and interact with the UI of your app in order to validate the properties and state of the UI elements.
