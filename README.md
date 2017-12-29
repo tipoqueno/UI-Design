@@ -182,7 +182,7 @@
 
 #### Think Aloud
 
-- [Thinking Aloud: The #1 Usability Tool](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/)
+- [Thinking Aloud: The #1 Usability Tool](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/) - **Benefits:** "The method it serves as a _window on the soul_, letting you discover what users really think about your design. [...] You usually learn why users guess wrong about some parts of the UI and why they find others easy to use." **_Jakob Nielsen_**
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
