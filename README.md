@@ -266,6 +266,8 @@
 
 - [Dribbble](https://dribbble.com/tags/ui) - Show and tell for designers
 
+- [Little Big Details](http://littlebigdetails.com/) - Curated collection of the finer details of design, updated every day.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
