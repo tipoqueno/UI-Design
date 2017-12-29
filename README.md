@@ -179,6 +179,9 @@
 
 ### Techniques
 
+#### Think Aloud
+
+- [Thinking Aloud: The #1 Usability Tool](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
