@@ -264,9 +264,11 @@
 
 - [UI Temple](http://www.uitemple.com/) - Curated Collection of the Best Web Page Designs & Inspirations.
 
-- [Dribbble](https://dribbble.com/tags/ui) - Show and tell for designers
+- [Dribbble](https://dribbble.com/tags/ui) - Show and tell for designers.
 
 - [Little Big Details](http://littlebigdetails.com/) - Curated collection of the finer details of design, updated every day.
+
+- [Little UI Details](https://twitter.com/i/moments/880688233641848832) - Collections of little tips from Steve Schoger to improve your visual design skills with the little details that make a big difference.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
