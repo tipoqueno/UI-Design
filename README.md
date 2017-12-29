@@ -19,6 +19,7 @@
     - [Languages](#languages)
     - [Patterns](#patterns)
     - [Techniques](#techniques)
+    - [Newsletters](#newsletters)
 - [Tools](#tools)
     - Pen & Paper ;)
     - [Design Apps](#design-apps)
