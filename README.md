@@ -18,6 +18,7 @@
     - [Courses](#courses)
     - [Languages](#languages)
     - [Patterns](#patterns)
+    - [Techniques](#techniques)
 - [Tools](#tools)
     - Pen & Paper ;)
     - [Design Apps](#design-apps)
@@ -172,6 +173,12 @@
 - [Welie](http://www.welie.com/index.php) - A Pattern Library for Interaction Design
 
 - [Dark Patterns](https://darkpatterns.org/) -  The purpose of this site is to spread awareness and to shame companies that use tricks in websites and apps that make you buy or sign up for things that you didn't mean to.
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
+### Techniques
+
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
