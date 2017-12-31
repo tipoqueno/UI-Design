@@ -320,4 +320,7 @@
 
 - [We Love SVG: Free SVG Files](https://icons8.com/welovesvg) - An open source library that allows embedding icons from any icon library.
 
+- [UI Space](https://uispace.net/) - Thousand of great freebies. -Search for an high quality and Hand-crafted freebie
+
+
 <sup>[back to table of contents](#table-of-contents)</sup>
