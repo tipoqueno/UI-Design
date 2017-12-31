@@ -26,7 +26,7 @@
     - [Testing Apps](#testing-apps)
         - [Usability testing](#usability-testing)
         - [Technical testing](#technical-testing)
-    - [Libraries](#libraries)
+    - [Libraries & Frameworks](#libraries-&-frameworks)
 - [Resources](#resources)
     - [Inspiration](#inspiration)
     - [Freebies](#freebies)
@@ -234,7 +234,7 @@
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
-### Libraries
+### Libraries & Frameworks
 
 - [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web.
 
