@@ -258,6 +258,8 @@
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 
+- [Office UI Fabric](https://developer.microsoft.com/en-us/fabric) - The official front-end framework for building experiences that fit seamlessly into Office and Office 365.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
