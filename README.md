@@ -273,6 +273,8 @@
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 
+- [Angular](https://angular.io/) - One framework. Mobile & desktop.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
