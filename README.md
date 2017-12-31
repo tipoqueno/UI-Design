@@ -26,7 +26,7 @@
     - [Testing Apps](#testing-apps)
         - [Usability testing](#usability-testing)
         - [Technical testing](#technical-testing)
-    - [Libraries & Frameworks](#libraries-&-frameworks)
+    - [Libraries & Frameworks](#libraries--frameworks)
 - [Resources](#resources)
     - [Inspiration](#inspiration)
     - [Freebies](#freebies)
