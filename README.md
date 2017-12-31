@@ -243,6 +243,16 @@
 
 ### Libraries & Frameworks
 
+#### CSS
+
+- [Pure.css](https://purecss.io/) - Set of small, responsive CSS modules that you can use in every web project.
+
+- [Milligram](https://milligram.io/) - Minimalist CSS framework
+
+- [Bulma](https://bulma.io/) - Modern CSS framework based on Flexbox
+
+#### CSS + Javascript
+
 - [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web.
 
 - [UIkit](https://getuikit.com/) - Lightweight and modular front-end framework for developing fast and powerful web interfaces.
@@ -251,21 +261,17 @@
 
 - [Foundation for Sites](https://foundation.zurb.com/sites) - It includes a wide range of modular and flexible components that are easily styled. These versatile and lightweight building blocks make it easy to bring your ideas to life.
 
-- [Bulma](https://bulma.io/) - Modern CSS framework based on Flexbox
-
-- [Pure.css](https://purecss.io/) - Set of small, responsive CSS modules that you can use in every web project.
-
-- [Milligram](https://milligram.io/) - Minimalist CSS framework
-
 - [Materialize](http://materializecss.com/) - Modern responsive CSS framework based on Material Design by Google.
 
 - [Metro UI CSS](https://metroui.org.ua/) - The front-end framework for developing projects on the web in Windows Metro Style
 
+- [Office UI Fabric](https://developer.microsoft.com/en-us/fabric) - The official front-end framework for building experiences that fit seamlessly into Office and Office 365.
+
+#### Javascript
+
 - [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
-
-- [Office UI Fabric](https://developer.microsoft.com/en-us/fabric) - The official front-end framework for building experiences that fit seamlessly into Office and Office 365.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
