@@ -16,7 +16,7 @@
         - [Interaction Design](#interaction-design)
     - [Communities](#communities)
     - [Courses](#courses)
-    - [Languages](#languages)
+    - [Guidelines](#guidelines)
     - [Patterns](#patterns)
     - [Techniques](#techniques)
     - [Newsletters](#newsletters)
@@ -143,7 +143,7 @@
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
-### Languages
+### Guidelines
 
 - [Material Design](https://material.io/) - Material Design is a unified system that combines theory, resources, and tools for crafting digital experiences, by Google.
 
