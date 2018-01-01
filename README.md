@@ -101,9 +101,9 @@
 
 #### Information Architecture
 
-- [What is Information Architecture?](https://www.iainstitute.org/what-is-ia) - Information architecture is the practice of deciding how to arrange the parts of something to be understandable. By the IAInstitute.
+- [What is Information Architecture?](https://www.iainstitute.org/what-is-ia) - Information architecture is the practice of deciding how to arrange the parts of something to be understandable.
 
-- [Visual vocabulary for Information Architecture](http://www.jjg.net/ia/visvocab/) - A visual vocabulary for describing information architecture and interaction design
+- [Visual vocabulary for Information Architecture](http://www.jjg.net/ia/visvocab/) - A visual vocabulary for describing information architecture and interaction design.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -115,12 +115,14 @@
 
 #### Universal Design & Accessibility
 
+- [Complete Beginner’s Guide to Universal Design](http://www.uxbooth.com/articles/complete-beginners-guide-to-universal-design/)
+
 - [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
 
 
 ### Communities
 
-- [Information Architecture Institute](https://www.iainstitute.org/) - A nonprofit organization of volunteers with a singular focus: to make the world's information clearer and easier to use by improving how people learn, practice and teach information architecture (IA).
+- [Information Architecture Institute](https://www.iainstitute.org/) - A nonprofit organization of volunteers with a singular focus: to make the world's information clearer and easier to use by improving how people learn, practice and teach Information Architecture (IA).
 
 - [Interaction Design Association](https://ixda.org/) - A global community of people who share an interest in interaction design.
 
