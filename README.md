@@ -105,6 +105,8 @@
 
 - [Visual vocabulary for Information Architecture](http://www.jjg.net/ia/visvocab/) - A visual vocabulary for describing information architecture and interaction design.
 
+- [A Model for Understanding Information Architecture: Ontology, Taxonomy and Choreography](https://www.youtube.com/watch?v=6oaxdq7uqIY) - Understanding where the Information Architecture part is.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 #### Interaction Design
