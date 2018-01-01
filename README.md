@@ -285,11 +285,6 @@
 
 - [Angular](https://angular.io/) - One framework. Mobile & desktop.
 
-
-#### Icons
-
-- [Font Awesome](https://fontawesome.com/) - Get vector icons and social logos on your website with Font Awesome, the web’s most popular icon set and toolkit.
-
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
@@ -339,4 +334,7 @@
 
 - [UI Freebies](https://uifreebies.io/) - Free Design Resources for Sketch. Hand-picked design resources, updated daily.
 
+#### Icons
+
+- [Font Awesome](https://fontawesome.com/) - Get vector icons and social logos on your website with Font Awesome, the web’s most popular icon set and toolkit.
 <sup>[back to table of contents](#table-of-contents)</sup>
