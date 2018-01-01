@@ -14,7 +14,7 @@
     - [Disciplines](#disciplines)
         - [Information Architecture](#information-architecture)
         - [Interaction Design](#interaction-design)
-        - [Accessibility](#accessibility)
+        - [Universal Design & Accessibility](#universal-design--accessibility)
     - [Communities](#communities)
     - [Courses](#courses)
     - [Guidelines](#guidelines)
@@ -113,7 +113,7 @@
 
 - [What is Interaction Design: The Practical Framework](https://www.uxpin.com/studio/blog/what-is-interaction-design-the-practical-framework/) - This article will introduce you to the core concepts of interaction design, explaining how to use them to breathe life into your product.
 
-#### Accessibility
+#### Universal Design & Accessibility
 
 - [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
 
