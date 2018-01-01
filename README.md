@@ -115,6 +115,9 @@
 
 #### Accessibility
 
+- [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
+
+
 ### Communities
 
 - [Information Architecture Institute](https://www.iainstitute.org/) - A nonprofit organization of volunteers with a singular focus: to make the world's information clearer and easier to use by improving how people learn, practice and teach information architecture (IA).
