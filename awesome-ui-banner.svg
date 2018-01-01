@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="880px" height="200px" viewBox="0 0 880 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#3B008D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="0" width="880" height="200"></rect>
+            <g id="Group" transform="translate(191.000000, -1.000000)">
+                <text id="UI" font-family="BPreplay-Bold, BPreplay" font-size="168" font-weight="bold" letter-spacing="13" fill="#FFFFFF">
+                    <tspan x="319.357028" y="165.310021">U</tspan>
+                    <tspan x="447.437028" y="165.310021">I</tspan>
+                </text>
+                <path d="M272.025,91.0333333 L202.275,27.0465021 L192.4635,37.7419753 L250.5885,91.0333333 L21.483,91.0333333 L79.608,37.6954733 L69.7965,27 L0.0465,91.0333333 L0,91.0333333 L0,133.2107 C0,152.276543 18.3675,167.80823 40.92,167.80823 L83.9325,167.80823 C106.485,167.80823 124.8525,152.276543 124.8525,133.2107 L124.8525,105.495473 L147.1725,105.495473 L147.1725,133.2107 C147.1725,152.276543 165.54,167.80823 188.0925,167.80823 L231.105,167.80823 C253.6575,167.80823 272.025,152.276543 272.025,133.2107 L272.025,91.0333333 Z" id="Shape" fill="#FC60A8"></path>
+            </g>
+        </g>
+    </g>
+</svg>
