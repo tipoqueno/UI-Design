@@ -285,6 +285,11 @@
 
 - [Angular](https://angular.io/) - One framework. Mobile & desktop.
 
+
+#### Icons
+
+- [Font Awesome](https://fontawesome.com/) - Get vector icons and social logos on your website with Font Awesome, the web’s most popular icon set and toolkit.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
