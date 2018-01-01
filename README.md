@@ -115,7 +115,7 @@
 
 #### Universal Design & Accessibility
 
-- [Complete Beginner’s Guide to Universal Design](http://www.uxbooth.com/articles/complete-beginners-guide-to-universal-design/)
+- [Complete Beginner’s Guide to Universal Design](http://www.uxbooth.com/articles/complete-beginners-guide-to-universal-design/) - While a good design is usable by people of all ages and technical adeptness, a truly universal design works for users with varying physical abilities.
 
 - [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
 
