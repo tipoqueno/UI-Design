@@ -225,7 +225,7 @@
 
 - [Web Tools Weekly](https://webtoolsweekly.com/) - A front-end development and web design newsletter with a focus on tools.
 
-- [The UI Animation Newsletter](http://valhead.com/newsletter/) - Weekly web animation resources & inspiration, by Val Head.
+- [The UI Animation Newsletter](http://uianimationnewsletter.com/) - Weekly web animation resources & inspiration, by Val Head.
 
 
 ## Tools
