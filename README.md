@@ -205,7 +205,9 @@
 
 - [Five-Second Testing](https://usabilityhub.com/guides/five-second-testing) - Form of usability testing that allows you to determine whether a design quickly communicates an intended message or impression. It can provide both quantitative and qualitative feedback that lets you optimize a design and encourages iterative improvement.
 
-#### Usability (expert) reviews
+#### Usability (expert) reviews 
+
+- [A guide to carrying out usability reviews](http://www.uxforthemasses.com/usability-reviews/) - In this article, author walkthrough a method for examining the usability of an interactive system (website, application, mobile app etc.) by using a combination of a scenario based and heuristic (i.e. best practice guidelines) based review.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
