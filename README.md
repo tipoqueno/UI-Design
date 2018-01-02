@@ -159,6 +159,10 @@
 
 - [Free UI Design Short Course](http://info.careerfoundry.com/ui-design/ui-short-course-emails) - Get a glimpse of the research and planning going on behind the scenes with this free, 7-day, UI Design Short Course. **FREE** / Email course
 
+- [UI Design / DESIGN LAB](http://trydesignlab.com/ui-design-course/) - Dive into the theory and techniques you need to make beautiful web and mobile interfaces in this 4-week online course. **PAID** / Video course
+
+
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
