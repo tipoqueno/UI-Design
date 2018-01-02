@@ -286,6 +286,8 @@
 
 - [Office UI Fabric](https://developer.microsoft.com/en-us/fabric) - The official front-end framework for building experiences that fit seamlessly into Office and Office 365.
 
+- [HTML5 Boilerplate](https://html5boilerplate.com/) - The web’s most popular front-end template
+
 #### Javascript
 
 - [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework
