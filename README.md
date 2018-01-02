@@ -221,9 +221,11 @@
 
 ### Newsletters
 
-- [Sidebar.io](https://sidebar.io/) - The five best design links, every day. By Sacha Greif.
+- [Sidebar.io](https://sidebar.io/) - The five best design links, every day, by Sacha Greif.
 
 - [Web Tools Weekly](https://webtoolsweekly.com/) - A front-end development and web design newsletter with a focus on tools.
+
+- [The UI Animation Newsletter](http://valhead.com/newsletter/) - Weekly web animation resources & inspiration, by Val Head.
 
 
 ## Tools
