@@ -55,6 +55,8 @@
 
 - [Classroom: Five Essential Principles of Interaction Design](https://tv.adobe.com/show/classroom-five-essential-principles-of-interaction-design/) - Interactive Experience Design Expert David Hogue focuses on five key principles of interaction design.
 
+- [20 Guiding Principles for Experience Design](https://principles.design/examples/20-guiding-principles-for-experience-design) - A set of guiding principles for experience design — which anyone who touches a product used by humans should strive to follow, by Whitney Hess.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
