@@ -234,6 +234,8 @@
 
 - [The UI Animation Newsletter](http://uianimationnewsletter.com/) - Weekly web animation resources & inspiration, by Val Head.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
+
 
 ## Tools
 
