@@ -27,7 +27,7 @@
     	- [Style Tiles](#style-tiles)
     - [Newsletters](#newsletters)
 - [Tools](#tools)
-    - Pen & Paper ;)
+    - [Pen & Paper](#pen--paper) ;)
     - [Design Apps](#design-apps)
     - [Testing Apps](#testing-apps)
         - [Usability testing](#usability-testing)
@@ -98,8 +98,6 @@
 - [User Centered Design (UCD)](https://en.wikipedia.org/wiki/User-centered_design) - (User) Human-centred design is an approach to interactive system development that focuses specifically on making systems usable.
 
 - [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html) - User Interface (UI) Design focuses on anticipating what users might need.
-
-- [Interaction design starts on paper](https://onepotprojects.com/interaction-design-starts-on-paper-a2baa91acc45) - Create beautiful UI through better wireframes
 
 - [How to Design Voice User Interfaces](https://www.interaction-design.org/literature/article/how-to-design-voice-user-interfaces) - Here, you will learn what the users expect from voice communication and get practical guidelines for how to design great voice user interfaces.
 
@@ -238,6 +236,10 @@
 
 
 ## Tools
+
+### Pen & Paper
+
+- [Interaction design starts on paper](https://onepotprojects.com/interaction-design-starts-on-paper-a2baa91acc45) - Create beautiful UI through better wireframes
 
 
 ### Design Apps
