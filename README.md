@@ -195,9 +195,11 @@
 
 - [UI Garage](https://uigarage.net/) - All the latest UI Design Inspiration and UI Patterns collected in one place.
 
-- [Welie](http://www.welie.com/index.php) - A Pattern Library for Interaction Design
+- [Welie](http://www.welie.com/index.php) - A Pattern Library for Interaction Design.
 
 - [Dark Patterns](https://darkpatterns.org/) -  The purpose of this site is to spread awareness and to shame companies that use tricks in websites and apps that make you buy or sign up for things that you didn't mean to.
+
+- [Android Patterns](https://androidpatterns.com/) - Set of interaction patterns that can help you design Android apps.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
