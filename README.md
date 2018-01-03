@@ -23,7 +23,8 @@
     - [Techniques](#techniques)
     	- [Think Aloud](#think-aloud)
     	- [Five seconds test](#five-seconds-test)
-    	- [Usability (expert) reviews](#usability-expert-reviews) 
+    	- [Usability (expert) reviews](#usability-expert-reviews)
+    	- [Style Tiles](#style-tiles)
     - [Newsletters](#newsletters)
 - [Tools](#tools)
     - Pen & Paper ;)
@@ -219,6 +220,10 @@
 #### Usability (expert) reviews 
 
 - [A guide to carrying out usability reviews](http://www.uxforthemasses.com/usability-reviews/) - In this article, author walkthrough a method for examining the usability of an interactive system (website, application, mobile app etc.) by using a combination of a scenario based and heuristic (i.e. best practice guidelines) based review.
+
+#### Style Tiles
+
+- [Style Tiles](http://styletil.es/) - Help form a common visual language between the designers and the stakeholders and provide a catalyst for discussions around the preferences and goals of the client. 
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
