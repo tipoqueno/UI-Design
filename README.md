@@ -173,6 +173,8 @@
 
 ### Design Systems
 
+- [A comprehensive guide to design systems](https://www.invisionapp.com/blog/guide-to-design-systems/) - Let’s dig into the fundamentals of design systems, plan how you can build and implement one in your organization, and explore several examples of organizations that are using design systems to drive success.
+
 #### Examples
 
 - [Material Design](https://material.io/) - Material Design is a unified system that combines theory, resources, and tools for crafting digital experiences, by Google.
