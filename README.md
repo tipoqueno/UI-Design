@@ -313,6 +313,8 @@
 
 - [HTML5 Boilerplate](https://html5boilerplate.com/) - The web’s most popular front-end template
 
+- [Material-UI](https://material-ui-next.com/) - React components that implement Google's Material Design.
+
 #### Javascript
 
 - [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework
