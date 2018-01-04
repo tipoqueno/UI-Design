@@ -19,7 +19,7 @@
         - [Research](#research)
     - [Communities](#communities)
     - [Courses](#courses)
-    - [Guidelines](#guidelines)
+    - [Design Systems](#design-systems)
     - [Patterns](#patterns)
     - [Techniques](#techniques)
     	- [Think Aloud](#think-aloud)
@@ -167,12 +167,10 @@
 
 - [UI Design / DESIGN LAB](http://trydesignlab.com/ui-design-course/) - Dive into the theory and techniques you need to make beautiful web and mobile interfaces in this 4-week online course. **PAID** / Video course
 
-
-
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
-### Guidelines
+### Design Systems
 
 - [Material Design](https://material.io/) - Material Design is a unified system that combines theory, resources, and tools for crafting digital experiences, by Google.
 
