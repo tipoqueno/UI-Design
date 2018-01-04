@@ -16,7 +16,7 @@
         - [Information Architecture](#information-architecture)
         - [Interaction Design](#interaction-design)
         - [Universal Design & Accessibility](#universal-design--accessibility)
-        - [User Research](#user-research)
+        - [Research](#research)
     - [Communities](#communities)
     - [Courses](#courses)
     - [Guidelines](#guidelines)
@@ -132,8 +132,7 @@
 
 - [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
 
-#### User Research
-
+#### Research
 
 ### Communities
 
