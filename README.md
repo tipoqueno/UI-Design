@@ -203,6 +203,8 @@
 
 - [Android Patterns](https://androidpatterns.com/) - Set of interaction patterns that can help you design Android apps.
 
+- [10 UI Design Patterns You Should Be Paying Attention To](https://www.smashingmagazine.com/2009/06/10-ui-design-patterns-you-should-be-paying-attention-to/) - This article goes over 10 interesting UI design patterns that you can use in your own projects.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
