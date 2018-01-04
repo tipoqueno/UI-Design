@@ -134,6 +134,8 @@
 
 #### Research
 
+- [Complete Beginner’s Guide to UX Research](http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/) - Readers will get a head start on how to use these design research techniques in their work, and improve experiences for all users.
+
 ### Communities
 
 - [Information Architecture Institute](https://www.iainstitute.org/) - A nonprofit organization of volunteers with a singular focus: to make the world's information clearer and easier to use by improving how people learn, practice and teach Information Architecture (IA).
