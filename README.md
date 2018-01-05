@@ -308,6 +308,8 @@
 
 - [Bulma](https://bulma.io/) - Modern CSS framework based on Flexbox
 
+- [Basscss](http://basscss.com/) - Lightning Fast Modular CSS with No Side Effects
+
 #### CSS + Javascript
 
 - [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web.
