@@ -41,6 +41,7 @@
 - [Resources](#resources)
     - [Inspiration](#inspiration)
     - [Freebies](#freebies)
+    	- [Icons](#icons)
 
 
 ## Learn
