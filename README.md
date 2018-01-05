@@ -108,6 +108,8 @@
 
 - [Designing Great UIs for Progressive Web Apps](https://medium.com/@owencm/designing-great-uis-for-progressive-web-apps-dd38c1d20f7) - Progressive Web Apps give us an opportunity to reset our expectations and to loudly declare that We Can Do Better when designing user experiences on the web.
 
+- [The Anti-Mac Interface](https://www.nngroup.com/articles/anti-mac-interface/) - We reverse all of the core design principles behind the Macintosh human interface guidelines to arrive at the characteristics of the Internet desktop, by Jakob Nielsen (1996).
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
