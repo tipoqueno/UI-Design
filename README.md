@@ -378,7 +378,7 @@
 
 - [We Love SVG: Free SVG Files](https://icons8.com/welovesvg) - An open source library that allows embedding icons from any icon library.
 
-- [UI Space](https://uispace.net/) - Thousand of great freebies. -Search for an high quality and Hand-crafted freebie.
+- [UI Space](https://uispace.net/) - Thousand of great freebies. Search for an high quality and Hand-crafted freebie.
 
 - [UI Freebies](https://uifreebies.io/) - Free Design Resources for Sketch. Hand-picked design resources, updated daily.
 
