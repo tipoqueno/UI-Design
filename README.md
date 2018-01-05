@@ -3,7 +3,7 @@
 
 > A curated list of awesome things related to User Interface Design
 
-* Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> to search faster :wink:
+* Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>Cmd</kbd> + <kbd>F</kbd> to search faster :wink:
 
 
 ## Table of Contents
