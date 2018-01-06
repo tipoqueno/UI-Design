@@ -35,10 +35,13 @@
         - [Usability testing](#usability-testing)
         - [Technical testing](#technical-testing)
     - [Languages](#languages)
+		- [HTML](#html)
+		- [CSS](#css)
+		- [Javascript](#javascript)
     - [Libraries & Frameworks](#libraries--frameworks)
-    	- [CSS](#css)
+    	- [CSS Only](#css-only)
     	- [CSS + Javascript](#css--javascript)
-    	- [Javascript](#javascript)
+    	- [Javascript Only](#javascript-only)
 - [Resources](#resources)
     - [Inspiration](#inspiration)
     - [Freebies](#freebies)
@@ -305,9 +308,16 @@
 
 ### Languages
 
-### Libraries & Frameworks
+#### HTML
 
 #### CSS
+
+#### Javascript 
+
+
+### Libraries & Frameworks
+
+#### CSS Only
 
 - [Pure.css](https://purecss.io/) - Set of small, responsive CSS modules that you can use in every web project.
 
@@ -337,7 +347,7 @@
 
 - [Material-UI](https://material-ui-next.com/) - React components that implement Google's Material Design.
 
-#### Javascript
+#### Javascript Only
 
 - [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework
 
