@@ -34,6 +34,7 @@
     - [Testing Apps](#testing-apps)
         - [Usability testing](#usability-testing)
         - [Technical testing](#technical-testing)
+    - [Languages](#languages)
     - [Libraries & Frameworks](#libraries--frameworks)
     	- [CSS](#css)
     	- [CSS + Javascript](#css--javascript)
@@ -302,6 +303,7 @@
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
+### Languages
 
 ### Libraries & Frameworks
 
