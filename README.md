@@ -399,4 +399,6 @@
 
 - [Bytesize](https://danklammer.com/bytesize-icons/) - Tiny style-controlled SVG iconset.
 
+- [Heroicons UI](https://github.com/sschoger/heroicons-ui) - A set of 104 free premium SVG icons.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
