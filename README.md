@@ -292,7 +292,9 @@
 
 - [POP. Prototyping on paper](https://marvelapp.com/pop/) - POP helps you transform your pen and paper ideas into an interactive iPhone or Android prototype.
 
-- [UserTesting](https://www.usertesting.com/) - User Experience Research Platform
+- [UserTesting](https://www.usertesting.com/) - User Experience Research Platform.
+
+- [Loop11](https://www.loop11.com/) - Informed design decisions built from numbers & stories.
 
 #### Technical testing
 
