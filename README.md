@@ -287,6 +287,8 @@
 
 - [MockFlow](https://www.mockflow.com/) - Super-easy wireframing and UX suite for designers.
 
+- [Framer](https://framer.com/) - Design everything from detailed icons to high-fidelity interactions—all in one place.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
