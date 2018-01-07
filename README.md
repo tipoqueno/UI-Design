@@ -312,6 +312,8 @@
 
 - [HTML, from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML) - To build websites, you should know about HTML — the fundamental technology used to define the structure of a webpage.
 
+- [HTML Reference](http://htmlreference.io/) - Free guide to HTML. It features all elements and attributes.
+
 #### CSS
 
 - [CSS, form MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS) - While HTML is used to define the structure and semantics of your content, CSS is used to style it and lay it out.
