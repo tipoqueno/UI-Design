@@ -285,7 +285,7 @@
 
 - [Webflow](https://webflow.com/) - Gives designers and developers the power to design, build, and launch responsive websites visually, while writing clean, semantic code for you.
 
-- [MockFlow](https://www.mockflow.com/) - Super-easy wireframing and UX suite for designers
+- [MockFlow](https://www.mockflow.com/) - Super-easy wireframing and UX suite for designers.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -315,6 +315,8 @@
 #### CSS
 
 - [CSS, form MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS) - While HTML is used to define the structure and semantics of your content, CSS is used to style it and lay it out.
+
+- [CSS Reference](http://cssreference.io/) - Free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples. 
 
 #### Javascript 
 
