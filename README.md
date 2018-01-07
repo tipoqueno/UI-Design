@@ -257,6 +257,8 @@
 
 - [The UI Animation Newsletter](http://uianimationnewsletter.com/) - Weekly web animation resources & inspiration, by Val Head.
 
+- [UX Design Weekly](http://uxdesignweekly.com/) - A hand picked list of the best user experience design links every week.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
