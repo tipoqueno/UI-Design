@@ -316,7 +316,7 @@
 
 #### CSS
 
-- [CSS, form MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS) - While HTML is used to define the structure and semantics of your content, CSS is used to style it and lay it out.
+- [CSS, from MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS) - While HTML is used to define the structure and semantics of your content, CSS is used to style it and lay it out.
 
 - [CSS Reference](http://cssreference.io/) - Free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples. 
 
