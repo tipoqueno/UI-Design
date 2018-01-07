@@ -339,6 +339,8 @@
 
 - [Basscss](http://basscss.com/) - Lightning Fast Modular CSS with No Side Effects
 
+- [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
