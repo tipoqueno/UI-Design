@@ -333,11 +333,11 @@
 
 - [Pure.css](https://purecss.io/) - Set of small, responsive CSS modules that you can use in every web project.
 
-- [Milligram](https://milligram.io/) - Minimalist CSS framework
+- [Milligram](https://milligram.io/) - Minimalist CSS framework.
 
-- [Bulma](https://bulma.io/) - Modern CSS framework based on Flexbox
+- [Bulma](https://bulma.io/) - Modern CSS framework based on Flexbox.
 
-- [Basscss](http://basscss.com/) - Lightning Fast Modular CSS with No Side Effects
+- [Basscss](http://basscss.com/) - Lightning Fast Modular CSS with No Side Effects.
 
 - [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 
