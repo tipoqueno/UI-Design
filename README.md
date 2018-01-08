@@ -324,7 +324,9 @@
 
 - [CSS Reference](http://cssreference.io/) - Free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples. 
 
-#### Javascript 
+#### Javascript
+
+- [JavaScript, from MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - A prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Learn how to program in JavaScript with guides and tutorials.
 
 
 ### Libraries & Frameworks
