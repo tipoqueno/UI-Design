@@ -27,6 +27,7 @@
     	- [Five seconds test](#five-seconds-test)
     	- [Usability (expert) reviews](#usability-expert-reviews)
     	- [Style Tiles](#style-tiles)
+    	- [Usability Testing](usability-testing)
     - [Newsletters](#newsletters)
 - [Tools](#tools)
     - [Pen & Paper](#pen--paper) ;)
@@ -244,7 +245,9 @@
 
 #### Style Tiles
 
-- [Style Tiles](http://styletil.es/) - Help form a common visual language between the designers and the stakeholders and provide a catalyst for discussions around the preferences and goals of the client. 
+- [Style Tiles](http://styletil.es/) - Help form a common visual language between the designers and the stakeholders and provide a catalyst for discussions around the preferences and goals of the client.
+
+#### Usability Testing
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
