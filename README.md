@@ -372,6 +372,8 @@
 
 - [Material-UI](https://material-ui-next.com/) - React components that implement Google's Material Design.
 
+- [Framework7](http://framework7.io/) - Full featured HTML framework for building iOS & Android apps.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
