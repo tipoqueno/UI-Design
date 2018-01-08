@@ -30,19 +30,20 @@
     	- [Usability Testing](usability-testing)
     - [Newsletters](#newsletters)
 - [Tools](#tools)
-    - [Pen & Paper](#pen--paper) ;)
-    - [Design Apps](#design-apps)
-    - [Testing Apps](#testing-apps)
-        - [Usability testing](#usability-testing)
-        - [Technical testing](#technical-testing)
-    - [Languages](#languages)
+	- [Pen & Paper](#pen--paper) ;)
+	- [Design Apps](#design-apps)
+	- [Testing Apps](#testing-apps)
+		- [Usability testing](#usability-testing)
+		- [Technical testing](#technical-testing)
+	- [Languages](#languages)
 		- [HTML](#html)
 		- [CSS](#css)
 		- [Javascript](#javascript)
-    - [Libraries & Frameworks](#libraries--frameworks)
-    	- [CSS Only](#css-only)
-    	- [CSS + Javascript](#css--javascript)
-    	- [Javascript Only](#javascript-only)
+	- [Libraries & Frameworks](#libraries--frameworks)
+		- [CSS Only](#css-only)
+		- [CSS + Javascript](#css--javascript)
+		- [Javascript Only](#javascript-only)
+	- [Environments](#environments)
 - [Resources](#resources)
     - [Inspiration](#inspiration)
     - [Freebies](#freebies)
@@ -384,6 +385,8 @@
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
+
+## Environments
 
 ## Resources
 
