@@ -29,7 +29,7 @@
     	- [Five seconds test](#five-seconds-test)
     	- [Usability (expert) reviews](#usability-expert-reviews)
     	- [Style Tiles](#style-tiles)
-    	- [Usability Testing](usability-testing)
+    	- [Usability Testing](#usability-testing)
     - [Newsletters](#newsletters)
 - [Tools](#tools)
 	- [Pen & Paper](#pen--paper) ;)
