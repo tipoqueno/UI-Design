@@ -183,6 +183,8 @@
 
 - [UI Design / DESIGN LAB](http://trydesignlab.com/ui-design-course/) - Dive into the theory and techniques you need to make beautiful web and mobile interfaces in this 4-week online course. **PAID** / Video course
 
+- [Interaction Design Specialization / COURSERA](https://www.coursera.org/specializations/interaction-design) - Learn how to design great user experiences. Design that delights users. **FREEMIUM** / Video course
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
