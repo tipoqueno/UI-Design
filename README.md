@@ -200,7 +200,9 @@
 
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/) - Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
 
-- [IBM Design Language](https://www.ibm.com/design/language/) - Living Language. A shared vocabulary for design
+- [IBM Design Language](https://www.ibm.com/design/language/) - Living Language. A shared vocabulary for design.
+
+- [Duolingo Design](https://www.duolingo.com/design/) - Brand design and user interfaces of Duolingo.
 
 
 <sup>[back to table of contents](#table-of-contents)</sup>
