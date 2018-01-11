@@ -70,7 +70,7 @@
 
 - [20 Guiding Principles for Experience Design](https://principles.design/examples/20-guiding-principles-for-experience-design) - A set of guiding principles for experience design — which anyone who touches a product used by humans should strive to follow, by Whitney Hess.
 
-- [Ten principles for good design](https://www.vitsoe.com/us/about/good-design) - These design principles from the legendary product designer Dieter Rams has influenced not only the iconic product designs from Braun in the 1960s, but also the design of Apples products.
+- [Dieter Rams' ten principles for good design](https://www.vitsoe.com/us/about/good-design) - These design principles from the legendary product designer Dieter Rams has influenced not only the iconic product designs from Braun in the 1960s, but also the design of Apple's products.
 
 - [Principles of Calm Technology](https://calmtech.com/) - When we design products, we aim to choose the best position for user interface components, placing the most important ones in the most accessible places on the screen.
 
