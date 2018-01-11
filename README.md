@@ -455,8 +455,6 @@
 
 - [Sketch App Sources](https://www.sketchappsources.com/) - We curate hundreds of icons and UI kits for web and mobile to help you design, prototype, learn, and ideate faster.
 
-- [We Love SVG: Free SVG Files](https://icons8.com/welovesvg) - An open source library that allows embedding icons from any icon library.
-
 - [UI Space](https://uispace.net/) - Thousand of great freebies. Search for an high quality and Hand-crafted freebie.
 
 - [UI Freebies](https://uifreebies.io/) - Free Design Resources for Sketch. Hand-picked design resources, updated daily.
@@ -473,5 +471,7 @@
 - [Bytesize](https://danklammer.com/bytesize-icons/) - Tiny style-controlled SVG iconset.
 
 - [Heroicons UI](https://github.com/sschoger/heroicons-ui) - A set of 104 free premium SVG icons.
+
+- [We Love SVG: Free SVG Files](https://icons8.com/welovesvg) - An open source library that allows embedding icons from any icon library.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
