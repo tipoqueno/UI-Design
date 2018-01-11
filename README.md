@@ -267,6 +267,8 @@
 
 #### Card Sorting
 
+- [Card Sorting: A Definitive Guide](http://boxesandarrows.com/card-sorting-a-definitive-guide/) - Card sorting is a great, reliable, inexpensive method for finding patterns in how users would expect to find content or functionality.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
