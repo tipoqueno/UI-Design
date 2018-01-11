@@ -72,6 +72,8 @@
 
 - [Ten principles for good design](https://www.vitsoe.com/us/about/good-design) - These design principles from the legendary product designer Dieter Rams has influenced not only the iconic product designs from Braun in the 1960s, but also the design of Apples products.
 
+- [Principles of Calm Technology](https://calmtech.com/) - When we design products, we aim to choose the best position for user interface components, placing the most important ones in the most accessible places on the screen.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
