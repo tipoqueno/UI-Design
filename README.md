@@ -115,7 +115,7 @@
 
 ### Articles
 
-- [User Centered Design (UCD)](https://en.wikipedia.org/wiki/User-centered_design) - (User) Human-centred design is an approach to interactive system development that focuses specifically on making systems usable.
+- [User Centered Design (UCD)](https://en.wikipedia.org/wiki/User-centered_design) - (User) Human-centered design is an approach to interactive system development that focuses specifically on making systems usable.
 
 - [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html) - User Interface (UI) Design focuses on anticipating what users might need.
 
