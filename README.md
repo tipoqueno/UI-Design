@@ -274,6 +274,8 @@
 
 - [UX Design Weekly](http://uxdesignweekly.com/) - A hand picked list of the best user experience design links every week.
 
+- [HeyDesigner](https://heydesigner.com/) - Daily curated newsfeed for product people, UXers, PMs and frontend developers.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
