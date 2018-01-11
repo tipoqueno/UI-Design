@@ -461,6 +461,8 @@
 
 - [UI Freebies](https://uifreebies.io/) - Free Design Resources for Sketch. Hand-picked design resources, updated daily.
 
+- [UI8 Freebies](https://www.ui8.net/categories/freebies) - 209 awesome design freebies to get your creative juices flowing.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
