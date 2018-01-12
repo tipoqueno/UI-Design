@@ -160,6 +160,8 @@
 
 - [10 User Research Myths and Misconceptions](https://www.uxmatters.com/mt/archives/2015/11/10-user-research-myths-and-misconceptions.php) - There are still many misconceptions about how to gain an understanding of users and their needs.
 
+- [Cultivating Shared Understanding from Collaborative User Research](https://www.uie.com/brainsparks/2015/09/11/erika-hall-cultivating-shared-understanding-from-collaborative-user-research/) - Erika Hall on UIE Brain Sparks 
+
 ### Communities
 
 - [Information Architecture Institute](https://www.iainstitute.org/) - A nonprofit organization of volunteers with a singular focus: to make the world's information clearer and easier to use by improving how people learn, practice and teach Information Architecture (IA).
