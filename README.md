@@ -466,6 +466,8 @@
 
 - [UI8 Freebies](https://www.ui8.net/categories/freebies) - 209 awesome design freebies to get your creative juices flowing.
 
+- [Juntoo.co](http://blog.juntoo.co/44-awesome-resources-for-sketch/) - 44 Awesome Resources for Sketch.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
