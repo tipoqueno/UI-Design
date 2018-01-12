@@ -214,6 +214,7 @@
 
 - [Duolingo Design](https://www.duolingo.com/design/) - Brand design and user interfaces of Duolingo.
 
+- [Mozilla Style Guide](http://www.mozilla.org/en-US/styleguide/) - Style Guide by the Mozilla Organization.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
