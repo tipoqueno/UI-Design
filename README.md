@@ -19,6 +19,7 @@
         - [Interaction Design](#interaction-design)
         - [Universal Design & Accessibility](#universal-design--accessibility)
         - [Research](#research)
+        - [Content Strategy](#content-strategy)
     - [Communities](#communities)
     - [Courses](#courses)
     - [Design Systems](#design-systems)
@@ -160,7 +161,9 @@
 
 - [10 User Research Myths and Misconceptions](https://www.uxmatters.com/mt/archives/2015/11/10-user-research-myths-and-misconceptions.php) - There are still many misconceptions about how to gain an understanding of users and their needs.
 
-- [Cultivating Shared Understanding from Collaborative User Research](https://www.uie.com/brainsparks/2015/09/11/erika-hall-cultivating-shared-understanding-from-collaborative-user-research/) - Erika Hall on UIE Brain Sparks 
+- [Cultivating Shared Understanding from Collaborative User Research](https://www.uie.com/brainsparks/2015/09/11/erika-hall-cultivating-shared-understanding-from-collaborative-user-research/) - Erika Hall on UIE Brain Sparks.
+
+#### Content Strategy
 
 ### Communities
 
