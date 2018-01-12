@@ -146,6 +146,8 @@
 
 - [What is Interaction Design: The Practical Framework](https://www.uxpin.com/studio/blog/what-is-interaction-design-the-practical-framework/) - This article will introduce you to the core concepts of interaction design, explaining how to use them to breathe life into your product.
 
+- [Interaction Design Basics](https://www.usability.gov/what-and-why/interaction-design.html) - Introduction to Interaction Design by Usability.gov Team.
+
 #### Universal Design & Accessibility
 
 - [Complete Beginner’s Guide to Universal Design](http://www.uxbooth.com/articles/complete-beginners-guide-to-universal-design/) - While a good design is usable by people of all ages and technical adeptness, a truly universal design works for users with varying physical abilities.
