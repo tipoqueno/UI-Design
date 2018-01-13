@@ -332,6 +332,8 @@
 
 - [Framer](https://framer.com/) - Design everything from detailed icons to high-fidelity interactions—all in one place.
 
+- [Atomic](https://atomic.io/) - Advanced interactive design features like logic, data, and variables, into the hands of every designer.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
