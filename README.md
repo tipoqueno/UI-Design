@@ -467,6 +467,8 @@
 
 - [Little UI Details](https://twitter.com/i/moments/880688233641848832) - Collections of little tips from Steve Schoger to improve your visual design skills with the little details that make a big difference.
 
+- [UIDB](https://uidb.io/) - Find live examples of any UI.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
