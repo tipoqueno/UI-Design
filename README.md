@@ -166,7 +166,7 @@
 
 #### Content Strategy
 
-- [The Discipline of Content Strategy](http://alistapart.com/article/thedisciplineofcontentstrategy) - An A List Apart Article.
+- [The Discipline of Content Strategy](http://alistapart.com/article/thedisciplineofcontentstrategy) - An A List Apart Article, by Kristina Halvorson.
 
 ### Communities
 
