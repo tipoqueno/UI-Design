@@ -510,4 +510,6 @@
 
 - [Fontsquirrel](https://www.fontsquirrel.com/) - All things fonts, font-face, and webfonts. FREE, hand-picked, high-quality, commercial-use fonts, even if that means we send you elsewhere to get them.
 
+- [Google Fonts](https://fonts.google.com/) - Making the web more beautiful, fast, and open through great typography.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
