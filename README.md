@@ -366,6 +366,9 @@
 
 - [Marksheet - CSS Basics](http://marksheet.io/css-basics.html) - For developers eager to learn how CSS can define the style and layout of a webpage.
 
+- [CSS Grid Guide](https://cssgrid.cc/css-grid-guide.html) - The CoffeeCup Guide to liberating layout through CSS Grid.
+
+
 #### Javascript
 
 - [JavaScript, from MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - A prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Learn how to program in JavaScript with guides and tutorials.
