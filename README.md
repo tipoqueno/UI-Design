@@ -420,6 +420,8 @@
 
 - [Element](http://element.eleme.io/) - A Vue 2.0 based component library for developers, designers and product managers.
 
+- [Shoelace](https://shoelace.style/) - A back to the basics CSS starter kit. For when you don’t need the whole boot.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
