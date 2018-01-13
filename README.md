@@ -52,6 +52,7 @@
     - [Inspiration](#inspiration)
     - [Freebies](#freebies)
     	- [Icons](#icons)
+    	- [Fonts](#fonts)
 
 
 ## Learn
@@ -483,7 +484,6 @@
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
-
 #### Icons
 
 - [Font Awesome](https://fontawesome.com/) - Get vector icons and social logos on your website with Font Awesome, the web’s most popular icon set and toolkit.
@@ -493,5 +493,7 @@
 - [Heroicons UI](https://github.com/sschoger/heroicons-ui) - A set of 104 free premium SVG icons.
 
 - [We Love SVG: Free SVG Files](https://icons8.com/welovesvg) - An open source library that allows embedding icons from any icon library.
+
+#### Fonts
 
 <sup>[back to table of contents](#table-of-contents)</sup>
