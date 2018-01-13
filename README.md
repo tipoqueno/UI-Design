@@ -410,6 +410,8 @@
 
 - [Framework7](http://framework7.io/) - Full featured HTML framework for building iOS & Android apps.
 
+- [Element](http://element.eleme.io/) - A Vue 2.0 based component library for developers, designers and product managers.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
