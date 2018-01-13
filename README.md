@@ -440,7 +440,9 @@
 
 ## Environments
 
-- [Storybook](https://storybook.js.org/) - The UI Development Environment You'll ♥️ to use
+- [Storybook](https://storybook.js.org/) - The UI Development Environment You'll ♥️ to use.
+
+- [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide.
 
 ## Resources
 
