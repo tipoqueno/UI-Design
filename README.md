@@ -202,6 +202,8 @@
 
 - [Interaction Design Specialization / COURSERA](https://www.coursera.org/specializations/interaction-design) - Learn how to design great user experiences. Design that delights users. **FREEMIUM** / Video course
 
+- [Interaction Design Fundamentals](https://www.lynda.com/Dreamweaver-CS5-training/Interaction-Design-Fundamentals/82822-2.html) - In this course, author David Hogue sheds light on designing effective interactions for any digital medium. **FREEMIUM** / Video course
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
