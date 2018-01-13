@@ -433,6 +433,8 @@
 
 - [Angular](https://angular.io/) - One framework. Mobile & desktop.
 
+- [Moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
