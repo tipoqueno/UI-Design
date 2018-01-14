@@ -129,6 +129,8 @@
 
 - [The Anti-Mac Interface](https://www.nngroup.com/articles/anti-mac-interface/) - We reverse all of the core design principles behind the Macintosh human interface guidelines to arrive at the characteristics of the Internet desktop, by Jakob Nielsen (1996).
 
+- [How to Learn UI Design From Zero-Basis](https://www.mockplus.com/blog/post/how-to-learn-ui-design-from-zerobasis) - Can someone become an UI designer when he does not major in UI?Definitely yes. 
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
