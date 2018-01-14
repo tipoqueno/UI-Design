@@ -188,15 +188,15 @@
 
 - [Intro to the Design of Everyday Things / UDACITY](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) - This course provides a summary of key concepts from the first two chapters of The Design of Everyday Things by Don Norman. **FREE** / Video course
 
-- [Hack Design](https://hackdesign.org/) - An easy to follow design course for people who do amazing things. **FREE** / Email course
+- [Hack Design / SITE](https://hackdesign.org/) - An easy to follow design course for people who do amazing things. **FREE** / Email course
 
-- [Learn UI Design](https://learnui.design/) - Confidently design beautiful user interfaces for any app or site. **PAID** / Video course
+- [Learn UI Design / SITE](https://learnui.design/) - Confidently design beautiful user interfaces for any app or site. **PAID** / Video course
 
 - [Evaluating User Interfaces / COURSERA](https://www.coursera.org/learn/ui-testing) - In this course you will learn and practice several techniques for user interface evaluation. **FREEMIUM** / Video course
 
 - [User Interface (UI) Personalization / edX](https://www.edx.org/es/course/user-interface-ui-personalization-mitx-hdm1-2ax) - In this course, you will learn the fundamentals of user interface personalization in the context of web sites and web applications. **FREEMIUM** / Video course
 
-- [Free UI Design Short Course](http://info.careerfoundry.com/ui-design/ui-short-course-emails) - Get a glimpse of the research and planning going on behind the scenes with this free, 7-day, UI Design Short Course. **FREE** / Email course
+- [Free UI Design Short Course / CAREERFOUNDRY](http://info.careerfoundry.com/ui-design/ui-short-course-emails) - Get a glimpse of the research and planning going on behind the scenes with this free, 7-day, UI Design Short Course. **FREE** / Email course
 
 - [UI Design / DESIGN LAB](http://trydesignlab.com/ui-design-course/) - Dive into the theory and techniques you need to make beautiful web and mobile interfaces in this 4-week online course. **PAID** / Video course
 
