@@ -343,6 +343,8 @@
 
 - [Atomic](https://atomic.io/) - Advanced interactive design features like logic, data, and variables, into the hands of every designer.
 
+- [Affinity Designer](https://affinity.serif.com/en-us/ui-design-software/) - he perfect tool for UI and UX design
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
