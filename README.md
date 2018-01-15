@@ -451,7 +451,7 @@
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
-## Environments
+### Environments
 
 - [Storybook](https://storybook.js.org/) - The UI Development Environment You'll ♥️ to use.
 
@@ -459,8 +459,8 @@
 
 - [Source](https://sourcejs.com/) -  Living Style Guide Platform. The most advanced tool for documenting, testing and managing UI components achieving productive team work.
 
-## Resources
 
+## Resources
 
 ### Inspiration
 
