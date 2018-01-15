@@ -314,6 +314,7 @@
 
 ### Websites & Blogs
 
+- [UX Booth](http://www.uxbooth.com/) - Publication by and for the user experience community.
 
 ## Tools
 
