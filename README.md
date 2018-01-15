@@ -33,6 +33,7 @@
     	- [Usability Testing](#usability-testing)
     	- [Card Sorting](#card-sorting)
     - [Newsletters](#newsletters)
+    - [Websites & Blogs](#websites--blogs)
 - [Tools](#tools)
 	- [Pen & Paper](#pen--paper) ;)
 	- [Design Apps](#design-apps)
@@ -310,6 +311,8 @@
 - [HeyDesigner](https://heydesigner.com/) - Daily curated newsfeed for product people, UXers, PMs and frontend developers.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
+
+### Websites & Blogs
 
 
 ## Tools
