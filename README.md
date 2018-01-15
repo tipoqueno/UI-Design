@@ -484,6 +484,8 @@
 
 - [UIDB](https://uidb.io/) - Find live examples of any UI.
 
+- [Inspired UI](http://inspired-ui.com/) - Mobile Apps Design Patterns [iPhone]
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
