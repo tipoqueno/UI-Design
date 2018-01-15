@@ -182,6 +182,8 @@
 
 - [Interaction Design Foundation](https://www.interaction-design.org/community) -  Community-based career development: 449 groups in 88 countries.
 
+- [User Experience Professionals Association](http://uxpa.org/) - UXPA International supports people who research, design, and evaluate the user experience (UX) of products and services.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
