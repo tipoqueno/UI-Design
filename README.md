@@ -416,6 +416,8 @@
 
 - [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 
+- [Lit](https://ajusa.github.io/lit/) - World's smallest responsive css framework.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
