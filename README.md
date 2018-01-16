@@ -226,6 +226,8 @@
 
 - [Researching Design Systems](https://medium.com/startup-grind/researching-design-systems-2e462d28bc70) - Physical and digital highlighter in hand and pixels, I pored over some of more popular design systems out there to see what insights I could glean. _By Dan Mall_.
 
+- [Designing UI Guidelines](https://wiredcraft.com/blog/designing-ui-guidelines/) - User interface is easy to make a mess out of. It doesn’t matter if you are a guru or just dabbling, inconsistencies in the design will most probably arise.
+
 #### Examples
 
 - [Material Design](https://material.io/) - A unified system that combines theory, resources, and tools for crafting digital experiences, by Google.
