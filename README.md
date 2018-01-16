@@ -478,7 +478,7 @@
 
 ### Inspiration
 
-- [Ui Parade](https://www.uiparade.com/) - User Interface Design Inspiration.
+- [Ui Parade](http://www.uiparade.com/) - User Interface Design Inspiration.
 
 - [CollectUI](https://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.
 
