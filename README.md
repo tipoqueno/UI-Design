@@ -323,6 +323,9 @@
 
 - [UX Booth](http://www.uxbooth.com/) - Publication by and for the user experience community.
 
+- [Boxes and Arrows](http://boxesandarrows.com/category/interfaces/) - Devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business.
+
+
 ## Tools
 
 ### Pen & Paper
