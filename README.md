@@ -132,7 +132,9 @@
 
 - [How to Learn UI Design From Zero-Basis](https://www.mockplus.com/blog/post/how-to-learn-ui-design-from-zerobasis) - Can someone become an UI designer when he does not major in UI?Definitely yes.
 
-- [Component-Based Design](https://hackernoon.com/component-based-design-168811e0c4ab) - Improving your Design-Development Process for Building UI
+- [Component-Based Design](https://hackernoon.com/component-based-design-168811e0c4ab) - Improving your Design-Development Process for Building UI.
+
+- [Learn UI Design by Copying](https://www.uxbeginner.com/learn-ui-design-by-copying/) - It’s not a surprise that we have negative associations with copying, even to this day. But what about copying as a way to learn?
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
