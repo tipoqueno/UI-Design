@@ -458,6 +458,8 @@
 
 - [Frend](https://frend.co/) - A collection of accessible, modern front-end components.
 
+- [Amaze UI](http://amazeui.org/)- A mobile-first and modular front-end framework.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
