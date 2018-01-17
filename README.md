@@ -321,6 +321,7 @@
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
+
 ### Websites & Blogs
 
 - [UX Booth](http://www.uxbooth.com/) - Publication by and for the user experience community.
@@ -332,7 +333,9 @@
 
 ### Pen & Paper
 
-- [Interaction design starts on paper](https://onepotprojects.com/interaction-design-starts-on-paper-a2baa91acc45) - Create beautiful UI through better wireframes
+- [Interaction design starts on paper](https://onepotprojects.com/interaction-design-starts-on-paper-a2baa91acc45) - Create beautiful UI through better wireframes.
+
+- [UI Sketching – How to Make It Right and Why You Should Do This in All Projects](http://uxmisfit.com/2017/11/12/ui-sketching-how-to-make-it-right-and-why-you-should-do-this-in-all-projects/) - UI Sketching is, of course, kind of drawing on a paper… but it is not a usual drawing – its purpose is to reveal the result of problem-solving thinking.
 
 
 ### Design Apps
