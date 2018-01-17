@@ -540,6 +540,8 @@
 
 - [We Love SVG: Free SVG Files](https://icons8.com/welovesvg) - An open source library that allows embedding icons from any icon library.
 
+- [Iconstore](https://iconstore.co/) - Free Icons by First-Class Designers
+
 #### Fonts
 
 - [Fontsquirrel](https://www.fontsquirrel.com/) - All things fonts, font-face, and webfonts. FREE, hand-picked, high-quality, commercial-use fonts, even if that means we send you elsewhere to get them.
