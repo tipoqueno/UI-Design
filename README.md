@@ -78,6 +78,8 @@
 
 - [Principles of Calm Technology](https://calmtech.com/) - When we design products, we aim to choose the best position for user interface components, placing the most important ones in the most accessible places on the screen.
 
+- [Laws of UX](https://lawsofux.com/) - Laws of UX is a collection of the key maxims that designers must consider when building user interfaces.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
