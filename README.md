@@ -52,6 +52,7 @@
 - [Resources](#resources)
     - [Inspiration](#inspiration)
     - [Freebies](#freebies)
+    	- [Colors](#colors)
     	- [Icons](#icons)
     	- [Fonts](#fonts)
 
@@ -529,6 +530,8 @@
 - [Juntoo.co](http://blog.juntoo.co/44-awesome-resources-for-sketch/) - 44 Awesome Resources for Sketch.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
+
+#### Colors
 
 #### Icons
 
