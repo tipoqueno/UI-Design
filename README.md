@@ -248,6 +248,8 @@
 
 - [Mozilla Style Guide](http://www.mozilla.org/en-US/styleguide/) - This guide serves as a resource to bring together all our brands and to help define their visual and stylistic elements.
 
+- [Clarity Design System](https://vmware.github.io/clarity/) - UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
