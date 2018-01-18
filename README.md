@@ -141,6 +141,8 @@
 
 - [Learn UI Design by Copying](https://www.uxbeginner.com/learn-ui-design-by-copying/) - It’s not a surprise that we have negative associations with copying, even to this day. But what about copying as a way to learn?
 
+- [How to Design UI for Cross Platform Devices](http://blog.nudgerewards.com/hitech/how-to-design-ui-for-cross-platform-devices) - In the case study, authors state that three different scenarios present themselves when developing UIs for multiple platforms.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
