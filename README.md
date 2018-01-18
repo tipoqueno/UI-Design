@@ -414,6 +414,8 @@
 
 - [JavaScript, from MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - A prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Learn how to program in JavaScript with guides and tutorials.
 
+- [Bestof.JS](https://bestof.js.org/) - Check out the most popular open-source projects and the latest trends about the web platform and node.js.
+
 
 ### Libraries & Frameworks
 
