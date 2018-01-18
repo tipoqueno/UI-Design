@@ -185,6 +185,8 @@
 
 - [The Discipline of Content Strategy](http://alistapart.com/article/thedisciplineofcontentstrategy) - An A List Apart Article, by Kristina Halvorson.
 
+- [Content Strategy Basics](https://www.usability.gov/what-and-why/content-strategy.html) - Ensuring that you have useful and usable content, that is well structured, and easily found is vital to improving the user experience of a website.
+
 ### Communities
 
 - [Information Architecture Institute](https://www.iainstitute.org/) - A nonprofit organization of volunteers with a singular focus: to make the world's information clearer and easier to use by improving how people learn, practice and teach Information Architecture (IA).
