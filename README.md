@@ -191,6 +191,8 @@
 
 - [Content Strategy Basics](https://www.usability.gov/what-and-why/content-strategy.html) - Ensuring that you have useful and usable content, that is well structured, and easily found is vital to improving the user experience of a website.
 
+- [Does a Developer Need Content Strategy?](https://www.nerdery.com/blog/does-a-developer-need-content-strategy) - We can save ourselves and our clients a world of frustration by agreeing on an action plan for a website’s current development, ongoing maintenance, and future expansion.
+
 ### Communities
 
 - [Information Architecture Institute](https://www.iainstitute.org/) - A nonprofit organization of volunteers with a singular focus: to make the world's information clearer and easier to use by improving how people learn, practice and teach Information Architecture (IA).
