@@ -259,6 +259,8 @@
 
 - [Clarity Design System](https://vmware.github.io/clarity/) - UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences.
 
+- [Photon Design System](https://design.firefox.com/photon/welcome.html) - Launch recognizable, enjoyable Firefox products and features faster.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
