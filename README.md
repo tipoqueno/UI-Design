@@ -159,6 +159,8 @@
 
 - [A Model for Understanding Information Architecture: Ontology, Taxonomy and Choreography](https://www.youtube.com/watch?v=6oaxdq7uqIY) - Understanding where the Information Architecture part is.
 
+- [Information Architecture. Basics for Designers](https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20) - Article is devoted to the essence of information architecture and presents the basic points every designer should know.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 #### Interaction Design
