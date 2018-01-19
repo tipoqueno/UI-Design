@@ -295,6 +295,8 @@
 
 - [User Interface Elements](https://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html) - Whether they are aware of it or not, users have become familiar with elements acting in a certain way, so choosing to adopt those elements when appropriate will help with task completion, efficiency, and satisfaction.
 
+- [Inclusive Components](https://inclusive-components.design/) - A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
