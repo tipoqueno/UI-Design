@@ -228,7 +228,7 @@
 
 - [Interaction Design Fundamentals / LYNDA](https://www.lynda.com/Dreamweaver-CS5-training/Interaction-Design-Fundamentals/82822-2.html) - In this course, author David Hogue sheds light on designing effective interactions for any digital medium. **FREEMIUM** / Video course
 
-- [Screens Essentials for UI Designers / UDEMY](https://www.udemy.com/screens-essentials-for-ui-designers/) - You will find plenty of tutorials and articles on how screen design essentials work with explanation of terms and key techniques. **FREEMIUM** / Video course
+- [Screens Essentials for UI Designers / UDEMY](https://www.udemy.com/screens-essentials-for-ui-designers/) - You will find plenty of tutorials and articles on how screen design essentials work with explanation of terms and key techniques. **FREE** / Video course
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
