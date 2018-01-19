@@ -233,6 +233,8 @@
 
 - [Screens Essentials for UI Designers / UDEMY](https://www.udemy.com/screens-essentials-for-ui-designers/) - You will find plenty of tutorials and articles on how screen design essentials work with explanation of terms and key techniques. **FREE** / Video course
 
+- [The 90-Minute UX Audit + UI Redesign](https://learn.givegoodux.com/p/90-minute-web-portal-audit-and-redesign) - The faster, simpler way to quickly identify critical UX issues — just by looking at the UI. **PAID** / Video course
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
