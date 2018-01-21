@@ -419,6 +419,8 @@
 
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) - Outlining the fundamentals, this guide works through all common elements of front-end design and development.
 
+- [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/) - A book that helps people start making websites.
+
 #### CSS
 
 - [CSS, from MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS) - While HTML is used to define the structure and semantics of your content, CSS is used to style it and lay it out.
