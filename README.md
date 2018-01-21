@@ -178,6 +178,8 @@
 
 - [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
 
+- [Tips on Designing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/designing) - This page introduces some basic considerations to help you get started making your user interface design and visual design more accessible to people with disabilities.
+
 #### Research
 
 - [Complete Beginner’s Guide to UX Research](http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/) - Readers will get a head start on how to use these design research techniques in their work, and improve experiences for all users.
