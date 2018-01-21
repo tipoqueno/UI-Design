@@ -415,6 +415,8 @@
 
 - [HTML Reference](http://htmlreference.io/) - Free guide to HTML. It features all elements and attributes.
 
+- [HTML Fundamentals](https://www.sololearn.com/Course/HTML/) - SoloLearn interactive HTML tutorial is comprised of carefully selected content, quizzes, and checkpoints to ensure that you learn as much as possible, while also having as much fun as possible.
+
 #### CSS
 
 - [CSS, from MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS) - While HTML is used to define the structure and semantics of your content, CSS is used to style it and lay it out.
