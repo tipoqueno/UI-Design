@@ -417,6 +417,8 @@
 
 - [HTML Fundamentals](https://www.sololearn.com/Course/HTML/) - SoloLearn interactive HTML tutorial is comprised of carefully selected content, quizzes, and checkpoints to ensure that you learn as much as possible, while also having as much fun as possible.
 
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) - Outlining the fundamentals, this guide works through all common elements of front-end design and development.
+
 #### CSS
 
 - [CSS, from MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS) - While HTML is used to define the structure and semantics of your content, CSS is used to style it and lay it out.
