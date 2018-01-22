@@ -580,6 +580,8 @@
 
 - [Color Hunt](http://www.colorhunt.co/) - The collection serves thousands of different hand-picked color palettes and is growing everyday.
 
+- [Coolors](https://coolors.co/) - The super fast color schemes generator!
+
 #### Icons
 
 - [Font Awesome](https://fontawesome.com/) - Get vector icons and social logos on your website with Font Awesome, the web’s most popular icon set and toolkit.
