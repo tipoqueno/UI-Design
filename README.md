@@ -196,6 +196,8 @@
 
 - [Does a Developer Need Content Strategy?](https://www.nerdery.com/blog/does-a-developer-need-content-strategy) - We can save ourselves and our clients a world of frustration by agreeing on an action plan for a website’s current development, ongoing maintenance, and future expansion.
 
+- [Complete Beginner’s Guide to Content Strategy](http://www.uxbooth.com/articles/complete-beginners-guide-to-content-strategy/) - Content strategy plans for valuable, findable, meaningful content.
+
 ### Communities
 
 - [Information Architecture Institute](https://www.iainstitute.org/) - A nonprofit organization of volunteers with a singular focus: to make the world's information clearer and easier to use by improving how people learn, practice and teach Information Architecture (IA).
