@@ -15,13 +15,13 @@
     - [Books](#books)
     - [Articles](#articles)
     - [Disciplines](#disciplines)
-    - [Communities](#communities)
     - [Courses](#courses)
     - [Design Systems](#design-systems)
     - [Patterns](#patterns)
     - [Techniques](#techniques)
     - [Newsletters](#newsletters)
     - [Websites & Blogs](#websites--blogs)
+    - [Communities](#communities)
 - [Tools](#tools)
 	- [Pen & Paper](#pen--paper) ;)
 	- [Design Apps](#design-apps)
@@ -175,20 +175,6 @@
 
 #### Visual Design
 
-### Communities
-
-- [Information Architecture Institute](https://www.iainstitute.org/) - A nonprofit organization of volunteers with a singular focus: to make the world's information clearer and easier to use by improving how people learn, practice and teach Information Architecture (IA).
-
-- [Interaction Design Association](https://ixda.org/) - Global community of people who share an interest in interaction design.
-
-- [Hacking UI](http://hackingui.com/) - Community for designers, developers and creative entrepreneurs with a passion.
-
-- [Interaction Design Foundation](https://www.interaction-design.org/community) -  Community-based career development: 449 groups in 88 countries.
-
-- [User Experience Professionals Association](http://uxpa.org/) - UXPA International supports people who research, design, and evaluate the user experience (UX) of products and services.
-
-<sup>[back to table of contents](#table-of-contents)</sup>
-
 
 ### Courses
 
@@ -330,6 +316,23 @@
 - [UX Booth](http://www.uxbooth.com/) - Publication by and for the user experience community.
 
 - [Boxes and Arrows](http://boxesandarrows.com/category/interfaces/) - Devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business.
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
+### Communities
+
+- [Information Architecture Institute](https://www.iainstitute.org/) - A nonprofit organization of volunteers with a singular focus: to make the world's information clearer and easier to use by improving how people learn, practice and teach Information Architecture (IA).
+
+- [Interaction Design Association](https://ixda.org/) - Global community of people who share an interest in interaction design.
+
+- [Hacking UI](http://hackingui.com/) - Community for designers, developers and creative entrepreneurs with a passion.
+
+- [Interaction Design Foundation](https://www.interaction-design.org/community) -  Community-based career development: 449 groups in 88 countries.
+
+- [User Experience Professionals Association](http://uxpa.org/) - UXPA International supports people who research, design, and evaluate the user experience (UX) of products and services.
+
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ## Tools
