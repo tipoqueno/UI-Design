@@ -177,7 +177,7 @@
 
 - [Complete Beginner’s Guide to Universal Design](http://www.uxbooth.com/articles/complete-beginners-guide-to-universal-design/) - While a good design is usable by people of all ages and technical adeptness, a truly universal design works for users with varying physical abilities.
 
-- [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier.
+- [The A11Y Project](https://a11yproject.com/) - Community-driven effort to make web accessibility easier.
 
 - [Tips on Designing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/designing) - This page introduces some basic considerations to help you get started making your user interface design and visual design more accessible to people with disabilities.
 
@@ -191,7 +191,7 @@
 
 #### Content Strategy
 
-- [The Discipline of Content Strategy](http://alistapart.com/article/thedisciplineofcontentstrategy) - An A List Apart Article, by Kristina Halvorson.
+- [The Discipline of Content Strategy](http://alistapart.com/article/thedisciplineofcontentstrategy) - A List Apart article, by Kristina Halvorson.
 
 - [Content Strategy Basics](https://www.usability.gov/what-and-why/content-strategy.html) - Ensuring that you have useful and usable content, that is well structured, and easily found is vital to improving the user experience of a website.
 
@@ -205,9 +205,9 @@
 
 - [Information Architecture Institute](https://www.iainstitute.org/) - A nonprofit organization of volunteers with a singular focus: to make the world's information clearer and easier to use by improving how people learn, practice and teach Information Architecture (IA).
 
-- [Interaction Design Association](https://ixda.org/) - A global community of people who share an interest in interaction design.
+- [Interaction Design Association](https://ixda.org/) - Global community of people who share an interest in interaction design.
 
-- [Hacking UI](http://hackingui.com/) - A community for designers, developers and creative entrepreneurs with a passion.
+- [Hacking UI](http://hackingui.com/) - Community for designers, developers and creative entrepreneurs with a passion.
 
 - [Interaction Design Foundation](https://www.interaction-design.org/community) -  Community-based career development: 449 groups in 88 countries.
 
@@ -220,15 +220,15 @@
 
 - [User Interface Design Specialization / COURSERA](https://coursera.org/specializations/user-interface-design) - Design Better User Interfaces. Learn to create effective and usable interfaces for a range of products and devices. **FREEMIUM** / Video course
 
-- [Intro to the Design of Everyday Things / UDACITY](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) - This course provides a summary of key concepts from the first two chapters of The Design of Everyday Things by Don Norman. **FREE** / Video course
+- [Intro to the Design of Everyday Things / UDACITY](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) - Summary of key concepts from the first two chapters of The Design of Everyday Things by Don Norman. **FREE** / Video course
 
-- [Hack Design / SITE](https://hackdesign.org/) - An easy to follow design course for people who do amazing things. **FREE** / Email course
+- [Hack Design / SITE](https://hackdesign.org/) - Easy to follow design course for people who do amazing things. **FREE** / Email course
 
 - [Learn UI Design / SITE](https://learnui.design/) - Confidently design beautiful user interfaces for any app or site. **PAID** / Video course
 
 - [Evaluating User Interfaces / COURSERA](https://www.coursera.org/learn/ui-testing) - In this course you will learn and practice several techniques for user interface evaluation. **FREEMIUM** / Video course
 
-- [User Interface (UI) Personalization / edX](https://www.edx.org/es/course/user-interface-ui-personalization-mitx-hdm1-2ax) - In this course, you will learn the fundamentals of user interface personalization in the context of web sites and web applications. **FREEMIUM** / Video course
+- [User Interface (UI) Personalization / edX](https://www.edx.org/es/course/user-interface-ui-personalization-mitx-hdm1-2ax) - You will learn the fundamentals of user interface personalization in the context of web sites and web applications. **FREEMIUM** / Video course
 
 - [Free UI Design Short Course / CAREERFOUNDRY](http://info.careerfoundry.com/ui-design/ui-short-course-emails) - Get a glimpse of the research and planning going on behind the scenes with this free, 7-day, UI Design Short Course. **FREE** / Email course
 
@@ -236,7 +236,7 @@
 
 - [Interaction Design Specialization / COURSERA](https://www.coursera.org/specializations/interaction-design) - Learn how to design great user experiences. Design that delights users. **FREEMIUM** / Video course
 
-- [Interaction Design Fundamentals / LYNDA](https://www.lynda.com/Dreamweaver-CS5-training/Interaction-Design-Fundamentals/82822-2.html) - In this course, author David Hogue sheds light on designing effective interactions for any digital medium. **FREEMIUM** / Video course
+- [Interaction Design Fundamentals / LYNDA](https://www.lynda.com/Dreamweaver-CS5-training/Interaction-Design-Fundamentals/82822-2.html) - Author David Hogue sheds light on designing effective interactions for any digital medium. **FREEMIUM** / Video course
 
 - [Screens Essentials for UI Designers / UDEMY](https://www.udemy.com/screens-essentials-for-ui-designers/) - You will find plenty of tutorials and articles on how screen design essentials work with explanation of terms and key techniques. **FREE** / Video course
 
@@ -255,11 +255,11 @@
 
 #### Examples
 
-- [Material Design](https://material.io/) - A unified system that combines theory, resources, and tools for crafting digital experiences, by Google.
+- [Material Design](https://material.io/) - Unified system that combines theory, resources, and tools for crafting digital experiences, by Google.
 
-- [Fluent Design System](https://fluent.microsoft.com/) - An eloquent design system for a complex world, by Microsoft.
+- [Fluent Design System](https://fluent.microsoft.com/) - Eloquent design system for a complex world, by Microsoft.
 
-- [Ant Design](https://ant.design/) - A UI Design Language, by Ant Financial.
+- [Ant Design](https://ant.design/) - UI Design Language, by Ant Financial.
 
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/) - Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
 
@@ -284,7 +284,7 @@
 
 - [UI-Patterns.com](http://ui-patterns.com/) - User Interface Design patterns are recurring solutions that solve common design problems.
 
-- [Mobile Patterns](http://www.mobile-patterns.com/) - A library of iOS and Android screenshots for designers and developers to reference.
+- [Mobile Patterns](http://www.mobile-patterns.com/) - Library of iOS and Android screenshots for designers and developers to reference.
 
 - [Pttrns](https://pttrns.com/) - The mother of all design resources.
 
@@ -292,7 +292,7 @@
 
 - [UI Garage](https://uigarage.net/) - All the latest UI Design Inspiration and UI Patterns collected in one place.
 
-- [Welie](http://www.welie.com/index.php) - A Pattern Library for Interaction Design.
+- [Welie](http://www.welie.com/index.php) - Pattern Library for Interaction Design.
 
 - [Dark Patterns](https://darkpatterns.org/) -  The purpose of this site is to spread awareness and to shame companies that use tricks in websites and apps that make you buy or sign up for things that you didn't mean to.
 
@@ -302,7 +302,7 @@
 
 - [User Interface Elements](https://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html) - Whether they are aware of it or not, users have become familiar with elements acting in a certain way, so choosing to adopt those elements when appropriate will help with task completion, efficiency, and satisfaction.
 
-- [Inclusive Components](https://inclusive-components.design/) - A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.
+- [Inclusive Components](https://inclusive-components.design/) - Blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -340,11 +340,11 @@
 
 - [Sidebar.io](https://sidebar.io/) - The five best design links, every day, by Sacha Greif.
 
-- [Web Tools Weekly](https://webtoolsweekly.com/) - A front-end development and web design newsletter with a focus on tools.
+- [Web Tools Weekly](https://webtoolsweekly.com/) - Front-end development and web design newsletter with a focus on tools.
 
 - [The UI Animation Newsletter](http://uianimationnewsletter.com/) - Weekly web animation resources & inspiration, by Val Head.
 
-- [UX Design Weekly](http://uxdesignweekly.com/) - A hand picked list of the best user experience design links every week.
+- [UX Design Weekly](http://uxdesignweekly.com/) - Hand picked list of the best user experience design links every week.
 
 - [HeyDesigner](https://heydesigner.com/) - Daily curated newsfeed for product people, UXers, PMs and frontend developers.
 
@@ -424,7 +424,7 @@
 
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) - Outlining the fundamentals, this guide works through all common elements of front-end design and development.
 
-- [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/) - A book that helps people start making websites.
+- [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/) - Book that helps people start making websites.
 
 #### CSS
 
@@ -436,14 +436,14 @@
 
 - [CSS Grid Guide](https://cssgrid.cc/css-grid-guide.html) - The CoffeeCup Guide to liberating layout through CSS Grid.
 
-- [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet/) - A reference for CSS goodness.
+- [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet/) - Reference for CSS goodness.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 #### Javascript
 
-- [JavaScript, from MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - A prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Learn how to program in JavaScript with guides and tutorials.
+- [JavaScript, from MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Learn how to program in JavaScript with guides and tutorials.
 
 - [Bestof.JS](https://bestof.js.org/) - Check out the most popular open-source projects and the latest trends about the web platform and node.js.
 
@@ -462,7 +462,7 @@
 
 - [Basscss](http://basscss.com/) - Lightning Fast Modular CSS with No Side Effects.
 
-- [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
+- [Skeleton](http://getskeleton.com/) - Dead simple, responsive boilerplate.
 
 - [Lit](https://ajusa.github.io/lit/) - World's smallest responsive css framework.
 
@@ -491,15 +491,15 @@
 
 - [Framework7](http://framework7.io/) - Full featured HTML framework for building iOS & Android apps.
 
-- [Element](http://element.eleme.io/) - A Vue 2.0 based component library for developers, designers and product managers.
+- [Element](http://element.eleme.io/) - Vue 2.0 based component library for developers, designers and product managers.
 
-- [Shoelace](https://shoelace.style/) - A back to the basics CSS starter kit. For when you don’t need the whole boot.
+- [Shoelace](https://shoelace.style/) - Back to the basics CSS starter kit. For when you don’t need the whole boot.
 
-- [AT UIKIT](https://at-ui.github.io/at-ui/#/en) - A Lightweight and Modular Front-End UI Library.
+- [AT UIKIT](https://at-ui.github.io/at-ui/#/en) - Lightweight and Modular Front-End UI Library.
 
-- [Frend](https://frend.co/) - A collection of accessible, modern front-end components.
+- [Frend](https://frend.co/) - Collection of accessible, modern front-end components.
 
-- [Amaze UI](http://amazeui.org/) - A mobile-first and modular front-end framework.
+- [Amaze UI](http://amazeui.org/) - Mobile-first and modular front-end framework.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -508,7 +508,7 @@
 
 - [Vue.js](https://vuejs.org/) - The Progressive JavaScript Framework
 
-- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+- [React](https://reactjs.org/) - JavaScript library for building user interfaces
 
 - [Angular](https://angular.io/) - One framework. Mobile & desktop.
 
@@ -523,7 +523,7 @@
 
 - [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide.
 
-- [Source](https://sourcejs.com/) -  Living Style Guide Platform. The most advanced tool for documenting, testing and managing UI components achieving productive team work.
+- [Source](https://sourcejs.com/) - Living Style Guide Platform. The most advanced tool for documenting, testing and managing UI components achieving productive team work.
 
 
 ## Resources
@@ -593,9 +593,9 @@
 
 - [Bytesize](https://danklammer.com/bytesize-icons/) - Tiny style-controlled SVG iconset.
 
-- [Heroicons UI](https://github.com/sschoger/heroicons-ui) - A set of 104 free premium SVG icons.
+- [Heroicons UI](https://github.com/sschoger/heroicons-ui) - Set of 104 free premium SVG icons.
 
-- [We Love SVG: Free SVG Files](https://icons8.com/welovesvg) - An open source library that allows embedding icons from any icon library.
+- [We Love SVG: Free SVG Files](https://icons8.com/welovesvg) - Open source library that allows embedding icons from any icon library.
 
 - [Iconstore](https://iconstore.co/) - Free Icons by First-Class Designers
 
