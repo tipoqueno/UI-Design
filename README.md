@@ -3,8 +3,6 @@
 
 > A curated list of awesome things related to User Interface Design
 
-:white_check_mark: New resources **every week!**
-
 * Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>Cmd</kbd> + <kbd>F</kbd> to search faster :wink:
 * If you find it useful, help me spread the word :metal:
 * If you want to contribute or be aware --> Fork, Star or Watch :raised_hands:
