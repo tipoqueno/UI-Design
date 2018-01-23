@@ -8,7 +8,7 @@
 * If you want to contribute or be aware --> Fork, Star or Watch :raised_hands:
 
 
-## Table of Contents
+## Contents
 
 - [Learn](#learn)
     - [Principles](#principles)
