@@ -122,6 +122,8 @@
 
 - [How to Design UI for Cross Platform Devices](http://blog.nudgerewards.com/hitech/how-to-design-ui-for-cross-platform-devices) - In the case study, authors state that three different scenarios present themselves when developing UIs for multiple platforms.
 
+- [The King vs. Pawn Game of UI Design](http://alistapart.com/article/the-king-vs-pawn-game-of-ui-design) - Try stripping out all the elements that you think you should be including already, and just mess around with the simplest players on the board. Get a feel for the fundamentals, and go from there.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
