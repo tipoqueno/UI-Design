@@ -124,6 +124,8 @@
 
 - [The King vs. Pawn Game of UI Design](http://alistapart.com/article/the-king-vs-pawn-game-of-ui-design) - Try stripping out all the elements that you think you should be including already, and just mess around with the simplest players on the board. Get a feel for the fundamentals, and go from there.
 
+- [Designing a VUI – Voice User Interface](https://www.toptal.com/designers/ui/designing-a-vui) - VUIs are helping to improve all kinds of different user experiences, and some believe that voice will power 50% of all searches by 2020.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
