@@ -506,6 +506,8 @@
 
 - [Source](https://sourcejs.com/) - Living Style Guide Platform. The most advanced tool for documenting, testing and managing UI components achieving productive team work.
 
+- [VUEDS](https://vueds.com/) - An open source tool for building Design Systems with Vue.js.
+
 
 ## Resources
 
