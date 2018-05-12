@@ -447,6 +447,8 @@
 
 - [Lit](https://ajusa.github.io/lit/) - World's smallest responsive css framework.
 
+- [Tailwind CSS](https://tailwindcss.com/) - A Utility-First CSS Framework for Rapid UI Development.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
