@@ -57,6 +57,8 @@
 
 - [Laws of UX](https://lawsofux.com/) - Laws of UX is a collection of the key maxims that designers must consider when building user interfaces.
 
+- [Shneiderman’s Eight Golden Rules Will Help You Design Better Interfaces](https://www.interaction-design.org/literature/article/shneiderman-s-eight-golden-rules-will-help-you-design-better-interfaces) - Apple, Google and Microsoft are among some of the highly successful companies whose well-designed products reflect Shneiderman’s rules.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
