@@ -59,7 +59,7 @@
 
 - [Shneiderman’s Eight Golden Rules Will Help You Design Better Interfaces](https://www.interaction-design.org/literature/article/shneiderman-s-eight-golden-rules-will-help-you-design-better-interfaces) - Apple, Google and Microsoft are among some of the highly successful companies whose well-designed products reflect Shneiderman’s rules.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 ### Books
@@ -101,7 +101,7 @@
 | <img src="https://images.gr-assets.com/books/1288723572l/8881346.jpg" alt="Simple and Usable Web, Mobile, and Interaction Design" width="100%"> | **[Simple and Usable Web, Mobile, and Interaction Design](https://www.goodreads.com/book/show/8881346)** - This is the first book on the topic of simplicity aimed specifically at interaction designers. It shows how to drill down and simplify user experiences when designing digital tools and applications. | Giles Colborne |
 | <img src="https://images.gr-assets.com/books/1379351795l/17236175.jpg" alt="Just Enough Research" width="100%"> | **[Just Enough Research](https://www.goodreads.com/book/show/17236175-just-enough-research)** - Learn how to discover your competitive advantages, spot your own blind spots and biases, identify small changes with huge potential impact, and why you should never, ever hold a focus group. | Erika Hall |
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 ### Articles
@@ -128,7 +128,7 @@
 
 - [Designing a VUI – Voice User Interface](https://www.toptal.com/designers/ui/designing-a-vui) - VUIs are helping to improve all kinds of different user experiences, and some believe that voice will power 50% of all searches by 2020.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 ### Disciplines
@@ -143,7 +143,7 @@
 
 - [Information Architecture. Basics for Designers](https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20) - Article is devoted to the essence of information architecture and presents the basic points every designer should know.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 #### Interaction Design
 
@@ -208,7 +208,7 @@
 
 - [The 90-Minute UX Audit + UI Redesign](https://learn.givegoodux.com/p/90-minute-web-portal-audit-and-redesign) - The faster, simpler way to quickly identify critical UX issues — just by looking at the UI. **PAID** / Video course
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 ### Design Systems
@@ -239,7 +239,7 @@
 
 - [Photon Design System](https://design.firefox.com/photon/welcome.html) - Launch recognizable, enjoyable Firefox products and features faster.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 ### Patterns
@@ -270,7 +270,7 @@
 
 - [Inclusive Components](https://inclusive-components.design/) - Blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 ### Techniques
@@ -299,7 +299,7 @@
 
 - [Card Sorting: A Definitive Guide](http://boxesandarrows.com/card-sorting-a-definitive-guide/) - Card sorting is a great, reliable, inexpensive method for finding patterns in how users would expect to find content or functionality.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 ### Newsletters
@@ -314,7 +314,7 @@
 
 - [HeyDesigner](https://heydesigner.com/) - Daily curated newsfeed for product people, UXers, PMs and frontend developers.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 ### Websites & Blogs
@@ -323,7 +323,7 @@
 
 - [Boxes and Arrows](http://boxesandarrows.com/category/interfaces/) - Devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 ### Communities
@@ -338,7 +338,7 @@
 
 - [User Experience Professionals Association](http://uxpa.org/) - UXPA International supports people who research, design, and evaluate the user experience (UX) of products and services.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 ## Tools
@@ -376,7 +376,7 @@
 
 - [Affinity Designer](https://affinity.serif.com/en-us/ui-design-software/) - The perfect tool for UI and UX design
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 ### Testing Apps
@@ -393,7 +393,7 @@
 
 - [Testing with Xcode](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/09-ui_testing.html) - UI testing gives you the ability to find and interact with the UI of your app in order to validate the properties and state of the UI elements.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 ### Languages
 
@@ -421,7 +421,7 @@
 
 - [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet/) - Reference for CSS goodness.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 #### Javascript
@@ -451,7 +451,7 @@
 
 - [Tailwind CSS](https://tailwindcss.com/) - A Utility-First CSS Framework for Rapid UI Development.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 #### CSS + Javascript
@@ -486,7 +486,7 @@
 
 - [Amaze UI](http://amazeui.org/) - Mobile-first and modular front-end framework.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 #### Javascript Only
@@ -499,7 +499,7 @@
 
 - [Moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 ### Environments
@@ -541,7 +541,7 @@
 
 - [Calltoidea](http://calltoidea.com/) - Light up your imagination!
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 
 ### Freebies
@@ -566,7 +566,7 @@
 
 - [Juntoo.co](http://blog.juntoo.co/44-awesome-resources-for-sketch/) - 44 Awesome Resources for Sketch.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
 
 #### Colors
 
@@ -592,4 +592,4 @@
 
 - [Google Fonts](https://fonts.google.com/) - Making the web more beautiful, fast, and open through great typography.
 
-<sup>[back to table of contents](#table-of-contents)</sup>
+<sup>[back to table of contents](#user-content-contents)</sup>
