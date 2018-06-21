@@ -451,6 +451,8 @@
 
 - [Tailwind CSS](https://tailwindcss.com/) - A Utility-First CSS Framework for Rapid UI Development.
 
+- [Picnic CSS](https://picnicss.com/) - Lightweight and beautiful library.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
