@@ -568,6 +568,8 @@
 
 - [Juntoo.co](http://blog.juntoo.co/44-awesome-resources-for-sketch/) - 44 Awesome Resources for Sketch.
 
+- [UICloud](http://ui-cloud.com/) - The largest user interface design database in the world.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 #### Colors
