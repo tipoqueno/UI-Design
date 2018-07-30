@@ -1,7 +1,7 @@
-![Awesome UI Banner](awesome-ui-banner.svg)
+![UI Banner](ui-banner.svg)
 # UI Design [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
-> A curated list of useful things related to User Interface Design
+> A curated list of useful resources related to User Interface Design
 
 * Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>Cmd</kbd> + <kbd>F</kbd> to search faster :wink:
 * If you find it useful, help me spread the word :metal:
