@@ -421,6 +421,8 @@
 
 - [CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet/) - Reference for CSS goodness.
 
+- [CSS Animations](https://css-animations.io/) - Hello, animation!
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
