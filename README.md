@@ -590,7 +590,10 @@
 
 - [We Love SVG: Free SVG Files](https://icons8.com/welovesvg) - Open source library that allows embedding icons from any icon library.
 
-- [Iconstore](https://iconstore.co/) - Free Icons by First-Class Designers
+- [Iconstore](https://iconstore.co/) - Free Icons by First-Class Designers.
+
+- [SimpleSVG](https://simplesvg.com/) - Modern replacement for glyph fonts. One library, thousands of icons.
+
 
 #### Fonts
 
