@@ -604,4 +604,6 @@
 
 ### APIs
 
+- [UINames](https://uinames.com/) - Simple tool to generate fake names for use in designs and mockups.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
