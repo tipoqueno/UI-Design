@@ -576,6 +576,8 @@
 
 - [UICloud](http://ui-cloud.com/) - The largest user interface design database in the world.
 
+- [Android Nougat Free GUI](https://materialdesignkit.com/android-gui/) - Based on system and native app's screens from Android 7.0 Nougat.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 #### Colors
