@@ -586,6 +586,8 @@
 
 - [Coolors](https://coolors.co/) - The super fast color schemes generator!
 
+- [Picular](https://picular.co/) - Google, but for colors.
+
 #### Icons
 
 - [Font Awesome](https://fontawesome.com/) - Get vector icons and social logos on your website with Font Awesome, the web’s most popular icon set and toolkit.
