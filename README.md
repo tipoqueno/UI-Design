@@ -25,6 +25,7 @@
 - [Tools](#tools)
 	- [Pen & Paper](#pen--paper) ;)
 	- [Design Apps](#design-apps)
+	- [Complementary tools](#complementary-tools)
 	- [Testing Apps](#testing-apps)
 	- [Languages](#languages)
 	- [Libraries & Frameworks](#libraries--frameworks)
@@ -379,6 +380,9 @@
 - [Affinity Designer](https://affinity.serif.com/en-us/ui-design-software/) - The perfect tool for UI and UX design
 
 <sup>[back to table of contents](#user-content-contents)</sup>
+
+
+### Complementary tools
 
 
 ### Testing Apps
