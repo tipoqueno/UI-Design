@@ -386,6 +386,8 @@
 
 - [Modular Scale](https://www.modularscale.com/) - Tool to help web designers size their type in a more meaningful way.
 
+- [Grid calculator](http://gridcalculator.dk/) - Download your grid as Illustrator, Photoshop or PNG files with a pre-made guides ready to go.
+
 
 ### Testing Apps
 
