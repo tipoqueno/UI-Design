@@ -131,6 +131,8 @@
 
 - [Designing a VUI – Voice User Interface](https://www.toptal.com/designers/ui/designing-a-vui) - VUIs are helping to improve all kinds of different user experiences, and some believe that voice will power 50% of all searches by 2020.
 
+- [Gestalt principles in UI design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965) - How to become a master manipulator of Visual Communication.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
