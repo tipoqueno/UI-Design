@@ -393,7 +393,7 @@
 
 - [Grid calculator](http://gridcalculator.dk/) - Download your grid as Illustrator, Photoshop or PNG files with a pre-made guides ready to go.
 
-- [WebAIM Color Contrast Checker](https://webaim.org/resources/contrastchecker/) - Download your grid as Illustrator, Photoshop or PNG files with a pre-made guides ready to go.
+- [WebAIM Color Contrast Checker](https://webaim.org/resources/contrastchecker/) - Enter a foreground and background color in RGB hexadecimal format or choose a color using the color picker.
 
 
 ### Testing Apps
