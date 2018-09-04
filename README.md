@@ -133,6 +133,9 @@
 
 - [Gestalt principles in UI design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965) - How to become a master manipulator of Visual Communication.
 
+- [Color in UI Design: A (Practical) Framework](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e) - The fundamental skill of coloring interface designs is being able to modify one base color into many different variations.
+
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
