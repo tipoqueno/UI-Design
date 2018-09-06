@@ -227,6 +227,9 @@
 
 - [Designing UI Guidelines](https://wiredcraft.com/blog/designing-ui-guidelines/) - User interface is easy to make a mess out of. It doesn’t matter if you are a guru or just dabbling, inconsistencies in the design will most probably arise.
 
+- [Design System in Figma](https://designcode.io/design-system-figma/) - A design system helps your team build modern products faster and more consistently. This is the starting point of bridging design and development.
+
+
 #### Examples
 
 - [Material Design](https://material.io/) - Unified system that combines theory, resources, and tools for crafting digital experiences, by Google.
@@ -246,6 +249,7 @@
 - [Clarity Design System](https://vmware.github.io/clarity/) - UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences.
 
 - [Photon Design System](https://design.firefox.com/photon/welcome.html) - Launch recognizable, enjoyable Firefox products and features faster.
+
 
 <sup>[back to table of contents](#user-content-contents)</sup>
 
