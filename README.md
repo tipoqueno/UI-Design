@@ -514,6 +514,8 @@
 
 - [Amaze UI](http://amazeui.org/) - Mobile-first and modular front-end framework.
 
+- [Vuesax](https://lusaxweb.github.io/vuesax/) - Frontend Vue components.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
