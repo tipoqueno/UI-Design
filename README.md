@@ -136,6 +136,7 @@
 
 - [Color in UI Design: A (Practical) Framework](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e) - The fundamental skill of coloring interface designs is being able to modify one base color into many different variations.
 
+- [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9) - The main interface animation's principles & rules collected in one place, so that other designers who want to start animating interfaces don’t have to search for additional information.
 
 <sup>[back to table of contents](#user-content-contents)</sup>
 
