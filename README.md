@@ -138,6 +138,8 @@
 
 - [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9) - The main interface animation's principles & rules collected in one place, so that other designers who want to start animating interfaces don’t have to search for additional information.
 
+- [Closing the creative gap](https://hackdesign.org/lessons/56-closing-the-creative-gap) - If you find yourself looking at products and thinking “how the hell do I design something as good as that”, then this is for you.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
