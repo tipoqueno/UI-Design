@@ -610,6 +610,8 @@
 
 - [Android Nougat Free GUI](https://materialdesignkit.com/android-gui/) - Based on system and native app's screens from Android 7.0 Nougat.
 
+- [Figma Freebies](http://figmafreebi.es/) - A collection of design resources for the figma community.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 #### Colors
