@@ -140,6 +140,8 @@
 
 - [Closing the creative gap](https://hackdesign.org/lessons/56-closing-the-creative-gap) - If you find yourself looking at products and thinking “how the hell do I design something as good as that”, then this is for you.
 
+- [10 UI & UX tips for developers building SaaS apps](https://hackernoon.com/10-ui-ux-tips-for-developers-building-saas-apps-a1f3d74fce2b) - Getting a nice UI/UX on a SaaS app can be a real challenge for developers that know how to code, but struggle with design. Here are my tips on getting the spit & shine on your UI.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
