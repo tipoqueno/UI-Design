@@ -223,6 +223,8 @@
 
 - [The 90-Minute UX Audit + UI Redesign](https://learn.givegoodux.com/p/90-minute-web-portal-audit-and-redesign) - The faster, simpler way to quickly identify critical UX issues — just by looking at the UI. **PAID** / Video course
 
+- [Design Rules: Fundamental Principles + Practices for Great UI Design / SKILLSHARE](https://www.skillshare.com/classes/DESIGN-RULES-Fundamental-Principles-Practices-for-Great-UI-Design/739408485) - By the time you finish Design Rules, you'll be able to do much more than create a more beautiful User Interface. Instead, you'll be able to design a UI that truly works for the people who use it. **PAID** / Video course
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
