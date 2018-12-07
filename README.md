@@ -339,6 +339,8 @@
 
 - [UX Notebook](https://www.sarahdoody.com/ux-newsletter/) - The UX Notebook is a UX newsletter curated by [Sarah Doody](https://www.sarahdoody.com).
 
+- [UIRecipes](https://uirecipes.com/) - Learn UI Design in 15 Minutes a Week.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
