@@ -293,6 +293,7 @@
 
 - [MODALZMODALZMODALZ](https://modalzmodalzmodalz.com/) - We use too many damn modals. Let's just not.
 
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
@@ -587,6 +588,9 @@
 - [Calltoidea](http://calltoidea.com/) - Light up your imagination!
 
 - [UI Design Interactions](https://www.uisources.com/interactions) - New apps added every week.
+
+- [Nicely done](http://nicelydone.club/patterns/) - Products & pattern designs inspiration.
+
 
 <sup>[back to table of contents](#user-content-contents)</sup>
 
