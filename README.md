@@ -623,6 +623,8 @@
 
 - [Figma Freebies](http://figmafreebi.es/) - A collection of design resources for the figma community.
 
+- [Interfacer](https://interfacer.xyz/) - Collection of more than 200+ free design resources.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 #### Colors
