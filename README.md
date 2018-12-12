@@ -61,6 +61,8 @@
 
 - [Shneiderman’s Eight Golden Rules Will Help You Design Better Interfaces](https://www.interaction-design.org/literature/article/shneiderman-s-eight-golden-rules-will-help-you-design-better-interfaces) - Apple, Google and Microsoft are among some of the highly successful companies whose well-designed products reflect Shneiderman’s rules.
 
+- [Principles of bot design](https://www.intercom.com/blog/principles-bot-design/) - Despite plenty of excitement it’s still unclear how conversational UIs can be made to work in a practical sense. But opinionated design principles can help us push past the hype, and design something real people will want to use every day, by Intercom.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
