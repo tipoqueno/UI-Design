@@ -344,6 +344,8 @@
 
 - [UIRecipes](https://uirecipes.com/) - Learn UI Design in 15 Minutes a Week.
 
+- [Minimum Viable Designs](https://minimumviabledesigns.com/) - Collection of UX tips to ship applications that customers want to use, curated by Viktor Golias.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
