@@ -63,6 +63,8 @@
 
 - [Principles of bot design](https://www.intercom.com/blog/principles-bot-design/) - Despite plenty of excitement it’s still unclear how conversational UIs can be made to work in a practical sense. But opinionated design principles can help us push past the hype, and design something real people will want to use every day, by Intercom.
 
+- [Heuristic Principles for Mobile Interfaces](https://www.toptal.com/designers/usability/mobile-heuristic-principles) - Search the web for heuristic principles and a long list of slightly varied sets will populate. Here is a curated collection of ten principles that are inspired by human-centered design and usability thought leaders.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
