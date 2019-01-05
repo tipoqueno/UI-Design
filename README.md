@@ -327,6 +327,10 @@
 
 - [Card Sorting: A Definitive Guide](http://boxesandarrows.com/card-sorting-a-definitive-guide/) - Card sorting is a great, reliable, inexpensive method for finding patterns in how users would expect to find content or functionality.
 
+#### Design Libs
+
+- [Design Libs](https://www.designlibs.com/index.html) - Your go-to reference for how to write and use some of the most common design thinking exercises, practices, and methods.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
