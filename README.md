@@ -11,17 +11,17 @@
 ## Contents
 
 - [Learn](#learn)
-    - [Principles](#principles)
-    - [Books](#books)
-    - [Articles](#articles)
-    - [Disciplines](#disciplines)
-    - [Courses](#courses)
-    - [Design Systems](#design-systems)
-    - [Patterns](#patterns)
-    - [Techniques](#techniques)
-    - [Newsletters](#newsletters)
-    - [Websites & Blogs](#websites--blogs)
-    - [Communities](#communities)
+	- [Principles](#principles)
+	- [Books](#books)
+	- [Articles](#articles)
+	- [Disciplines](#disciplines)
+	- [Courses](#courses)
+	- [Design Systems](#design-systems)
+	- [Patterns](#patterns)
+	- [Techniques](#techniques)
+	- [Newsletters](#newsletters)
+	- [Websites & Blogs](#websites--blogs)
+	- [Communities](#communities)
 - [Tools](#tools)
 	- [Pen & Paper](#pen--paper) ;)
 	- [Design Apps](#design-apps)
@@ -31,9 +31,9 @@
 	- [Libraries & Frameworks](#libraries--frameworks)
 	- [Environments](#environments)
 - [Resources](#resources)
-    - [Inspiration](#inspiration)
-    - [Freebies](#freebies)
-    - [APIs](#apis)
+	- [Inspiration](#inspiration)
+	- [Freebies](#freebies)
+	- [APIs](#apis)
 
 
 ## Learn
@@ -228,6 +228,8 @@
 - [The 90-Minute UX Audit + UI Redesign](https://learn.givegoodux.com/p/90-minute-web-portal-audit-and-redesign) - The faster, simpler way to quickly identify critical UX issues — just by looking at the UI. **PAID** / Video course
 
 - [Design Rules: Fundamental Principles + Practices for Great UI Design / SKILLSHARE](https://www.skillshare.com/classes/DESIGN-RULES-Fundamental-Principles-Practices-for-Great-UI-Design/739408485) - By the time you finish Design Rules, you'll be able to do much more than create a more beautiful User Interface. Instead, you'll be able to design a UI that truly works for the people who use it. **PAID** / Video course
+
+- [The 2019 UI Design Crash Course for Beginners / YOUTUBE](https://www.youtube.com/watch?v=_Hp_dI0DzY4) - In this course, Gary Simon will help answer that question and provide you with a blueprint that's going to speed up your transition from producing ugly UI's as a beginner, to producing fantastic UI's. **FREE** / Video course
 
 <sup>[back to table of contents](#user-content-contents)</sup>
 
