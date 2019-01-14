@@ -637,6 +637,8 @@
 
 - [Interfacer](https://interfacer.xyz/) - Collection of more than 200+ free design resources.
 
+- [UI Store](https://www.uistore.design/) - Free Handpicked UI Kits for your real life projects.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 #### Colors
