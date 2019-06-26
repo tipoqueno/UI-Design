@@ -148,6 +148,8 @@
 
 - [10 UI & UX tips for developers building SaaS apps](https://hackernoon.com/10-ui-ux-tips-for-developers-building-saas-apps-a1f3d74fce2b) - Getting a nice UI/UX on a SaaS app can be a real challenge for developers that know how to code, but struggle with design. Here are my tips on getting the spit & shine on your UI.
 
+- [API design is UI design — a way to collaborative handoff](https://uxdesign.cc/api-design-is-ui-design-a-way-to-collaborative-handoff-3d31ff57bb1) - Designing an API is interface design. Understanding how APIs work help us understand what our medium's capability. Having the knowledge to contribute to an API's design can increase the capability of our UX. This can be essential designer knowledge.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
