@@ -65,6 +65,8 @@
 
 - [Heuristic Principles for Mobile Interfaces](https://www.toptal.com/designers/usability/mobile-heuristic-principles) - Search the web for heuristic principles and a long list of slightly varied sets will populate. Here is a curated collection of ten principles that are inspired by human-centered design and usability thought leaders.
 
+- [Principles of Universal Design](http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/) - These principles may be applied to evaluate existing designs, guide the design process and educate both designers and consumers about the characteristics of more usable products and environments.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
