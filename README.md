@@ -29,7 +29,7 @@
 	- [Testing Apps](#testing-apps)
 	- [Languages](#languages)
 	- [Libraries & Frameworks](#libraries--frameworks)
-	- [Environments](#environments)
+	- [Tools](#tools)
 - [Resources](#resources)
 	- [Inspiration](#inspiration)
 	- [Freebies](#freebies)
@@ -131,11 +131,11 @@
 
 - [How to Learn UI Design From Zero-Basis](https://www.mockplus.com/blog/post/how-to-learn-ui-design-from-zerobasis) - Can someone become an UI designer when he does not major in UI?Definitely yes.
 
-- [Component-Based Design](https://hackernoon.com/component-based-design-168811e0c4ab) - Improving your Design-Development Process for Building UI.
+- [Component based design. What even is that?](https://tech.ovoenergy.com/getting-started-with-a-component-based-designsystem/) - The benefits of designing & developing with components in mind. Want to know how to get started with a componentised design system? Read on.
 
 - [Learn UI Design by Copying](https://www.uxbeginner.com/learn-ui-design-by-copying/) - It’s not a surprise that we have negative associations with copying, even to this day. But what about copying as a way to learn?
 
-- [How to Design UI for Cross Platform Devices](http://blog.nudgerewards.com/hitech/how-to-design-ui-for-cross-platform-devices) - In the case study, authors state that three different scenarios present themselves when developing UIs for multiple platforms.
+- [Approaches For Multiplatform UI Design Adaptation: A Case Study](https://www.smashingmagazine.com/2015/09/approaches-for-multiplatform-ui-design-adaptation/) - In the case study, authors state that three different scenarios present themselves when developing UIs for multiple platforms.
 
 - [The King vs. Pawn Game of UI Design](http://alistapart.com/article/the-king-vs-pawn-game-of-ui-design) - Try stripping out all the elements that you think you should be including already, and just mess around with the simplest players on the board. Get a feel for the fundamentals, and go from there.
 
@@ -192,7 +192,7 @@
 
 - [10 User Research Myths and Misconceptions](https://www.uxmatters.com/mt/archives/2015/11/10-user-research-myths-and-misconceptions.php) - There are still many misconceptions about how to gain an understanding of users and their needs.
 
-- [Cultivating Shared Understanding from Collaborative User Research](https://www.uie.com/brainsparks/2015/09/11/erika-hall-cultivating-shared-understanding-from-collaborative-user-research/) - Erika Hall on UIE Brain Sparks.
+- [Cultivating Shared Understanding from Collaborative User Research](https://archive.uie.com/brainsparks/2015/09/11/erika-hall-cultivating-shared-understanding-from-collaborative-user-research/) - Erika Hall on UIE Brain Sparks.
 
 #### Content Strategy
 
@@ -200,7 +200,7 @@
 
 - [Content Strategy Basics](https://www.usability.gov/what-and-why/content-strategy.html) - Ensuring that you have useful and usable content, that is well structured, and easily found is vital to improving the user experience of a website.
 
-- [Does a Developer Need Content Strategy?](https://www.nerdery.com/blog/does-a-developer-need-content-strategy) - We can save ourselves and our clients a world of frustration by agreeing on an action plan for a website’s current development, ongoing maintenance, and future expansion.
+- [Content Strategy for Developers](https://medium.com/talking-microcopy-writing-ux/content-strategy-for-developers-34b635440b91) - If a business was an ocean explorer, then content strategy would be the compass. You can have the best boat, a killer crew and a meticulous map. But without a compass, you won’t know if you’re sailing in the right direction.
 
 - [Complete Beginner’s Guide to Content Strategy](http://www.uxbooth.com/articles/complete-beginners-guide-to-content-strategy/) - Content strategy plans for valuable, findable, meaningful content.
 
@@ -257,13 +257,13 @@
 
 - [Material Design](https://material.io/) - Unified system that combines theory, resources, and tools for crafting digital experiences, by Google.
 
-- [Fluent Design System](https://fluent.microsoft.com/) - Eloquent design system for a complex world, by Microsoft.
+- [Fluent Design System](https://www.microsoft.com/design/fluent/) - It’s a collective approach to creating simplicity and coherence through a shared, open design system across platforms, by Microsoft.
 
 - [Ant Design](https://ant.design/) - UI Design Language, by Ant Financial.
 
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/) - Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
 
-- [IBM Design Language](https://www.ibm.com/design/language/) - Living Language. A shared vocabulary for design.
+- [Carbon Design System](https://www.carbondesignsystem.com/) - Carbon is IBM’s open-source design system for digital products and experiences.
 
 - [Duolingo Design](https://www.duolingo.com/design/) - Brand design and user interfaces of Duolingo.
 
@@ -271,7 +271,7 @@
 
 - [Clarity Design System](https://vmware.github.io/clarity/) - UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences.
 
-- [Photon Design System](https://design.firefox.com/photon/welcome.html) - Launch recognizable, enjoyable Firefox products and features faster.
+- [Photon Design System](https://design.firefox.com/photon/) - Launch recognizable, enjoyable Firefox products and features faster.
 
 
 <sup>[back to table of contents](#user-content-contents)</sup>
@@ -297,7 +297,7 @@
 
 - [Dark Patterns](https://darkpatterns.org/) -  The purpose of this site is to spread awareness and to shame companies that use tricks in websites and apps that make you buy or sign up for things that you didn't mean to.
 
-- [Android Patterns](https://androidpatterns.com/) - Set of interaction patterns that can help you design Android apps.
+- [Android From Scratch: Common UI Design Patterns](https://code.tutsplus.com/tutorials/android-from-scratch-common-ui-design-patterns--cms-26044) - In this tutorial, you learn about a few of these patterns and how they can help your users by creating a great experience when using your app.
 
 - [10 UI Design Patterns You Should Be Paying Attention To](https://www.smashingmagazine.com/2009/06/10-ui-design-patterns-you-should-be-paying-attention-to/) - This article goes over 10 interesting UI design patterns that you can use in your own projects.
 
@@ -356,11 +356,10 @@
 
 - [HeyDesigner](https://heydesigner.com/) - Daily curated newsfeed for product people, UXers, PMs and frontend developers.
 
-- [UX Notebook](https://www.sarahdoody.com/ux-newsletter/) - The UX Notebook is a UX newsletter curated by [Sarah Doody](https://www.sarahdoody.com).
+- [UX Notebook](https://www.sarahdoody.com/ux-newsletter/) - The UX Notebook is a UX newsletter curated by Sarah Doody.
 
 - [UIRecipes](https://uirecipes.com/) - Learn UI Design in 15 Minutes a Week.
 
-- [Minimum Viable Designs](https://minimumviabledesigns.com/) - Collection of UX tips to ship applications that customers want to use, curated by Viktor Golias.
 
 <sup>[back to table of contents](#user-content-contents)</sup>
 
@@ -393,7 +392,7 @@
 
 ### Pen & Paper
 
-- [Interaction design starts on paper](https://onepotprojects.com/interaction-design-starts-on-paper-a2baa91acc45) - Create beautiful UI through better wireframes.
+- [Interaction design starts on paper](https://medium.com/beakerandflint/interaction-design-starts-on-paper-a2baa91acc45) - Create beautiful UI through better wireframes.
 
 - [UI Sketching – How to Make It Right and Why You Should Do This in All Projects](http://uxmisfit.com/2017/11/12/ui-sketching-how-to-make-it-right-and-why-you-should-do-this-in-all-projects/) - UI Sketching is, of course, kind of drawing on a paper… but it is not a usual drawing – its purpose is to reveal the result of problem-solving thinking.
 
@@ -422,7 +421,7 @@
 
 - [Atomic](https://atomic.io/) - Advanced interactive design features like logic, data, and variables, into the hands of every designer.
 
-- [Affinity Designer](https://affinity.serif.com/en-us/ui-design-software/) - The perfect tool for UI and UX design.
+- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software for desktop and iPad.
 
 - [Pencil](http://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.
 
@@ -467,7 +466,7 @@
 
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) - Outlining the fundamentals, this guide works through all common elements of front-end design and development.
 
-- [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/) - Book that helps people start making websites.
+- [The Best HTML and HTML5 Tutorials](https://www.freecodecamp.org/news/best-html-html5-tutorial/) - HyperText Markup Language (HTML) is a markup language used to construct online documents and is the foundation of most websites today.
 
 #### CSS
 
@@ -548,7 +547,7 @@
 
 - [Frend](https://frend.co/) - Collection of accessible, modern front-end components.
 
-- [Amaze UI](http://amazeui.org/) - Mobile-first and modular front-end framework.
+- [Amaze UI](https://amazeui.clouddeep.cn/) - Mobile-first and modular front-end framework.
 
 - [Vuesax](https://lusaxweb.github.io/vuesax/) - Frontend Vue components.
 
@@ -568,15 +567,15 @@
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
-### Environments
+### Tools
 
 - [Storybook](https://storybook.js.org/) - The UI Development Environment You'll ♥️ to use.
 
 - [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide.
 
-- [Source](https://sourcejs.com/) - Living Style Guide Platform. The most advanced tool for documenting, testing and managing UI components achieving productive team work.
-
 - [VUEDS](https://vueds.com/) - An open source tool for building Design Systems with Vue.js.
+
+- [Fractal](https://fractal.build/) - Powerful component libraries & styleguides that fit the way you work. 
 
 
 ## Resources
@@ -591,17 +590,13 @@
 
 - [Inspiration UI](http://inspirationui.com/) - Inspiration UI  is a community that aims to provide the best design resources for those who create for the web.
 
-- [UPlabs - Web](https://www.uplabs.com/posts/c/web/resources/interface) - Hand-picked Web UI Elements.
-
-- [UI Temple](http://www.uitemple.com/) - Curated Collection of the Best Web Page Designs & Inspirations.
+- [UPlabs - Web](https://www.uplabs.com/web) - Hand-picked Web UI Elements.
 
 - [Dribbble](https://dribbble.com/tags/ui) - Show and tell for designers.
 
 - [Little Big Details](http://littlebigdetails.com/) - Curated collection of the finer details of design, updated every day.
 
 - [Little UI Details](https://twitter.com/i/moments/880688233641848832) - Collections of little tips from Steve Schoger to improve your visual design skills with the little details that make a big difference.
-
-- [UIDB](https://uidb.io/) - Find live examples of any UI.
 
 - [Inspired UI](http://inspired-ui.com/) - Mobile Apps Design Patterns [iPhone]
 
@@ -631,11 +626,7 @@
 
 - [UI Space](https://uispace.net/) - Thousand of great freebies. Search for an high quality and Hand-crafted freebie.
 
-- [UI Freebies](https://uifreebies.io/) - Free Design Resources for Sketch. Hand-picked design resources, updated daily.
-
 - [UI8 Freebies](https://www.ui8.net/categories/freebies) - 209 awesome design freebies to get your creative juices flowing.
-
-- [Juntoo.co](http://blog.juntoo.co/44-awesome-resources-for-sketch/) - 44 Awesome Resources for Sketch.
 
 - [UICloud](http://ui-cloud.com/) - The largest user interface design database in the world.
 
