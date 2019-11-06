@@ -206,6 +206,8 @@
 
 #### Visual Design
 
+- [The Building Blocks of Visual Design](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design) - Visual design is about creating and making the general aesthetics of a product consistent.
+
 
 ### Courses
 
