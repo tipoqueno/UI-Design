@@ -239,6 +239,9 @@
 
 - [The 2019 UI Design Crash Course for Beginners / YOUTUBE](https://www.youtube.com/watch?v=_Hp_dI0DzY4) - In this course, Gary Simon will help answer that question and provide you with a blueprint that's going to speed up your transition from producing ugly UI's as a beginner, to producing fantastic UI's. **FREE** / Video course
 
+- [Learn UI Design Fundamentals / SCRIMBA](https://scrimba.com/g/gdesign) - This course will teach you to build browser-based user interfaces that both look good and work well. All is done with HTML and CSS, so no clunky design tools needed. **FREE** / Video course
+
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
