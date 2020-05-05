@@ -264,7 +264,7 @@
 
 - [Ant Design](https://ant.design/) - UI Design Language, by Ant Financial.
 
-- [Apple Human Interface Guidelines](https://developer.apple.com/design/) - Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
+- [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
 
 - [Carbon Design System](https://www.carbondesignsystem.com/) - Carbon is IBM’s open-source design system for digital products and experiences.
 
