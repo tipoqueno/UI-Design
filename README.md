@@ -67,6 +67,8 @@
 
 - [Principles of Universal Design](http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/) - These principles may be applied to evaluate existing designs, guide the design process and educate both designers and consumers about the characteristics of more usable products and environments.
 
+- [The 4 Golden Rules of UI Design](https://xd.adobe.com/ideas/process/ui-design/4-golden-rules-ui-design/) - To increase the chances of success when creating user interfaces, most designers follow interface design principles. Interface design principles represent high-level concepts that are used to guide software design. In this article, I’ll share a few fundamental principles.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
