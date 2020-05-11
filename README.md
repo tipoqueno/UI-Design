@@ -657,6 +657,8 @@
 
 - [ColorBox](https://www.colorbox.io/) - Created by Lyft Design, Colorbox is a color tool to produce color sets.
 
+- [ShadeSwash](https://shadeswash.netlify.app/) - Quickly generate shades of any color.
+
 #### Icons
 
 - [Font Awesome](https://fontawesome.com/) - Get vector icons and social logos on your website with Font Awesome, the web’s most popular icon set and toolkit.
