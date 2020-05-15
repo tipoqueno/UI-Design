@@ -543,7 +543,7 @@
 
 - [Bootstrap](http://getbootstrap.com/) - Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
 
-- [Foundation for Sites](https://foundation.zurb.com/sites) - It includes a wide range of modular and flexible components that are easily styled. These versatile and lightweight building blocks make it easy to bring your ideas to life.
+- [Foundation](https://get.foundation/) - The most advanced responsive front-end framework in the world.
 
 - [Materialize](http://materializecss.com/) - Modern responsive CSS framework based on Material Design by Google.
 
