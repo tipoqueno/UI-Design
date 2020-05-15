@@ -532,6 +532,8 @@
 
 - [Moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript.
 
+- [Reef](https://reefjs.com/) - A lightweight library for creating reactive, state-based components and UI.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
