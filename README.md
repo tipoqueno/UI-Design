@@ -565,8 +565,6 @@
 
 - [Frend](https://frend.co/) - Collection of accessible, modern front-end components.
 
-- [Amaze UI](https://amazeui.clouddeep.cn/) - Mobile-first and modular front-end framework.
-
 - [Vuesax](https://lusaxweb.github.io/vuesax/) - Frontend Vue components.
 
 - [Onsen](https://onsen.io/) - The most beautiful and efficient way to develop HTML5 hybrid and mobile web apps.
