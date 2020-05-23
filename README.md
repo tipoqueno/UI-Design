@@ -42,31 +42,18 @@
 ### Principles
 
 - :star: [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter.
-
 - [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) - They are called "heuristics" because they are broad rules of thumb and not specific usability guidelines, by Jakob Nielsen.
-
 - [First Principles of Interaction Design (Revised & Expanded)](http://asktog.com/atc/principles-of-interaction-design/) - The following principles are fundamental to the design and implementation of effective interfaces, whether for traditional GUI environments, the web, mobile devices, wearables, or Internet-connected smart devices, by Bruce Tognazzini.
-
 - [Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - 6 principles by Constantine/Lockwood.
-
 - [Classroom: Five Essential Principles of Interaction Design](https://tv.adobe.com/show/classroom-five-essential-principles-of-interaction-design/) - Interactive Experience Design Expert David Hogue focuses on five key principles of interaction design.
-
 - [20 Guiding Principles for Experience Design](https://principles.design/examples/20-guiding-principles-for-experience-design) - A set of guiding principles for experience design — which anyone who touches a product used by humans should strive to follow, by Whitney Hess.
-
 - [Dieter Rams' ten principles for good design](https://www.vitsoe.com/us/about/good-design) - These design principles from the legendary product designer Dieter Rams has influenced not only the iconic product designs from Braun in the 1960s, but also the design of Apple's products.
-
 - [Principles of Calm Technology](https://calmtech.com/) - When we design products, we aim to choose the best position for user interface components, placing the most important ones in the most accessible places on the screen.
-
 - [Laws of UX](https://lawsofux.com/) - Laws of UX is a collection of the key maxims that designers must consider when building user interfaces.
-
 - [Shneiderman’s Eight Golden Rules Will Help You Design Better Interfaces](https://www.interaction-design.org/literature/article/shneiderman-s-eight-golden-rules-will-help-you-design-better-interfaces) - Apple, Google and Microsoft are among some of the highly successful companies whose well-designed products reflect Shneiderman’s rules.
-
 - [Principles of bot design](https://www.intercom.com/blog/principles-bot-design/) - Despite plenty of excitement it’s still unclear how conversational UIs can be made to work in a practical sense. But opinionated design principles can help us push past the hype, and design something real people will want to use every day, by Intercom.
-
 - [Heuristic Principles for Mobile Interfaces](https://www.toptal.com/designers/usability/mobile-heuristic-principles) - Search the web for heuristic principles and a long list of slightly varied sets will populate. Here is a curated collection of ten principles that are inspired by human-centered design and usability thought leaders.
-
 - [Principles of Universal Design](http://universaldesign.ie/What-is-Universal-Design/The-7-Principles/) - These principles may be applied to evaluate existing designs, guide the design process and educate both designers and consumers about the characteristics of more usable products and environments.
-
 - [The 4 Golden Rules of UI Design](https://xd.adobe.com/ideas/process/ui-design/4-golden-rules-ui-design/) - To increase the chances of success when creating user interfaces, most designers follow interface design principles. Interface design principles represent high-level concepts that are used to guide software design. In this article, I’ll share a few fundamental principles.
 
 <sup>[back to table of contents](#user-content-contents)</sup>
@@ -215,33 +202,19 @@
 ### Courses
 
 - [User Interface Design Specialization / COURSERA](https://coursera.org/specializations/user-interface-design) - Design Better User Interfaces. Learn to create effective and usable interfaces for a range of products and devices. **FREEMIUM** / Video course
-
 - [Intro to the Design of Everyday Things / UDACITY](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) - Summary of key concepts from the first two chapters of The Design of Everyday Things by Don Norman. **FREE** / Video course
-
 - [Hack Design / SITE](https://hackdesign.org/) - Easy to follow design course for people who do amazing things. **FREE** / Email course
-
 - [Learn UI Design / SITE](https://learnui.design/) - Confidently design beautiful user interfaces for any app or site. **PAID** / Video course
-
 - [Evaluating User Interfaces / COURSERA](https://www.coursera.org/learn/ui-testing) - In this course you will learn and practice several techniques for user interface evaluation. **FREEMIUM** / Video course
-
 - [User Interface (UI) Personalization / edX](https://www.edx.org/es/course/user-interface-ui-personalization-mitx-hdm1-2ax) - You will learn the fundamentals of user interface personalization in the context of web sites and web applications. **FREEMIUM** / Video course
-
 - [Free UI Design Short Course / CAREERFOUNDRY](http://info.careerfoundry.com/ui-design/ui-short-course-emails) - Get a glimpse of the research and planning going on behind the scenes with this free, 7-day, UI Design Short Course. **FREE** / Email course
-
 - [UI Design / DESIGN LAB](http://trydesignlab.com/ui-design-course/) - Dive into the theory and techniques you need to make beautiful web and mobile interfaces in this 4-week online course. **PAID** / Video course
-
 - [Interaction Design Specialization / COURSERA](https://www.coursera.org/specializations/interaction-design) - Learn how to design great user experiences. Design that delights users. **FREEMIUM** / Video course
-
 - [Interaction Design Fundamentals / LYNDA](https://www.lynda.com/Dreamweaver-CS5-training/Interaction-Design-Fundamentals/82822-2.html) - Author David Hogue sheds light on designing effective interactions for any digital medium. **FREEMIUM** / Video course
-
 - [Screens Essentials for UI Designers / UDEMY](https://www.udemy.com/screens-essentials-for-ui-designers/) - You will find plenty of tutorials and articles on how screen design essentials work with explanation of terms and key techniques. **FREE** / Video course
-
 - [The 90-Minute UX Audit + UI Redesign](https://learn.givegoodux.com/p/90-minute-web-portal-audit-and-redesign) - The faster, simpler way to quickly identify critical UX issues — just by looking at the UI. **PAID** / Video course
-
 - [Design Rules: Fundamental Principles + Practices for Great UI Design / SKILLSHARE](https://www.skillshare.com/classes/DESIGN-RULES-Fundamental-Principles-Practices-for-Great-UI-Design/739408485) - By the time you finish Design Rules, you'll be able to do much more than create a more beautiful User Interface. Instead, you'll be able to design a UI that truly works for the people who use it. **PAID** / Video course
-
 - [The 2019 UI Design Crash Course for Beginners / YOUTUBE](https://www.youtube.com/watch?v=_Hp_dI0DzY4) - In this course, Gary Simon will help answer that question and provide you with a blueprint that's going to speed up your transition from producing ugly UI's as a beginner, to producing fantastic UI's. **FREE** / Video course
-
 - [Learn UI Design Fundamentals / SCRIMBA](https://scrimba.com/g/gdesign) - This course will teach you to build browser-based user interfaces that both look good and work well. All is done with HTML and CSS, so no clunky design tools needed. **FREE** / Video course
 
 
@@ -494,9 +467,7 @@
 #### Javascript
 
 - [JavaScript, from MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Learn how to program in JavaScript with guides and tutorials.
-
 - [Bestof.JS](https://bestof.js.org/) - Check out the most popular open-source projects and the latest trends about the web platform and node.js.
-
 - [FreeCodeCamp](https://www.freecodecamp.org/map) - Learn to code for free.
 
 
@@ -505,20 +476,14 @@
 #### CSS Only
 
 - [Pure.css](https://purecss.io/) - Set of small, responsive CSS modules that you can use in every web project.
-
 - [Milligram](https://milligram.io/) - Minimalist CSS framework.
-
 - [Bulma](https://bulma.io/) - Modern CSS framework based on Flexbox.
-
 - [Basscss](http://basscss.com/) - Lightning Fast Modular CSS with No Side Effects.
-
 - [Skeleton](http://getskeleton.com/) - Dead simple, responsive boilerplate.
-
 - [Lit](https://ajusa.github.io/lit/) - World's smallest responsive css framework.
-
 - [Tailwind CSS](https://tailwindcss.com/) - A Utility-First CSS Framework for Rapid UI Development.
-
 - [Picnic CSS](https://picnicss.com/) - Lightweight and beautiful library.
+- [Animate.css](https://animate.style/) - Just-add-water CSS animations.
 
 <sup>[back to table of contents](#user-content-contents)</sup>
 
@@ -541,35 +506,20 @@
 #### CSS + Javascript
 
 - [Semantic UI](https://semantic-ui.com/) - User Interface is the language of the web.
-
 - [UIkit](https://getuikit.com/) - Lightweight and modular front-end framework for developing fast and powerful web interfaces.
-
 - [Bootstrap](http://getbootstrap.com/) - Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
-
 - [Foundation](https://get.foundation/) - The most advanced responsive front-end framework in the world.
-
 - [Materialize](http://materializecss.com/) - Modern responsive CSS framework based on Material Design by Google.
-
 - [Metro UI CSS](https://metroui.org.ua/) - The front-end framework for developing projects on the web in Windows Metro Style
-
 - [Office UI Fabric](https://developer.microsoft.com/en-us/fabric) - The official front-end framework for building experiences that fit seamlessly into Office and Office 365.
-
 - [HTML5 Boilerplate](https://html5boilerplate.com/) - The web’s most popular front-end template
-
 - [Material-UI](https://material-ui-next.com/) - React components that implement Google's Material Design.
-
 - [Framework7](http://framework7.io/) - Full featured HTML framework for building iOS & Android apps.
-
 - [Element](http://element.eleme.io/) - Vue 2.0 based component library for developers, designers and product managers.
-
 - [Shoelace](https://shoelace.style/) - Back to the basics CSS starter kit. For when you don’t need the whole boot.
-
 - [AT UIKIT](https://at-ui.github.io/at-ui/#/en) - Lightweight and Modular Front-End UI Library.
-
 - [Frend](https://frend.co/) - Collection of accessible, modern front-end components.
-
 - [Vuesax](https://lusaxweb.github.io/vuesax/) - Frontend Vue components.
-
 - [Onsen](https://onsen.io/) - The most beautiful and efficient way to develop HTML5 hybrid and mobile web apps.
 
 <sup>[back to table of contents](#user-content-contents)</sup>
