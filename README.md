@@ -663,15 +663,10 @@
 #### Icons
 
 - [Font Awesome](https://fontawesome.com/) - Get vector icons and social logos on your website with Font Awesome, the web’s most popular icon set and toolkit.
-
 - [Bytesize](https://danklammer.com/bytesize-icons/) - Tiny style-controlled SVG iconset.
-
 - [Heroicons UI](https://github.com/sschoger/heroicons-ui) - Set of 104 free premium SVG icons.
-
 - [We Love SVG: Free SVG Files](https://icons8.com/welovesvg) - Open source library that allows embedding icons from any icon library.
-
 - [Iconstore](https://iconstore.co/) - Free Icons by First-Class Designers.
-
 - [SimpleSVG](https://simplesvg.com/) - Modern replacement for glyph fonts. One library, thousands of icons.
 
 #### Fonts
@@ -684,7 +679,7 @@
 ### APIs
 
 - [Unsplash](https://unsplash.com/developers) - A modern JSON API that surfaces all of the info you'll need to build any experience for your users.
-
 - [DataFakeGenerator](http://www.datafakegenerator.com/) - Useful tool in the creation of data for use cases.
+- [Public APIs](https://github.com/n0shake/Public-APIs) - A public list of APIs from round the web.
 
 <sup>[back to table of contents](#user-content-contents)</sup>
