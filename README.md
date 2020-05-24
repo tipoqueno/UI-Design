@@ -404,7 +404,6 @@
 
 - [Pencil](http://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.
 
-
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
@@ -630,6 +629,7 @@
 
 - [Unsplash](https://unsplash.com/developers) - A modern JSON API that surfaces all of the info you'll need to build any experience for your users.
 - [DataFakeGenerator](http://www.datafakegenerator.com/) - Useful tool in the creation of data for use cases.
+- [Random User](https://randomuser.me/) - A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
 - [Public APIs](https://github.com/n0shake/Public-APIs) - A public list of APIs from round the web.
 
 <sup>[back to table of contents](#user-content-contents)</sup>
