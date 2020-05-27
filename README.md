@@ -216,7 +216,7 @@
 - [Design Rules: Fundamental Principles + Practices for Great UI Design / SKILLSHARE](https://www.skillshare.com/classes/DESIGN-RULES-Fundamental-Principles-Practices-for-Great-UI-Design/739408485) - By the time you finish Design Rules, you'll be able to do much more than create a more beautiful User Interface. Instead, you'll be able to design a UI that truly works for the people who use it. **PAID** / Video course
 - [The 2019 UI Design Crash Course for Beginners / YOUTUBE](https://www.youtube.com/watch?v=_Hp_dI0DzY4) - In this course, Gary Simon will help answer that question and provide you with a blueprint that's going to speed up your transition from producing ugly UI's as a beginner, to producing fantastic UI's. **FREE** / Video course
 - [Learn UI Design Fundamentals / SCRIMBA](https://scrimba.com/g/gdesign) - This course will teach you to build browser-based user interfaces that both look good and work well. All is done with HTML and CSS, so no clunky design tools needed. **FREE** / Video course
-
+- [DesignAcademy / SITE](https://www.designacademy.io/free-course/) - Learn the basics of design in just 6 days. **FREE** / Email course
 
 <sup>[back to table of contents](#user-content-contents)</sup>
 
