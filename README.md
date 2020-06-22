@@ -326,18 +326,13 @@
 ### Newsletters
 
 - [Sidebar.io](https://sidebar.io/) - The five best design links, every day, by Sacha Greif.
-
 - [Web Tools Weekly](https://webtoolsweekly.com/) - Front-end development and web design newsletter with a focus on tools.
-
 - [The UI Animation Newsletter](http://uianimationnewsletter.com/) - Weekly web animation resources & inspiration, by Val Head.
-
 - [UX Design Weekly](http://uxdesignweekly.com/) - Hand picked list of the best user experience design links every week.
-
 - [HeyDesigner](https://heydesigner.com/) - Daily curated newsfeed for product people, UXers, PMs and frontend developers.
-
 - [UX Notebook](https://www.sarahdoody.com/ux-newsletter/) - The UX Notebook is a UX newsletter curated by Sarah Doody.
-
 - [UIRecipes](https://uirecipes.com/) - Learn UI Design in 15 Minutes a Week.
+- [UI Design Daily](https://uidesigndaily.com/) - Weekly FREE UI resources straight to your inbox.
 
 
 <sup>[back to table of contents](#user-content-contents)</sup>
@@ -570,30 +565,19 @@
 ### Freebies
 
 - [Freeui.design](https://freeui.design/) - Free UI Design for Designers.
-
 - [UIGradients](https://uigradients.com/) - Beautiful colour gradients for design and code.
-
 - [FreebiesUI](http://freebiesui.com/) - FreebiesUI is an ever-growing collection of quality UI resources designed by talented creatives who choose to share their work for free with the rest of the community.
-
 - [Freebie Supply](https://freebiesupply.com/) - Free, high quality design resources for Photoshop, Sketch, Illustrator, Adobe XD and Figma.
-
 - [XD Guru](https://www.xdguru.com/) - The biggest collection of free & premium resources for Adobe XD.
-
 - [Sketch App Sources](https://www.sketchappsources.com/) - We curate hundreds of icons and UI kits for web and mobile to help you design, prototype, learn, and ideate faster.
-
 - [UI Space](https://uispace.net/) - Thousand of great freebies. Search for an high quality and Hand-crafted freebie.
-
 - [UI8 Freebies](https://www.ui8.net/categories/freebies) - 209 awesome design freebies to get your creative juices flowing.
-
 - [UICloud](http://ui-cloud.com/) - The largest user interface design database in the world.
-
 - [Android Nougat Free GUI](https://materialdesignkit.com/android-gui/) - Based on system and native app's screens from Android 7.0 Nougat.
-
 - [Figma Freebies](http://figmafreebi.es/) - A collection of design resources for the figma community.
-
 - [Interfacer](https://interfacer.xyz/) - Collection of more than 200+ free design resources.
-
 - [UI Store](https://www.uistore.design/) - Free Handpicked UI Kits for your real life projects.
+- [UI Design Daily](https://uidesigndaily.com/) - 1000+ open-source UI designs.
 
 <sup>[back to table of contents](#user-content-contents)</sup>
 
