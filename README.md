@@ -41,7 +41,7 @@
 
 ### Principles
 
-- :star: [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) - 19 Principles by Joshua Porter.
+- :star: [Principles of User Interface Design](https://principles.design/examples/principles-of-user-interface-design) - 19 Principles by Joshua Porter.
 
 - [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) - They are called "heuristics" because they are broad rules of thumb and not specific usability guidelines, by Jakob Nielsen.
 
@@ -590,7 +590,7 @@
 
 - [VUEDS](https://vueds.com/) - An open source tool for building Design Systems with Vue.js.
 
-- [Fractal](https://fractal.build/) - Powerful component libraries & styleguides that fit the way you work. 
+- [Fractal](https://fractal.build/) - Powerful component libraries & styleguides that fit the way you work.
 
 
 ## Resources
