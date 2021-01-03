@@ -49,8 +49,6 @@
 
 - [Principles of user interface design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design) - 6 principles by Constantine/Lockwood.
 
-- [Classroom: Five Essential Principles of Interaction Design](https://tv.adobe.com/show/classroom-five-essential-principles-of-interaction-design/) - Interactive Experience Design Expert David Hogue focuses on five key principles of interaction design.
-
 - [20 Guiding Principles for Experience Design](https://principles.design/examples/20-guiding-principles-for-experience-design) - A set of guiding principles for experience design — which anyone who touches a product used by humans should strive to follow, by Whitney Hess.
 
 - [Dieter Rams' ten principles for good design](https://www.vitsoe.com/us/about/good-design) - These design principles from the legendary product designer Dieter Rams has influenced not only the iconic product designs from Braun in the 1960s, but also the design of Apple's products.
@@ -258,7 +256,7 @@
 
 - [Designing UI Guidelines](https://wiredcraft.com/blog/designing-ui-guidelines/) - User interface is easy to make a mess out of. It doesn’t matter if you are a guru or just dabbling, inconsistencies in the design will most probably arise.
 
-- [Design System in Figma](https://designcode.io/design-system-figma/) - A design system helps your team build modern products faster and more consistently. This is the starting point of bridging design and development.
+- [Design System in Figma](https://designcode.io/figma/) - A design system helps your team build modern products faster and more consistently. This is the starting point of bridging design and development.
 
 
 #### Examples
@@ -299,11 +297,7 @@
 
 - [Pttrns](https://pttrns.com/) - The mother of all design resources.
 
-- [Patterntap](https://patterntap.com/patterntap) - Interface patterns to inspire your next design project.
-
 - [UI Garage](https://uigarage.net/) - All the latest UI Design Inspiration and UI Patterns collected in one place.
-
-- [Welie](http://www.welie.com/index.php) - Pattern Library for Interaction Design.
 
 - [Dark Patterns](https://darkpatterns.org/) -  The purpose of this site is to spread awareness and to shame companies that use tricks in websites and apps that make you buy or sign up for things that you didn't mean to.
 
@@ -565,7 +559,7 @@
 
 - [HTML5 Boilerplate](https://html5boilerplate.com/) - The web’s most popular front-end template
 
-- [Material-UI](https://material-ui-next.com/) - React components that implement Google's Material Design.
+- [Material-UI](https://material-ui.com/) - React components that implement Google's Material Design.
 
 - [Framework7](http://framework7.io/) - Full featured HTML framework for building iOS & Android apps.
 
