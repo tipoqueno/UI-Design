@@ -527,6 +527,8 @@
 
 - [Animate.css](https://animate.style/) - Just-add-water CSS animations.
 
+- [Chota](https://jenil.github.io/chota/) - A micro (~3kb) CSS framework.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
