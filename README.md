@@ -251,12 +251,10 @@
 ### Design Systems
 
 - [A comprehensive guide to design systems](https://www.invisionapp.com/blog/guide-to-design-systems/) - Let’s dig into the fundamentals of design systems, plan how you can build and implement one in your organization, and explore several examples of organizations that are using design systems to drive success.
-
 - [Researching Design Systems](https://medium.com/startup-grind/researching-design-systems-2e462d28bc70) - Physical and digital highlighter in hand and pixels, I pored over some of more popular design systems out there to see what insights I could glean. _By Dan Mall_.
-
 - [Designing UI Guidelines](https://wiredcraft.com/blog/designing-ui-guidelines/) - User interface is easy to make a mess out of. It doesn’t matter if you are a guru or just dabbling, inconsistencies in the design will most probably arise.
-
 - [Design System in Figma](https://designcode.io/figma/) - A design system helps your team build modern products faster and more consistently. This is the starting point of bridging design and development.
+- [Design System Repo](https://designsystemsrepo.com/) - A frequently updated collection of Design System examples, articles, tools and talks.
 
 
 #### Examples
