@@ -6,7 +6,7 @@
 * Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>Cmd</kbd> + <kbd>F</kbd> to search faster :wink:
 * If you find it useful, help me spread the word :metal:
 * If you want to contribute or be aware --> Fork, Star or Watch :raised_hands:
-* If you like: <a href="https://www.buymeacoffee.com/tipoqueno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="35" width="151"></a>
+* If you like: <a href="https://www.buymeacoffee.com/tipoqueno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" style="vertical-align:middle" alt="Buy Me A Coffee" height="32" width="138"></a>
 
 
 ## Contents
