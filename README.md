@@ -650,6 +650,8 @@
 
 - [UI Design Daily](https://uidesigndaily.com/) - 1000+ open-source UI designs.
 
+- [Design Gradients](https://www.designgradients.com/) - The free platform of 48 linear gradients curated by designers.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 #### Colors
