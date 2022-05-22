@@ -652,6 +652,9 @@
 
 - [Design Gradients](https://www.designgradients.com/) - The free platform of 48 linear gradients curated by designers.
 
+- [Reshot](https://www.reshot.com/) - Free Icons, Illustrations & Photos [no attribution]
+
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 #### Colors
