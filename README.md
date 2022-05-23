@@ -310,6 +310,8 @@
 
 - [MODALZMODALZMODALZ](https://modalzmodalzmodalz.com/) - We use too many damn modals. Let's just not.
 
+- [The Component Gallery](https://component.gallery/) - Collection of interface components from real-world design systems.
+
 
 <sup>[back to table of contents](#user-content-contents)</sup>
 
