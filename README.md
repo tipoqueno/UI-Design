@@ -432,6 +432,8 @@
 
 - [Pencil](http://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.
 
+- [Visily](https://www.visily.ai/) - Simple wireframing and mockup tool powered by AI and built for non-designers.
+
 <sup>[back to table of contents](#user-content-contents)</sup>
 
 
