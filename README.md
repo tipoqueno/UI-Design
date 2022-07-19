@@ -596,8 +596,6 @@
 
 ### Inspiration
 
-- [Ui Parade](http://www.uiparade.com/) - User Interface Design Inspiration.
-
 - [CollectUI](https://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.
 
 - [UI Movement](https://uimovement.com/) - UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs.
