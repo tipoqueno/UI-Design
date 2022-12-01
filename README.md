@@ -673,6 +673,8 @@
 
 - [Poolors](https://poolors.com) - Color combos most used by designers.
 
+- [Branition Colors](https://branition.com/colors) - Hand-curated collection of color palettes best fitted for branding.
+
 #### Icons
 
 - [Font Awesome](https://fontawesome.com/) - Get vector icons and social logos on your website with Font Awesome, the web’s most popular icon set and toolkit.
